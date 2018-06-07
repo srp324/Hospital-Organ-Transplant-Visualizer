@@ -17,7 +17,8 @@ function getData() {
         url: "./getData",
         dataType: "text",
         success: function (msg) { //On Success
-            console.log(msg)
+            var json = JSON.parse(msg)
+            console.log(json);
         },
         error: function (jgXHR, textStatus, errorThrown) { //On Error
             alert("Error: " + textStatus + " " + errorThrown);
