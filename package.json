@@ -1,0 +1,24 @@
+{
+  "name": "organ-transplant-results",
+  "version": "1.0.0",
+  "description": "A Neo4j graph database containing organ transplant centers data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srp324/organ-transplant-results.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srp324/organ-transplant-results/issues"
+  },
+  "homepage": "https://github.com/srp324/organ-transplant-results#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
