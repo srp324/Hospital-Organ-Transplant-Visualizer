@@ -12,6 +12,7 @@ app.listen(8080, function(){
 
 app.get('/getData', function (req, res) {
     request({
+        //TODO: Make URL Dynamic
         uri: "https://www.srtr.org/transplant-centers/?&organ=kidney&recipientType=adult&sort=rating&page=1/",
     }, function (error, response, body) {
         var $ = cheerio.load(body);
@@ -22,8 +23,8 @@ app.get('/getData', function (req, res) {
             hospitals[i] = { 
                 name: $('.searchResults-name h5').eq(i).text(),
                 volume: $('.searchResults-transplantVolume-hd').eq(i).text(),
-                rate: $('.searchResults-transplantRate-hd').eq(i).text()
-                //TODO: recipient type
+                rate: $('.searchResults-transplantRate-hd').eq(i).text(),
+                type: "adult"
             }
         });
 
