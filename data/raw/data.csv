@@ -1,1520 +1,1520 @@
-name,volume,rate,organ,type
-Piedmont Hospital,139,10.8,kidney,adult
-Yale New Haven Hospital,135,13.5,kidney,adult
-University of Mississippi Medical Center,130,22.2,kidney,adult
-University of Utah Medical Center,124,42.1,kidney,adult
-Mercy Health Saint Mary's,124,35.0,kidney,adult
-University of Illinois Medical Center,121,14.4,kidney,adult
-The Nebraska Medical Center,120,57.6,kidney,adult
-Methodist University Hospital,119,17.2,kidney,adult
-Henry Ford Hospital,118,21.3,kidney,adult
-Stanford Health Care,117,6.1,kidney,adult
-Medical University of South Carolina,223,24.5,kidney,adult
-Houston Methodist Hospital,223,14.5,kidney,adult
-Georgetown University Medical Center,217,22.4,kidney,adult
-Mount Sinai Medical Center,217,13.0,kidney,adult
-University of Pittsburgh Medical Center,215,21.6,kidney,adult
-Cedars-Sinai Medical Center,215,17.1,kidney,adult
-New York-Presbyterian Hospital/Weill Cornell Medical Center,199,15.2,kidney,adult
-Johns Hopkins Hospital,193,16.4,kidney,adult
-Indiana University Health,189,21.7,kidney,adult
-Hospital of the University of Pennsylvania,188,17.1,kidney,adult
-University of California San Francisco Medical Center,344,6.5,kidney,adult
-Saint Barnabas Medical Center,297,20.2,kidney,adult
-Mayo Clinic Hospital,285,33.2,kidney,adult
-University of California Davis Medical Center,282,25.8,kidney,adult
-Emory University Hospital,276,12.2,kidney,adult
-Ohio State University Medical Center,265,39.7,kidney,adult
-University of Alabama Hospital,246,8.4,kidney,adult
-Tampa General Hospital,241,33.2,kidney,adult
-Barnes-Jewish Hospital,231,26.7,kidney,adult
-Northwestern Memorial Hospital,224,17.9,kidney,adult
-Rochester Methodist Hospital (Mayo Clinic),187,33.6,kidney,adult
-NY Presbyterian Hospital/Columbia Univ. Medical Center,184,16.8,kidney,adult
-California Pacific Medical Center,183,10.5,kidney,adult
-University of Michigan Medical Center,181,17.4,kidney,adult
-University of Minnesota Medical Center Fairview,173,18.9,kidney,adult
-Banner-University Medical Center Phoenix,172,18.7,kidney,adult
-University of Colorado Hospital/Health Science Center,171,13.6,kidney,adult
-Vanderbilt University Medical Center and Nashville VA Medical Center,170,20.2,kidney,adult
-Florida Hospital Medical Center,168,33.0,kidney,adult
-Medical College of Virginia Hospitals,156,32.8,kidney,adult
-Jackson Memorial Hospital University of Miami School of Medicine,317,16.5,kidney,adult
-University of Wisconsin Hospital and Clinics,289,29.4,kidney,adult
-Keck Hospital of USC,160,14.8,kidney,adult
-Medical City Fort Worth,155,137.2,kidney,adult
-Cleveland Clinic Florida Weston,121,55.0,kidney,adult
-CHI St. Luke's Health Baylor College of Medicine Medical Center,119,13.3,kidney,adult
-Rush University Medical Center,96,20.4,kidney,adult
-Methodist Dallas Medical Center,82,23.3,kidney,adult
-Albany Medical Center Hospital,50,20.3,kidney,adult
-University of California at Los Angeles Medical Center,354,15.2,kidney,adult
-Froedtert Memorial Lutheran Hospital,97,12.5,kidney,adult
-Thomas Jefferson University Hospital,96,15.4,kidney,adult
-William Beaumont Hospital,95,22.3,kidney,adult
-Virginia Mason Medical Center,95,21.8,kidney,adult
-University of Kentucky Medical Center,90,18.7,kidney,adult
-University Hospitals of Cleveland,89,16.2,kidney,adult
-Inova Fairfax Hospital,89,14.8,kidney,adult
-Sentara Norfolk General Hospital,89,13.5,kidney,adult
-Integris Baptist Medical Center,88,39.7,kidney,adult
-University of North Carolina Hospitals,88,11.8,kidney,adult
-University of Cincinnati  Medical Center,86,36.2,kidney,adult
-University Hospital, University of Texas Health Science Center,86,14.6,kidney,adult
-University of Texas Medical Branch at Galveston,84,25.7,kidney,adult
-Swedish Medical Center,84,19.0,kidney,adult
-Auxilio Mutuo Hospital,82,18.5,kidney,adult
-Medical City Dallas Hospital,78,32.5,kidney,adult
-State University of New York Upstate Medical University,77,51.1,kidney,adult
-Hartford Hospital,77,16.9,kidney,adult
-Intermountain Medical Center,76,35.1,kidney,adult
-Brigham and Women's Hospital,76,25.4,kidney,adult
-Banner University Medical Center-Tucson,115,60.9,kidney,adult
-Carolinas Medical Center,115,21.5,kidney,adult
-Erie County Medical Center,113,37.5,kidney,adult
-Massachusetts General Hospital,112,17.5,kidney,adult
-Allegheny General Hospital,107,29.5,kidney,adult
-University of Virginia Health Sciences Center,106,17.8,kidney,adult
-Lehigh Valley Hospital,101,23.5,kidney,adult
-Scott and White Memorial Hospital,100,55.7,kidney,adult
-Loyola University Medical Center,98,16.3,kidney,adult
-Legacy Good Samaritan Hospital and Medical Center,97,36.7,kidney,adult
-Strong Memorial Hospital, University of Rochester Medical Center,76,18.9,kidney,adult
-Oregon Health and Science University,75,35.8,kidney,adult
-University Hospital of State University of New York at Stony Brook,75,34.7,kidney,adult
-UF Health Shands Hospital,73,16.0,kidney,adult
-St Luke's Hospital of Kansas City,72,60.1,kidney,adult
-Albert Einstein Medical Center,71,8.3,kidney,adult
-Research Medical Center,70,32.1,kidney,adult
-Presbyterian/St Luke's Medical Center,70,14.2,kidney,adult
-University of California San Diego Medical Center,70,9.4,kidney,adult
-Baylor All Saints Medical Center,67,7.3,kidney,adult
-Montefiore Medical Center,156,19.2,kidney,adult
-New York University Medical Center,151,31.3,kidney,adult
-Duke University Hospital,148,25.2,kidney,adult
-Baylor University Medical Center,147,15.2,kidney,adult
-Ochsner Foundation Hospital,146,12.1,kidney,adult
-Loma Linda University Medical Center,146,11.7,kidney,adult
-University of Kansas Hospital,141,35.0,kidney,adult
-Mayo Clinic Florida,140,21.2,kidney,adult
-Wake Forest Baptist Medical Center,139,30.2,kidney,adult
-University of Washington Medical Center,139,27.7,kidney,adult
-Jewish Hospital,66,25.3,kidney,adult
-University of Chicago Medical Center,66,11.1,kidney,adult
-Tulane Medical Center,65,15.2,kidney,adult
-Iowa Methodist Medical Center,64,94.5,kidney,adult
-University Medical Center of Southern Nevada,64,46.9,kidney,adult
-Beth Israel Deaconess Medical Center,64,17.9,kidney,adult
-The Christ Hospital,63,42.3,kidney,adult
-UAMS Medical Center,61,32.9,kidney,adult
-Vidant Medical Center,61,21.6,kidney,adult
-Rhode Island Hospital,61,20.8,kidney,adult
-AU Medical Center, Inc.,60,4.7,kidney,adult
-St Vincent Hospital and Health Care Center,59,26.1,kidney,adult
-Sharp Memorial Hospital,59,11.5,kidney,adult
-VA Pittsburgh Healthcare System,59,9.6,kidney,adult
-University of Iowa Hospitals and Clinics Transplant Programs,58,17.8,kidney,adult
-Hennepin County Medical Center,57,14.9,kidney,adult
-Memorial Hermann Hospital, University of Texas at Houston,57,14.4,kidney,adult
-Walter Reed National Military Medical Center at Bethesda,56,21.9,kidney,adult
-University of Tennessee Medical Center at Knoxville,54,22.1,kidney,adult
-Scripps Green Hospital,54,9.6,kidney,adult
-Maine Medical Center,45,44.0,kidney,adult
-VA Portland Health Care System,45,22.7,kidney,adult
-Providence Sacred Heart Medical Center & Children's Hospital,45,16.1,kidney,adult
-Geisinger Medical Center,45,13.5,kidney,adult
-UT Southwestern Medical Center/William P. Clements Jr. University Hospital,45,12.9,kidney,adult
-North Shore University Hospital/Northwell Health,44,9.2,kidney,adult
-St John Medical Center,43,44.3,kidney,adult
-The Queen's Medical Center,43,11.8,kidney,adult
-Texas Health Harris Methodist Fort Worth Hospital,42,66.2,kidney,adult
-George Washington University Hospital,42,41.9,kidney,adult
-Boston Medical Center,42,17.4,kidney,adult
-Pinnacle Health System at Harrisburg Hospital,42,12.4,kidney,adult
-Harper University Hospital Detroit Medical Center,41,13.4,kidney,adult
-Abbott Northwestern Hospital,40,20.5,kidney,adult
-Hackensack University Medical Center,39,17.0,kidney,adult
-Presbyterian Hospital,38,18.2,kidney,adult
-University Hospital, University of New Mexico Health Sciences Center,37,14.5,kidney,adult
-Las Palmas Medical Center,36,29.0,kidney,adult
-Tufts Medical Center,36,19.4,kidney,adult
-Centura Porter Adventist Hospital,36,13.4,kidney,adult
-Charleston Area Medical Center,35,20.0,kidney,adult
-Baystate Medical Center,35,17.9,kidney,adult
-OSF Saint Francis Medical Center,35,12.8,kidney,adult
-Aurora St. Luke's Medical Center,35,12.5,kidney,adult
-Henrico Doctors' Hospital,34,13.3,kidney,adult
-The Lankenau Hospital,33,23.9,kidney,adult
-Largo Medical Center,32,235.3,kidney,adult
-OU Medical Center,32,27.1,kidney,adult
-Lahey Clinic Medical Center,32,19.2,kidney,adult
-Saint Thomas Hospital,31,20.4,kidney,adult
-Mary Hitchcock Memorial Hospital,23,46.0,kidney,adult
-The Iowa City VA Health Care System,23,40.6,kidney,adult
-The University of Vermont Medical Center,23,28.7,kidney,adult
-Penn State Milton S Hershey Medical Center,23,15.3,kidney,adult
-Advocate Christ Medical Center,23,9.8,kidney,adult
-Nashville Veterans Administration Hospital,21,10.2,kidney,adult
-Lutheran Hospital of Fort Wayne,20,17.9,kidney,adult
-Erlanger Medical Center,20,17.4,kidney,adult
-Sanford Bismarck Medical Center,18,26.0,kidney,adult
-University of Missouri Hospital and Clinics,17,17.9,kidney,adult
-Christiana Care Health Services,31,9.5,kidney,adult
-St John Hospital and Medical Center,30,11.0,kidney,adult
-Saint Francis Hospital,29,36.6,kidney,adult
-Our Lady of Lourdes Medical Center,29,12.2,kidney,adult
-Sanford Health/USD Medical Center,26,24.7,kidney,adult
-North Austin Medical Center,26,7.8,kidney,adult
-Christus Santa Rosa Hospital Medical Center,25,11.6,kidney,adult
-Sanford Medical Center Fargo,24,34.1,kidney,adult
-Mercy Medical Center-Des Moines,24,23.0,kidney,adult
-Avera McKennan Hospital,24,11.4,kidney,adult
-Memorial Medical Center,17,11.8,kidney,adult
-Riverside Community Hospital,17,11.1,kidney,adult
-Harbor UCLA Medical Center,17,5.6,kidney,adult
-Michael E. DeBakey VA Medical Center,14,7.1,kidney,adult
-Halifax Medical Center,13,46.0,kidney,adult
-Crozer-Chester Medical Center,13,10.8,kidney,adult
-Saint Joseph Hospital,13,8.6,kidney,adult
-Gulf Coast Medical Center,12,9.4,kidney,adult
-Parkland Health and Hospital System,12,8.6,kidney,adult
-St. Joseph's Hospital and Medical Center,11,43.4,kidney,adult
-Lucile Salter Packard Children's Hospital at Stanford,11,35.6,kidney,adult
-Saint Marys Hospital (Mayo Clinic),8,48.3,kidney,adult
-Children's Mercy Hospital,7,45.5,kidney,adult
-Children's Medical Center of Dallas,7,13.4,kidney,adult
-Children's Hospital Medical Center,5,55.0,kidney,adult
-Rady Children's Hospital and Health Center,5,41.4,kidney,adult
-Birmingham VA Medical Center,5,10.2,kidney,adult
-UPMC Hamot,4,72.1,kidney,adult
-Childrens Hospital Los Angeles,4,56.6,kidney,adult
-James J. Peters VA Medical Center,4,41.6,kidney,adult
-Children's of Alabama,2,16.3,kidney,adult
-Children's Healthcare of Atlanta at Egleston,2,11.0,kidney,adult
-Cardinal Glennon Children's Hospital,1,165.6,kidney,adult
-Children's Hospital of Michigan,1,73.1,kidney,adult
-Children's Hospital,1,60.4,kidney,adult
-Ann & Robert H. Lurie Children's Hospital of Chicago,1,25.2,kidney,adult
-Children's Hospital of Philadelphia,1,10.3,kidney,adult
-Seattle Children's Hospital,4,30.3,kidney,adult
-Boston Children's Hospital,4,24.6,kidney,adult
-UCSF Medical Center at Mission Bay,3,125.1,kidney,adult
-Children's Hospital of Pittsburgh of UPMC,3,59.2,kidney,adult
-Driscoll Children's Hospital,3,46.8,kidney,adult
-Primary Children's Hospital,3,27.9,kidney,adult
-Texas Children's Hospital,3,26.5,kidney,adult
-Children's Hospital of the King's Daughters,2,37.7,kidney,adult
-Children's Hospital Colorado,2,17.9,kidney,adult
-Methodist Specialty and Transplant Hospital,302,13.5,kidney,adult
-University of Maryland Medical System,220,14.6,kidney,adult
-The Cleveland Clinic Foundation,152,22.2,kidney,adult
-University of Toledo Medical Center,77,40.5,kidney,adult
-East Texas Medical Center,24,15.7,kidney,adult
-Centennial Medical Center,15,5.2,kidney,adult
-Newark Beth Israel Medical Center,4,103.3,kidney,adult
-Doctor's Hospital at Renaissance,3,37.7,kidney,adult
-Sacred Heart Hospital Pensacola,3,35.8,kidney,adult
-Robert Wood Johnson University Hospital,53,11.6,kidney,adult
-SSM Health Saint Louis University Hospital,52,29.3,kidney,adult
-Willis-Knighton Medical Center,52,16.3,kidney,adult
-St. Vincent Medical Center,51,19.3,kidney,adult
-Hahnemann University Hospital,51,12.4,kidney,adult
-University of California Irvine Medical Center,47,6.1,kidney,adult
-Temple University Hospital,46,22.1,kidney,adult
-UMass Memorial Medical Center,46,18.0,kidney,adult
-Westchester Medical Center,46,10.4,kidney,adult
-State University of New York, Downstate Medical Center,46,8.0,kidney,adult
-University of Wisconsin Hospital and Clinics,37,271.3,kidney-pancreas,adult
-Indiana University Health,29,126.2,kidney-pancreas,adult
-University of Maryland Medical System,24,81.6,kidney-pancreas,adult
-University of Minnesota Medical Center, Fairview,20,18.2,kidney-pancreas,adult
-Georgetown University Medical Center,18,154.6,kidney-pancreas,adult
-Ohio State University Medical Center,17,128.5,kidney-pancreas,adult
-Tampa General Hospital,17,93.2,kidney-pancreas,adult
-University of California San Francisco Medical Center,17,24.6,kidney-pancreas,adult
-Emory University Hospital,16,44.3,kidney-pancreas,adult
-Northwestern Memorial Hospital,15,80.9,kidney-pancreas,adult
-Piedmont Hospital,7,21.4,kidney-pancreas,adult
-Oregon Health and Science University,6,198.7,kidney-pancreas,adult
-Cedars-Sinai Medical Center,6,135.1,kidney-pancreas,adult
-Methodist Dallas Medical Center,6,103.0,kidney-pancreas,adult
-Erie County Medical Center,6,63.0,kidney-pancreas,adult
-Rush University Medical Center,6,59.7,kidney-pancreas,adult
-Methodist Specialty and Transplant Hospital,6,55.6,kidney-pancreas,adult
-Temple University Hospital,6,43.1,kidney-pancreas,adult
-The Cleveland Clinic Foundation,6,39.0,kidney-pancreas,adult
-University of Pittsburgh Medical Center,6,34.8,kidney-pancreas,adult
-Beth Israel Deaconess Medical Center,5,37.5,kidney-pancreas,adult
-Thomas Jefferson University Hospital,5,29.9,kidney-pancreas,adult
-Vanderbilt University Medical Center and Nashville VA Medical Center,4,62.5,kidney-pancreas,adult
-Medical College of Virginia Hospitals,4,62.0,kidney-pancreas,adult
-Mercy Medical Center-Des Moines,4,61.5,kidney-pancreas,adult
-The Nebraska Medical Center,4,60.7,kidney-pancreas,adult
-Research Medical Center,4,60.0,kidney-pancreas,adult
-Allegheny General Hospital,4,46.9,kidney-pancreas,adult
-Henry Ford Hospital,4,41.0,kidney-pancreas,adult
-University of Washington Medical Center,4,27.6,kidney-pancreas,adult
-Loma Linda University Medical Center,4,21.6,kidney-pancreas,adult
-Inova Fairfax Hospital,3,89.1,kidney-pancreas,adult
-State University of New York Upstate Medical University,3,84.6,kidney-pancreas,adult
-Providence Sacred Heart Medical Center & Children's Hospital,3,70.3,kidney-pancreas,adult
-Aurora St. Luke's Medical Center,3,64.5,kidney-pancreas,adult
-Carolinas Medical Center,3,59.7,kidney-pancreas,adult
-University of Virginia Health Sciences Center,3,56.9,kidney-pancreas,adult
-UMass Memorial Medical Center,3,45.3,kidney-pancreas,adult
-Virginia Mason Medical Center,3,41.8,kidney-pancreas,adult
-Saint Barnabas Medical Center,3,41.0,kidney-pancreas,adult
-University of Cincinnati  Medical Center,10,92.5,kidney-pancreas,adult
-St. Vincent Medical Center,10,79.3,kidney-pancreas,adult
-University of Alabama Hospital,10,73.9,kidney-pancreas,adult
-Jewish Hospital,10,65.8,kidney-pancreas,adult
-Houston Methodist Hospital,10,41.0,kidney-pancreas,adult
-University of Kansas Hospital,9,219.7,kidney-pancreas,adult
-Barnes-Jewish Hospital,9,154.7,kidney-pancreas,adult
-Scott and White Memorial Hospital,9,134.2,kidney-pancreas,adult
-Auxilio Mutuo Hospital,9,115.1,kidney-pancreas,adult
-Methodist University Hospital,9,74.7,kidney-pancreas,adult
-California Pacific Medical Center,14,75.8,kidney-pancreas,adult
-University of Michigan Medical Center,14,52.7,kidney-pancreas,adult
-Ochsner Foundation Hospital,14,49.7,kidney-pancreas,adult
-Medical University of South Carolina,14,30.1,kidney-pancreas,adult
-Baylor University Medical Center,13,162.1,kidney-pancreas,adult
-Mayo Clinic Hospital,13,67.9,kidney-pancreas,adult
-Willis-Knighton Medical Center,12,127.9,kidney-pancreas,adult
-Rochester Methodist Hospital (Mayo Clinic),12,43.2,kidney-pancreas,adult
-University of Utah Medical Center,10,256.9,kidney-pancreas,adult
-Duke University Hospital,10,98.3,kidney-pancreas,adult
-University of California San Diego Medical Center,2,23.6,kidney-pancreas,adult
-Hospital of the University of Pennsylvania,2,23.3,kidney-pancreas,adult
-Swedish Medical Center,2,16.2,kidney-pancreas,adult
-Sharp Memorial Hospital,2,13.8,kidney-pancreas,adult
-Stanford Health Care,2,11.9,kidney-pancreas,adult
-New York-Presbyterian Hospital/Weill Cornell Medical Center,2,9.8,kidney-pancreas,adult
-AU Medical Center, Inc.,2,4.6,kidney-pancreas,adult
-SSM Health Saint Louis University Hospital,1,58.5,kidney-pancreas,adult
-Strong Memorial Hospital, University of Rochester Medical Center,1,54.7,kidney-pancreas,adult
-Avera McKennan Hospital,1,31.2,kidney-pancreas,adult
-University of Colorado Hospital/Health Science Center,6,25.6,kidney-pancreas,adult
-Vidant Medical Center,5,399.6,kidney-pancreas,adult
-Florida Hospital Medical Center,5,171.5,kidney-pancreas,adult
-University of Mississippi Medical Center,5,170.5,kidney-pancreas,adult
-University of Iowa Hospitals and Clinics Transplant Programs,5,131.8,kidney-pancreas,adult
-Memorial Hermann Hospital, University of Texas at Houston,5,130.9,kidney-pancreas,adult
-Baylor All Saints Medical Center,5,78.4,kidney-pancreas,adult
-Integris Baptist Medical Center,5,65.6,kidney-pancreas,adult
-Banner-University Medical Center Phoenix,5,51.7,kidney-pancreas,adult
-Keck Hospital of USC,5,40.8,kidney-pancreas,adult
-OSF Saint Francis Medical Center,1,27.4,kidney-pancreas,adult
-University Hospital, University of Texas Health Science Center,1,25.5,kidney-pancreas,adult
-University of California Davis Medical Center,1,24.6,kidney-pancreas,adult
-Massachusetts General Hospital,1,20.1,kidney-pancreas,adult
-Scripps Green Hospital,1,15.0,kidney-pancreas,adult
-University of Kentucky Medical Center,1,10.3,kidney-pancreas,adult
-University of North Carolina Hospitals,1,9.6,kidney-pancreas,adult
-Our Lady of Lourdes Medical Center,3,34.5,kidney-pancreas,adult
-UF Health Shands Hospital,3,33.5,kidney-pancreas,adult
-Centura Porter Adventist Hospital,3,29.0,kidney-pancreas,adult
-Albert Einstein Medical Center,3,24.5,kidney-pancreas,adult
-Intermountain Medical Center,3,23.3,kidney-pancreas,adult
-Banner University Medical Center-Tucson,2,93.8,kidney-pancreas,adult
-Medical City Dallas Hospital,2,71.4,kidney-pancreas,adult
-Tulane Medical Center,2,68.1,kidney-pancreas,adult
-Albany Medical Center Hospital,2,47.0,kidney-pancreas,adult
-University of California at Los Angeles Medical Center,2,35.5,kidney-pancreas,adult
-Montefiore Medical Center,9,56.8,kidney-pancreas,adult
-NY Presbyterian Hospital/Columbia Univ. Medical Center,9,54.3,kidney-pancreas,adult
-Mayo Clinic Florida,8,66.4,kidney-pancreas,adult
-University of Texas Medical Branch at Galveston,7,102.2,kidney-pancreas,adult
-Wake Forest Baptist Medical Center,7,61.4,kidney-pancreas,adult
-University of Chicago Medical Center,7,57.4,kidney-pancreas,adult
-University of Illinois Medical Center,7,56.0,kidney-pancreas,adult
-Sentara Norfolk General Hospital,7,53.4,kidney-pancreas,adult
-Mount Sinai Medical Center,7,39.3,kidney-pancreas,adult
-Johns Hopkins Hospital,7,28.7,kidney-pancreas,adult
-University of Alabama Hospital,138,139.6,liver,adult
-University of California at Los Angeles Medical Center,137,37.0,liver,adult
-Vanderbilt University Medical Center and Nashville VA Medical Center,136,87.0,liver,adult
-Hospital of the University of Pennsylvania,127,100.2,liver,adult
-Henry Ford Hospital,127,58.4,liver,adult
-Baylor University Medical Center,125,66.0,liver,adult
-Mount Sinai Medical Center,125,39.4,liver,adult
-Jackson Memorial Hospital University of Miami School of Medicine,124,83.8,liver,adult
-Emory University Hospital,122,102.6,liver,adult
-Mayo Clinic Hospital,122,83.2,liver,adult
-University of California San Francisco Medical Center,183,24.2,liver,adult
-Mayo Clinic Florida,164,158.4,liver,adult
-University of Michigan Medical Center,70,38.4,liver,adult
-Florida Hospital Medical Center,59,162.0,liver,adult
-California Pacific Medical Center,57,25.8,liver,adult
-Integris Baptist Medical Center,49,31.0,liver,adult
-Ochsner Foundation Hospital,206,163.4,liver,adult
-University of Maryland Medical System,169,39.3,liver,adult
-The Cleveland Clinic Foundation,154,93.5,liver,adult
-Indiana University Health,142,263.3,liver,adult
-University Hospital, University of Texas Health Science Center,65,37.4,liver,adult
-Tampa General Hospital,63,135.6,liver,adult
-NY Presbyterian Hospital/Columbia Univ. Medical Center,63,37.3,liver,adult
-Oregon Health and Science University,62,69.8,liver,adult
-University of Virginia Health Sciences Center,60,63.0,liver,adult
-UT Southwestern Medical Center/William P. Clements Jr. University Hospital,58,48.3,liver,adult
-Loyola University Medical Center,58,35.7,liver,adult
-Cleveland Clinic Florida Weston,57,112.9,liver,adult
-New York University Medical Center,57,13.2,liver,adult
-Loma Linda University Medical Center,52,31.1,liver,adult
-Banner-University Medical Center Phoenix,79,90.3,liver,adult
-Stanford Health Care,76,14.1,liver,adult
-Albert Einstein Medical Center,75,145.1,liver,adult
-Medical College of Virginia Hospitals,75,65.2,liver,adult
-Thomas Jefferson University Hospital,73,75.4,liver,adult
-Carolinas Medical Center,73,69.0,liver,adult
-University of Minnesota Medical Center, Fairview,72,39.1,liver,adult
-Methodist Dallas Medical Center,69,58.6,liver,adult
-Massachusetts General Hospital,68,28.1,liver,adult
-UMass Memorial Medical Center,66,26.9,liver,adult
-University of Colorado Hospital/Health Science Center,97,16.6,liver,adult
-Northwestern Memorial Hospital,95,103.5,liver,adult
-University of Kansas Hospital,94,78.2,liver,adult
-Barnes-Jewish Hospital,94,77.6,liver,adult
-CHI St. Luke's Health Baylor College of Medicine Medical Center,94,37.4,liver,adult
-Ohio State University Medical Center,92,131.5,liver,adult
-Cedars-Sinai Medical Center,87,31.2,liver,adult
-University of Washington Medical Center,83,43.8,liver,adult
-Medical University of South Carolina,82,155.9,liver,adult
-Duke University Hospital,81,140.9,liver,adult
-Rochester Methodist Hospital (Mayo Clinic),118,39.2,liver,adult
-Houston Methodist Hospital,118,33.9,liver,adult
-University of Cincinnati  Medical Center,115,70.2,liver,adult
-Johns Hopkins Hospital,115,28.9,liver,adult
-Lahey Clinic Medical Center,114,65.0,liver,adult
-Piedmont Hospital,114,59.7,liver,adult
-Keck Hospital of USC,111,36.5,liver,adult
-University of Pittsburgh Medical Center,110,60.8,liver,adult
-University of Wisconsin Hospital and Clinics,108,71.3,liver,adult
-Georgetown University Medical Center,104,34.8,liver,adult
-University Hospitals of Cleveland,20,27.7,liver,adult
-Broward General Medical Center,19,100.7,liver,adult
-Yale New Haven Hospital,19,19.7,liver,adult
-Tulane Medical Center,18,100.7,liver,adult
-University of Iowa Hospitals and Clinics Transplant Programs,18,71.1,liver,adult
-VA Portland Health Care System,18,43.7,liver,adult
-University of Texas Medical Branch at Galveston,18,37.2,liver,adult
-Geisinger Medical Center,18,23.1,liver,adult
-Willis-Knighton Medical Center,17,31.9,liver,adult
-Penn State Milton S Hershey Medical Center,17,17.8,liver,adult
-VA Pittsburgh Healthcare System,37,27.0,liver,adult
-UAMS Medical Center,36,103.4,liver,adult
-SSM Health Saint Louis University Hospital,36,43.0,liver,adult
-New York-Presbyterian Hospital/Weill Cornell Medical Center,35,65.0,liver,adult
-Rush University Medical Center,34,44.5,liver,adult
-University of California San Diego Medical Center,34,35.7,liver,adult
-Froedtert Memorial Lutheran Hospital,34,30.3,liver,adult
-University of Kentucky Medical Center,32,29.2,liver,adult
-Beth Israel Deaconess Medical Center,31,38.8,liver,adult
-Allegheny General Hospital,31,37.2,liver,adult
-Banner University Medical Center-Tucson,15,48.5,liver,adult
-The Queen's Medical Center,14,40.7,liver,adult
-Michael E. DeBakey VA Medical Center,14,24.4,liver,adult
-Westchester Medical Center,14,17.7,liver,adult
-Presbyterian/St Luke's Medical Center,12,31.1,liver,adult
-Our Lady of Lourdes Medical Center,12,25.2,liver,adult
-Centura Porter Adventist Hospital,12,15.5,liver,adult
-St Luke's Hospital of Kansas City,10,148.7,liver,adult
-St. Joseph's Hospital and Medical Center,10,137.2,liver,adult
-OU Medical Center,9,36.3,liver,adult
-UCSF Medical Center at Mission Bay,1,48.1,liver,adult
-Children's Hospital of Wisconsin,1,32.2,liver,adult
-Children's Hospital Medical Center,1,17.9,liver,adult
-Methodist University Hospital,118,206.9,liver,adult
-The Nebraska Medical Center,84,53.3,liver,adult
-Auxilio Mutuo Hospital,43,338.0,liver,adult
-Largo Medical Center,4,753.1,liver,adult
-Medical City Fort Worth,3,146.7,liver,adult
-Saint Marys Hospital (Mayo Clinic),2,57.5,liver,adult
-University of Wisconsin Hospital and Clinics,19,165.8,pancreas,adult
-Indiana University Health,19,134.1,pancreas,adult
-Houston Methodist Hospital,9,44.4,pancreas,adult
-Rochester Methodist Hospital (Mayo Clinic),9,21.4,pancreas,adult
-Georgetown University Medical Center,8,70.3,pancreas,adult
-University of Minnesota Medical Center, Fairview,8,8.4,pancreas,adult
-Jackson Memorial Hospital University of Miami School of Medicine,7,54.5,pancreas,adult
-Mount Sinai Medical Center,7,19.0,pancreas,adult
-The Cleveland Clinic Foundation,6,15.7,pancreas,adult
-NY Presbyterian Hospital/Columbia Univ. Medical Center,5,8.7,pancreas,adult
-Mayo Clinic Florida,4,954.9,pancreas,adult
-State University of New York Upstate Medical University,4,65.0,pancreas,adult
-Henry Ford Hospital,4,15.7,pancreas,adult
-Montefiore Medical Center,3,60.9,pancreas,adult
-UMass Memorial Medical Center,3,51.4,pancreas,adult
-Northwestern Memorial Hospital,3,34.6,pancreas,adult
-Mayo Clinic Hospital,3,27.5,pancreas,adult
-Banner University Medical Center-Tucson,2,777.1,pancreas,adult
-Auxilio Mutuo Hospital,2,214.9,pancreas,adult
-Baylor University Medical Center,2,169.1,pancreas,adult
-Barnes-Jewish Hospital,2,140.2,pancreas,adult
-California Pacific Medical Center,2,124.4,pancreas,adult
-Scott and White Memorial Hospital,2,69.2,pancreas,adult
-Robert Wood Johnson University Hospital,2,64.9,pancreas,adult
-Loma Linda University Medical Center,2,57.9,pancreas,adult
-Piedmont Hospital,2,52.8,pancreas,adult
-Ohio State University Medical Center,2,44.7,pancreas,adult
-Thomas Jefferson University Hospital,2,35.6,pancreas,adult
-Methodist Specialty and Transplant Hospital,47,50.5,liver,adult
-Strong Memorial Hospital, University of Rochester Medical Center,44,71.7,liver,adult
-Intermountain Medical Center,43,37.1,liver,adult
-University of Mississippi Medical Center,42,385.2,liver,adult
-Memorial Hermann Hospital, University of Texas at Houston,42,91.0,liver,adult
-University of North Carolina Hospitals,42,53.7,liver,adult
-Montefiore Medical Center,42,39.6,liver,adult
-University of Utah Medical Center,40,43.1,liver,adult
-Jewish Hospital,39,93.9,liver,adult
-Scripps Green Hospital,37,37.5,liver,adult
-University of Chicago Medical Center,27,86.2,liver,adult
-Aurora St. Luke's Medical Center,27,49.0,liver,adult
-University Hospital,27,42.0,liver,adult
-University of Illinois Medical Center,26,77.9,liver,adult
-Swedish Medical Center,26,65.3,liver,adult
-William Beaumont Hospital,26,57.8,liver,adult
-UF Health Shands Hospital,25,34.6,liver,adult
-Hartford Hospital,23,69.8,liver,adult
-Baylor All Saints Medical Center,23,8.8,liver,adult
-Hahnemann University Hospital,22,44.4,liver,adult
-Beth Israel Deaconess Medical Center,2,33.5,pancreas,adult
-University of Pittsburgh Medical Center,2,22.5,pancreas,adult
-University of Michigan Medical Center,2,20.1,pancreas,adult
-University of Maryland Medical System,2,13.4,pancreas,adult
-University of Chicago Medical Center,2,8.5,pancreas,adult
-Florida Hospital Medical Center,1,1352.8,pancreas,adult
-University of Texas Medical Branch at Galveston,1,338.2,pancreas,adult
-University of Kansas Hospital,1,329.1,pancreas,adult
-University of California Davis Medical Center,1,134.3,pancreas,adult
-Cedars-Sinai Medical Center,1,113.4,pancreas,adult
-University of Washington Medical Center,1,103.8,pancreas,adult
-University of Utah Medical Center,1,98.5,pancreas,adult
-Keck Hospital of USC,1,86.8,pancreas,adult
-Duke University Hospital,1,83.0,pancreas,adult
-Ochsner Foundation Hospital,1,82.3,pancreas,adult
-Emory University Hospital,1,55.8,pancreas,adult
-Mercy Medical Center-Des Moines,1,55.1,pancreas,adult
-Vidant Medical Center,1,44.1,pancreas,adult
-Sanford Medical Center Fargo,1,31.8,pancreas,adult
-University of Colorado Hospital/Health Science Center,1,30.7,pancreas,adult
-University of Illinois Medical Center,1,10.6,pancreas,adult
-University of Virginia Health Sciences Center,1,10.5,pancreas,adult
-New York-Presbyterian Hospital/Weill Cornell Medical Center,1,9.1,pancreas,adult
-Medical University of South Carolina,1,8.2,pancreas,adult
-Children's Hospital of Pittsburgh of UPMC,7,47.0,liver,adult
-Temple University Hospital,5,22.6,liver,adult
-Avera McKennan Hospital,4,33.3,liver,adult
-Lucile Salter Packard Children's Hospital at Stanford,2,38.3,liver,adult
-St. Louis Children's Hospital at Washington University Medical Center,1,78.0,liver,adult
-Medical College of Virginia Hospitals,1,28.1,pancreas,adult
-Banner-University Medical Center Phoenix,1,25.9,pancreas,adult
-Jewish Hospital,1,24.3,pancreas,adult
-Virginia Mason Medical Center,1,22.8,pancreas,adult
-Saint Barnabas Medical Center,1,22.6,pancreas,adult
-Strong Memorial Hospital, University of Rochester Medical Center,1,20.0,pancreas,adult
-Lehigh Valley Hospital,1,19.4,pancreas,adult
-Hospital of the University of Pennsylvania,1,15.1,pancreas,adult
-Sharp Memorial Hospital,1,13.3,pancreas,adult
-Wake Forest Baptist Medical Center,1,13.3,pancreas,adult
-Mayo Clinic Hospital,44,102.5,heart,adult
-Cedars-Sinai Medical Center,117,116.7,heart,adult
-Vanderbilt University Medical Center and Nashville VA Medical Center,82,85.9,heart,adult
-Duke University Hospital,74,87.3,heart,adult
-Hospital of the University of Pennsylvania,72,123.3,heart,adult
-University of Washington Medical Center,68,126.7,heart,adult
-Florida Hospital Medical Center,60,258.1,heart,adult
-Baylor University Medical Center,60,240.7,heart,adult
-Newark Beth Israel Medical Center,59,190.6,heart,adult
-Stanford Health Care,57,127.3,heart,adult
-Tampa General Hospital,54,133.0,heart,adult
-NY Presbyterian Hospital/Columbia Univ. Medical Center,54,31.0,heart,adult
-University of California at Los Angeles Medical Center,53,149.4,heart,adult
-St Luke's Hospital of Kansas City,50,174.2,heart,adult
-The Nebraska Medical Center,49,91.6,heart,adult
-Houston Methodist Hospital,49,77.1,heart,adult
-Tufts Medical Center,48,35.0,heart,adult
-The Cleveland Clinic Foundation,44,36.6,heart,adult
-University of Kentucky Medical Center,40,256.1,heart,adult
-Emory University Hospital,40,63.6,heart,adult
-Advocate Christ Medical Center,27,27.5,heart,adult
-Saint Thomas Hospital,26,336.1,heart,adult
-Allegheny General Hospital,26,63.4,heart,adult
-University of Pittsburgh Medical Center,26,50.4,heart,adult
-Ochsner Foundation Hospital,24,51.7,heart,adult
-Brigham and Women's Hospital,24,50.7,heart,adult
-UF Health Shands Hospital,24,44.0,heart,adult
-Oregon Health and Science University,23,99.4,heart,adult
-Aurora St. Luke's Medical Center,23,83.8,heart,adult
-Carolinas Medical Center,23,81.9,heart,adult
-University of Colorado Hospital/Health Science Center,30,70.3,heart,adult
-Northwestern Memorial Hospital,30,60.1,heart,adult
-Cleveland Clinic Florida Weston,28,215.7,heart,adult
-Ohio State University Medical Center,28,121.1,heart,adult
-Memorial Hermann Hospital, University of Texas at Houston,28,67.9,heart,adult
-Loyola University Medical Center,28,54.4,heart,adult
-Westchester Medical Center,27,139.5,heart,adult
-University of Maryland Medical System,27,118.1,heart,adult
-Medical College of Virginia Hospitals,27,61.9,heart,adult
-University of Minnesota Medical Center, Fairview,27,49.4,heart,adult
-Mayo Clinic Florida,23,40.8,heart,adult
-Methodist Specialty and Transplant Hospital,22,116.4,heart,adult
-Henry Ford Hospital,22,103.7,heart,adult
-Johns Hopkins Hospital,22,53.9,heart,adult
-Saint Marys Hospital (Mayo Clinic),22,19.5,heart,adult
-University of California San Francisco Medical Center,20,80.9,heart,adult
-Jackson Memorial Hospital University of Miami School of Medicine,20,63.4,heart,adult
-University of Utah Medical Center,20,63.4,heart,adult
-Washington Hospital Center,19,35.4,heart,adult
-Inova Fairfax Hospital,19,27.1,heart,adult
-Temple University Hospital,18,161.6,heart,adult
-Abbott Northwestern Hospital,18,140.5,heart,adult
-University of Mississippi Medical Center,18,88.4,heart,adult
-Hartford Hospital,18,81.1,heart,adult
-Baptist Medical Center,18,38.4,heart,adult
-Intermountain Medical Center,17,79.5,heart,adult
-University of Wisconsin Hospital and Clinics,17,48.8,heart,adult
-Indiana University Health,16,222.2,heart,adult
-Integris Baptist Medical Center,16,77.2,heart,adult
-Strong Memorial Hospital, University of Rochester Medical Center,16,62.8,heart,adult
-University of Iowa Hospitals and Clinics Transplant Programs,12,34.4,heart,adult
-Piedmont Hospital,12,33.9,heart,adult
-California Pacific Medical Center,11,216.5,heart,adult
-Robert Wood Johnson University Hospital,11,90.7,heart,adult
-University Hospitals of Cleveland,11,78.4,heart,adult
-University of North Carolina Hospitals,11,76.5,heart,adult
-Medical City Dallas Hospital,11,31.7,heart,adult
-University of Kansas Hospital,10,362.7,heart,adult
-Froedtert Memorial Lutheran Hospital,10,47.2,heart,adult
-Hunter Holmes McGuire Veterans Administration Medical Center,10,47.0,heart,adult
-Banner University Medical Center-Tucson,10,36.2,heart,adult
-Sharp Memorial Hospital,9,154.6,heart,adult
-Medical University of South Carolina,9,73.5,heart,adult
-Providence Sacred Heart Medical Center & Children's Hospital,9,30.5,heart,adult
-Sutter Meidcal Center Sacramento,8,29.3,heart,adult
-Wake Forest Baptist Medical Center,7,91.6,heart,adult
-Lutheran Hospital of Fort Wayne,7,82.3,heart,adult
-Jewish Hospital,7,39.2,heart,adult
-University of Cincinnati  Medical Center,6,92.6,heart,adult
-University of Texas Medical Branch at Galveston,6,87.5,heart,adult
-St. Louis Children's Hospital at Washington University Medical Center,5,224.3,heart,adult
-Penn State Milton S Hershey Medical Center,5,32.4,heart,adult
-Hahnemann University Hospital,4,81.3,heart,adult
-Thomas Jefferson University Hospital,4,38.1,heart,adult
-Memorial Regional Hospital,3,54.9,heart,adult
-Lucile Salter Packard Children's Hospital at Stanford,2,55.1,heart,adult
-Texas Children's Hospital,2,29.9,heart,adult
-Seattle Children's Hospital,1,380.5,heart,adult
-Cardiovascular Center of Puerto Rico and the Caribbean,1,300.6,heart,adult
-St Vincent Hospital and Health Care Center,39,144.2,heart,adult
-University of Chicago Medical Center,39,108.6,heart,adult
-Mount Sinai Medical Center,38,35.9,heart,adult
-UT Southwestern Medical Center/William P. Clements Jr. University Hospital,37,138.2,heart,adult
-Montefiore Medical Center,37,74.4,heart,adult
-Barnes-Jewish Hospital,37,57.0,heart,adult
-Massachusetts General Hospital,35,100.4,heart,adult
-University of Michigan Medical Center,35,42.9,heart,adult
-CHI St. Luke's Health Baylor College of Medicine Medical Center,34,28.8,heart,adult
-University of California San Diego Medical Center,32,99.9,heart,adult
-Children's Hospital of Pittsburgh of UPMC,1,168.3,heart,adult
-Children's Hospital Medical Center,1,66.7,heart,adult
-Primary Children's Hospital,1,42.5,heart,adult
-Boston Children's Hospital,1,27.9,heart,adult
-Yale New Haven Hospital,16,40.6,heart,adult
-Sentara Norfolk General Hospital,16,34.3,heart,adult
-Baptist Memorial Hospital,15,73.3,heart,adult
-Keck Hospital of USC,14,119.1,heart,adult
-Seton Medical Center Austin,14,112.5,heart,adult
-University of Alabama Hospital,14,55.7,heart,adult
-Scott and White Memorial Hospital,13,186.1,heart,adult
-Spectrum Health,13,52.4,heart,adult
-Loma Linda University Medical Center,12,101.9,heart,adult
-University of Virginia Health Sciences Center,12,44.0,heart,adult
-NY Presbyterian Hospital/Columbia Univ. Medical Center,72,111.6,lung,adult
-Indiana University Health,63,633.5,lung,adult
-University of Pittsburgh Medical Center,60,123.1,lung,adult
-Houston Methodist Hospital,57,129.7,lung,adult
-University of Minnesota Medical Center, Fairview,55,208.1,lung,adult
-Tampa General Hospital,55,103.2,lung,adult
-University of Washington Medical Center,55,88.3,lung,adult
-Brigham and Women's Hospital,53,82.1,lung,adult
-CHI St. Luke's Health Baylor College of Medicine Medical Center,47,190.4,lung,adult
-UF Health Shands Hospital,43,317.9,lung,adult
-St. Joseph's Hospital and Medical Center,98,1148.7,lung,adult
-Barnes-Jewish Hospital,84,211.2,lung,adult
-UT Southwestern Medical Center/William P. Clements Jr. University Hospital,67,152.2,lung,adult
-University of California San Francisco Medical Center,49,167.5,lung,adult
-Spectrum Health,24,237.1,lung,adult
-The Cleveland Clinic Foundation,124,113.6,lung,adult
-Temple University Hospital,105,116.6,lung,adult
-Hospital of the University of Pennsylvania,94,217.6,lung,adult
-Duke University Hospital,93,625.5,lung,adult
-University of California at Los Angeles Medical Center,87,227.9,lung,adult
-Mayo Clinic Florida,43,112.1,lung,adult
-Loyola University Medical Center,42,254.9,lung,adult
-Stanford Health Care,42,119.1,lung,adult
-Ohio State University Medical Center,41,334.0,lung,adult
-Massachusetts General Hospital,38,342.5,lung,adult
-University of Maryland Medical System,37,390.5,lung,adult
-University of Michigan Medical Center,36,62.1,lung,adult
-Baylor University Medical Center,34,229.3,lung,adult
-University of Kentucky Medical Center,30,155.4,lung,adult
-University Hospital, University of Texas Health Science Center,28,345.1,lung,adult
-Jackson Memorial Hospital University of Miami School of Medicine,25,42.6,kidney-pancreas,adult
-Brigham and Women's Hospital,1,35.3,kidney-pancreas,adult
-Mayo Clinic Hospital,2,193.7,lung,adult
-Boston Children's Hospital,1,33.6,lung,adult
-Ochsner Foundation Hospital,31,232.7,lung,adult
-University of California San Diego Medical Center,14,35.2,lung,adult
-University of North Carolina Hospitals,18,448.2,lung,adult
-University of Alabama Hospital,18,76.8,lung,adult
-Inova Fairfax Hospital,17,109.5,lung,adult
-Florida Hospital Medical Center,16,1915.2,lung,adult
-Medical University of South Carolina,16,784.3,lung,adult
-Banner University Medical Center-Tucson,16,342.3,lung,adult
-University of Iowa Hospitals and Clinics Transplant Programs,14,195.8,lung,adult
-Northwestern Memorial Hospital,13,1376.4,lung,adult
-Froedtert Memorial Lutheran Hospital,13,115.7,lung,adult
-Cedars-Sinai Medical Center,13,96.0,lung,adult
-The Nebraska Medical Center,12,834.9,lung,adult
-University of Utah Medical Center,12,471.9,lung,adult
-Jackson Memorial Hospital University of Miami School of Medicine,12,144.6,lung,adult
-Advocate Christ Medical Center,10,169.0,lung,adult
-University Hospitals of Cleveland,10,164.9,lung,adult
-Jewish Hospital,10,67.6,lung,adult
-Memorial Hermann Hospital, University of Texas at Houston,9,414.3,lung,adult
-Keck Hospital of USC,9,40.2,lung,adult
-Saint Marys Hospital (Mayo Clinic),9,29.6,lung,adult
-Nationwide Children's Hospital,4,203.4,lung,adult
-Stanford Health Care,8,97.5,heart-lung,adult
-Houston Methodist Hospital,3,176.2,heart-lung,adult
-Jackson Memorial Hospital University of Miami School of Medicine,2,226.2,heart-lung,adult
-University of Alabama Hospital,2,64.7,heart-lung,adult
-Saint Marys Hospital (Mayo Clinic),2,34.8,heart-lung,adult
-Newark Beth Israel Medical Center,1,716.2,heart-lung,adult
-UT Southwestern Medical Center/William P. Clements Jr. University Hospital,1,160.9,heart-lung,adult
-Temple University Hospital,1,152.8,heart-lung,adult
-University of Maryland Medical System,1,123.8,heart-lung,adult
-UF Health Shands Hospital,1,115.2,heart-lung,adult
-Duke University Hospital,1,96.6,heart-lung,adult
-Cedars-Sinai Medical Center,1,64.0,heart-lung,adult
-University of California San Francisco Medical Center,1,37.3,heart-lung,adult
-Stanford Health Care,1,171.5,intestine,adult
-University of Washington Medical Center,1,68.3,intestine,adult
-Children's Hospital of Pittsburgh of UPMC,1,18.1,intestine,adult
-University of Pittsburgh Medical Center,1,16.9,intestine,adult
-University of Wisconsin Hospital and Clinics,27,157.7,lung,adult
-Henry Ford Hospital,27,130.2,lung,adult
-Emory University Hospital,27,59.1,lung,adult
-Vanderbilt University Medical Center and Nashville VA Medical Center,26,305.5,lung,adult
-University of Virginia Health Sciences Center,26,282.0,lung,adult
-Integris Baptist Medical Center,25,310.1,lung,adult
-Newark Beth Israel Medical Center,25,249.1,lung,adult
-Johns Hopkins Hospital,25,151.6,lung,adult
-University of Colorado Hospital/Health Science Center,21,88.8,lung,adult
-University of Chicago Medical Center,19,212.7,lung,adult
-The Cleveland Clinic Foundation,11,113.4,intestine,adult
-Jackson Memorial Hospital University of Miami School of Medicine,10,97.6,intestine,adult
-The Nebraska Medical Center,9,265.7,intestine,adult
-Mount Sinai Medical Center,9,191.1,intestine,adult
-Indiana University Health,8,169.7,intestine,adult
-Georgetown University Medical Center,8,43.9,intestine,adult
-Henry Ford Hospital,6,597.1,intestine,adult
-University of California at Los Angeles Medical Center,4,38.3,intestine,adult
-University of Alabama Hospital,1,777.1,intestine,adult
-University of Wisconsin Hospital and Clinics,1,388.6,intestine,adult
-Tampa General Hospital,251,0,kidney,child
-University of Alabama Hospital,246,0,kidney,child
-Mount Sinai Medical Center,232,0,kidney,child
-Barnes-Jewish Hospital,231,0,kidney,child
-Medical University of South Carolina,229,0,kidney,child
-Northwestern Memorial Hospital,224,0,kidney,child
-Houston Methodist Hospital,223,0,kidney,child
-University of Maryland Medical System,220,0,kidney,child
-Cedars-Sinai Medical Center,220,0,kidney,child
-Georgetown University Medical Center,218,0,kidney,child
-University of California at Los Angeles Medical Center,370,0,kidney,child
-University of California San Francisco Medical Center,344,0,kidney,child
-Jackson Memorial Hospital University of Miami School of Medicine,336,0,kidney,child
-Saint Barnabas Medical Center,307,0,kidney,child
-Methodist Specialty and Transplant Hospital,303,0,kidney,child
-University of Wisconsin Hospital and Clinics,297,0,kidney,child
-University of California Davis Medical Center,292,0,kidney,child
-Mayo Clinic Hospital,286,0,kidney,child
-Emory University Hospital,276,0,kidney,child
-Ohio State University Medical Center,265,0,kidney,child
-University of Pittsburgh Medical Center,215,0,kidney,child
-Indiana University Health,200,0,kidney,child
-New York-Presbyterian Hospital/Weill Cornell Medical Center,200,0,kidney,child
-Johns Hopkins Hospital,198,0,kidney,child
-University of Minnesota Medical Center, Fairview,190,0,kidney,child
-Hospital of the University of Pennsylvania,188,0,kidney,child
-University of Michigan Medical Center,187,0,kidney,child
-Rochester Methodist Hospital (Mayo Clinic),187,0,kidney,child
-NY Presbyterian Hospital/Columbia Univ. Medical Center,185,0,kidney,child
-California Pacific Medical Center,183,0,kidney,child
-Duke University Hospital,152,0,kidney,child
-New York University Medical Center,151,0,kidney,child
-Wake Forest Baptist Medical Center,147,0,kidney,child
-Baylor University Medical Center,147,0,kidney,child
-Ochsner Foundation Hospital,146,0,kidney,child
-University of Kansas Hospital,141,0,kidney,child
-Yale New Haven Hospital,140,0,kidney,child
-Mayo Clinic Florida,140,0,kidney,child
-Piedmont Hospital,139,0,kidney,child
-University of Washington Medical Center,139,0,kidney,child
-University of Mississippi Medical Center,131,0,kidney,child
-The Nebraska Medical Center,125,0,kidney,child
-University of Utah Medical Center,124,0,kidney,child
-Mercy Health Saint Mary's,124,0,kidney,child
-University of Illinois Medical Center,122,0,kidney,child
-Carolinas Medical Center,121,0,kidney,child
-Cleveland Clinic Florida Weston,121,0,kidney,child
-CHI St. Luke's Health Baylor College of Medicine Medical Center,119,0,kidney,child
-Methodist University Hospital,119,0,kidney,child
-Henry Ford Hospital,118,0,kidney,child
-Massachusetts General Hospital,117,0,kidney,child
-Stanford Health Care,117,0,kidney,child
-Banner University Medical Center-Tucson,116,0,kidney,child
-Erie County Medical Center,115,0,kidney,child
-University of Virginia Health Sciences Center,107,0,kidney,child
-Allegheny General Hospital,107,0,kidney,child
-University Hospital, University of Texas Health Science Center,103,0,kidney,child
-Lehigh Valley Hospital,101,0,kidney,child
-Scott and White Memorial Hospital,100,0,kidney,child
-Loyola University Medical Center,98,0,kidney,child
-Legacy Good Samaritan Hospital and Medical Center,97,0,kidney,child
-Froedtert Memorial Lutheran Hospital,97,0,kidney,child
-Rush University Medical Center,96,0,kidney,child
-Thomas Jefferson University Hospital,96,0,kidney,child
-Virginia Mason Medical Center,95,0,kidney,child
-William Beaumont Hospital,95,0,kidney,child
-University of North Carolina Hospitals,94,0,kidney,child
-University of Kentucky Medical Center,92,0,kidney,child
-University Hospitals of Cleveland,91,0,kidney,child
-Inova Fairfax Hospital,91,0,kidney,child
-Sentara Norfolk General Hospital,89,0,kidney,child
-Integris Baptist Medical Center,88,0,kidney,child
-Oregon Health and Science University,86,0,kidney,child
-University of Cincinnati  Medical Center,86,0,kidney,child
-Swedish Medical Center,85,0,kidney,child
-University of Texas Medical Branch at Galveston,84,0,kidney,child
-State University of New York Upstate Medical University,82,0,kidney,child
-Auxilio Mutuo Hospital,82,0,kidney,child
-Methodist Dallas Medical Center,82,0,kidney,child
-Hartford Hospital,81,0,kidney,child
-Medical City Dallas Hospital,79,0,kidney,child
-Strong Memorial Hospital, University of Rochester Medical Center,77,0,kidney,child
-UF Health Shands Hospital,77,0,kidney,child
-University of Toledo Medical Center,77,0,kidney,child
-University Hospital of State University of New York at Stony Brook,76,0,kidney,child
-Intermountain Medical Center,76,0,kidney,child
-Brigham and Women's Hospital,76,0,kidney,child
-St Luke's Hospital of Kansas City,72,0,kidney,child
-Albert Einstein Medical Center,71,0,kidney,child
-Tulane Medical Center,70,0,kidney,child
-Vanderbilt University Medical Center and Nashville VA Medical Center,175,0,kidney,child
-Florida Hospital Medical Center,172,0,kidney,child
-Banner-University Medical Center Phoenix,172,0,kidney,child
-University of Colorado Hospital/Health Science Center,171,0,kidney,child
-Montefiore Medical Center,163,0,kidney,child
-Medical College of Virginia Hospitals,162,0,kidney,child
-Loma Linda University Medical Center,160,0,kidney,child
-Keck Hospital of USC,160,0,kidney,child
-The Cleveland Clinic Foundation,159,0,kidney,child
-Medical City Fort Worth,155,0,kidney,child
-Walter Reed National Military Medical Center at Bethesda,56,0,kidney,child
-Robert Wood Johnson University Hospital,55,0,kidney,child
-Scripps Green Hospital,54,0,kidney,child
-University of Tennessee Medical Center at Knoxville,54,0,kidney,child
-Willis-Knighton Medical Center,52,0,kidney,child
-Albany Medical Center Hospital,52,0,kidney,child
-SSM Health Saint Louis University Hospital,52,0,kidney,child
-Hahnemann University Hospital,51,0,kidney,child
-St. Vincent Medical Center,51,0,kidney,child
-Lucile Salter Packard Children's Hospital at Stanford,49,0,kidney,child
-Geisinger Medical Center,48,0,kidney,child
-Westchester Medical Center,47,0,kidney,child
-State University of New York, Downstate Medical Center,47,0,kidney,child
-University of California Irvine Medical Center,47,0,kidney,child
-Maine Medical Center,46,0,kidney,child
-UMass Memorial Medical Center,46,0,kidney,child
-Temple University Hospital,46,0,kidney,child
-Providence Sacred Heart Medical Center & Children's Hospital,45,0,kidney,child
-UT Southwestern Medical Center/William P. Clements Jr. University Hospital,45,0,kidney,child
-VA Portland Health Care System,45,0,kidney,child
-The Queen's Medical Center,44,0,kidney,child
-North Shore University Hospital/Northwell Health,44,0,kidney,child
-St John Medical Center,43,0,kidney,child
-Hackensack University Medical Center,42,0,kidney,child
-Boston Medical Center,42,0,kidney,child
-George Washington University Hospital,42,0,kidney,child
-Pinnacle Health System at Harrisburg Hospital,42,0,kidney,child
-Texas Health Harris Methodist Fort Worth Hospital,42,0,kidney,child
-University Hospital, University of New Mexico Health Sciences Center,41,0,kidney,child
-Harper University Hospital Detroit Medical Center,41,0,kidney,child
-Abbott Northwestern Hospital,40,0,kidney,child
-Presbyterian Hospital,38,0,kidney,child
-Tufts Medical Center,36,0,kidney,child
-OSF Saint Francis Medical Center,36,0,kidney,child
-Centura Porter Adventist Hospital,36,0,kidney,child
-Las Palmas Medical Center,36,0,kidney,child
-Aurora St. Luke's Medical Center,35,0,kidney,child
-Charleston Area Medical Center,35,0,kidney,child
-Baystate Medical Center,35,0,kidney,child
-Henrico Doctors' Hospital,34,0,kidney,child
-The Lankenau Hospital,33,0,kidney,child
-Largo Medical Center,32,0,kidney,child
-Lahey Clinic Medical Center,32,0,kidney,child
-OU Medical Center,32,0,kidney,child
-Saint Thomas Hospital,31,0,kidney,child
-Christiana Care Health Services,31,0,kidney,child
-St John Hospital and Medical Center,30,0,kidney,child
-Our Lady of Lourdes Medical Center,29,0,kidney,child
-Saint Francis Hospital,29,0,kidney,child
-Penn State Milton S Hershey Medical Center,28,0,kidney,child
-University of Chicago Medical Center,70,0,kidney,child
-Research Medical Center,70,0,kidney,child
-University of California San Diego Medical Center,70,0,kidney,child
-Presbyterian/St Luke's Medical Center,70,0,kidney,child
-Baylor All Saints Medical Center,67,0,kidney,child
-Jewish Hospital,66,0,kidney,child
-Rhode Island Hospital,64,0,kidney,child
-University Medical Center of Southern Nevada,64,0,kidney,child
-Beth Israel Deaconess Medical Center,64,0,kidney,child
-Iowa Methodist Medical Center,64,0,kidney,child
-The Christ Hospital,63,0,kidney,child
-Vidant Medical Center,62,0,kidney,child
-AU Medical Center, Inc.,62,0,kidney,child
-University of Iowa Hospitals and Clinics Transplant Programs,61,0,kidney,child
-UAMS Medical Center,61,0,kidney,child
-Memorial Hermann Hospital, University of Texas at Houston,60,0,kidney,child
-VA Pittsburgh Healthcare System,59,0,kidney,child
-Sharp Memorial Hospital,59,0,kidney,child
-St Vincent Hospital and Health Care Center,59,0,kidney,child
-Hennepin County Medical Center,57,0,kidney,child
-Erlanger Medical Center,20,0,kidney,child
-Phoenix Children's Hospital,19,0,kidney,child
-Children's Mercy Hospital,19,0,kidney,child
-Childrens Hospital Los Angeles,19,0,kidney,child
-Children's Hospital Colorado,18,0,kidney,child
-Children's of Alabama,18,0,kidney,child
-Sanford Bismarck Medical Center,18,0,kidney,child
-Memorial Medical Center,17,0,kidney,child
-Harbor UCLA Medical Center,17,0,kidney,child
-Riverside Community Hospital,17,0,kidney,child
-Children's Hospital of Philadelphia,16,0,kidney,child
-Saint Marys Hospital (Mayo Clinic),15,0,kidney,child
-Ann & Robert H. Lurie Children's Hospital of Chicago,15,0,kidney,child
-Centennial Medical Center,15,0,kidney,child
-Children's Hospital of Pittsburgh of UPMC,14,0,kidney,child
-Michael E. DeBakey VA Medical Center,14,0,kidney,child
-Primary Children's Hospital,13,0,kidney,child
-Children's Medical Center of Dallas,13,0,kidney,child
-Crozer-Chester Medical Center,13,0,kidney,child
-Halifax Medical Center,13,0,kidney,child
-Cardinal Glennon Children's Hospital,6,0,kidney,child
-St. Louis Children's Hospital at Washington University Medical Center,6,0,kidney,child
-Children's Hospital of the King's Daughters,6,0,kidney,child
-Nationwide Children's Hospital,6,0,kidney,child
-Alfred I duPont Hospital for Children,6,0,kidney,child
-Le Bonheur Children's Medical Center,6,0,kidney,child
-Children's Hospital of Oklahoma,5,0,kidney,child
-Birmingham VA Medical Center,5,0,kidney,child
-Helen DeVos Children's Hospital,4,0,kidney,child
-Norton Children's Hospital,4,0,kidney,child
-Saint Joseph Hospital,13,0,kidney,child
-Cook Children's Medical Center,12,0,kidney,child
-Parkland Health and Hospital System,12,0,kidney,child
-Gulf Coast Medical Center,12,0,kidney,child
-St. Joseph's Hospital and Medical Center,11,0,kidney,child
-Rady Children's Hospital and Health Center,10,0,kidney,child
-UCSF Medical Center at Mission Bay,10,0,kidney,child
-Children's Hospital of Wisconsin,9,0,kidney,child
-Driscoll Children's Hospital,8,0,kidney,child
-Arkansas Children's Hospital,7,0,kidney,child
-Newark Beth Israel Medical Center,4,0,kidney,child
-James J. Peters VA Medical Center,4,0,kidney,child
-UPMC Hamot,4,0,kidney,child
-Doctor's Hospital at Renaissance,3,0,kidney,child
-Children's Hospital,3,0,kidney,child
-Children's Hospital of Michigan,3,0,kidney,child
-Sacred Heart Hospital Pensacola,3,0,kidney,child
-Steven and Alexandra Cohen Children's Medical Center/Northwell Health,1,0,kidney,child
-The University of Vermont Medical Center,23,0,kidney,child
-The Iowa City VA Health Care System,23,0,kidney,child
-Advocate Christ Medical Center,23,0,kidney,child
-Children's Hospital Medical Center,22,0,kidney,child
-Children's Healthcare of Atlanta at Egleston,22,0,kidney,child
-University of Missouri Hospital and Clinics,22,0,kidney,child
-Seattle Children's Hospital,21,0,kidney,child
-Nashville Veterans Administration Hospital,21,0,kidney,child
-Children's National Medical Center,20,0,kidney,child
-Lutheran Hospital of Fort Wayne,20,0,kidney,child
-University of Wisconsin Hospital and Clinics,37,0,kidney-pancreas,child
-Indiana University Health,29,0,kidney-pancreas,child
-Jackson Memorial Hospital University of Miami School of Medicine,26,0,kidney-pancreas,child
-University of Maryland Medical System,24,0,kidney-pancreas,child
-University of Minnesota Medical Center, Fairview,20,0,kidney-pancreas,child
-Georgetown University Medical Center,18,0,kidney-pancreas,child
-Tampa General Hospital,17,0,kidney-pancreas,child
-University of California San Francisco Medical Center,17,0,kidney-pancreas,child
-Ohio State University Medical Center,17,0,kidney-pancreas,child
-Emory University Hospital,16,0,kidney-pancreas,child
-Boston Children's Hospital,27,0,kidney,child
-Sanford Health/USD Medical Center,26,0,kidney,child
-North Austin Medical Center,26,0,kidney,child
-Avera McKennan Hospital,25,0,kidney,child
-Texas Children's Hospital,25,0,kidney,child
-Christus Santa Rosa Hospital Medical Center,25,0,kidney,child
-Mary Hitchcock Memorial Hospital,24,0,kidney,child
-Sanford Medical Center Fargo,24,0,kidney,child
-Mercy Medical Center-Des Moines,24,0,kidney,child
-East Texas Medical Center,24,0,kidney,child
-Northwestern Memorial Hospital,15,0,kidney-pancreas,child
-Ochsner Foundation Hospital,14,0,kidney-pancreas,child
-University of Michigan Medical Center,14,0,kidney-pancreas,child
-California Pacific Medical Center,14,0,kidney-pancreas,child
-Medical University of South Carolina,14,0,kidney-pancreas,child
-Baylor University Medical Center,13,0,kidney-pancreas,child
-Mayo Clinic Hospital,13,0,kidney-pancreas,child
-Rochester Methodist Hospital (Mayo Clinic),12,0,kidney-pancreas,child
-Willis-Knighton Medical Center,12,0,kidney-pancreas,child
-Jewish Hospital,10,0,kidney-pancreas,child
-Duke University Hospital,10,0,kidney-pancreas,child
-University of Alabama Hospital,10,0,kidney-pancreas,child
-St. Vincent Medical Center,10,0,kidney-pancreas,child
-University of Utah Medical Center,10,0,kidney-pancreas,child
-Houston Methodist Hospital,10,0,kidney-pancreas,child
-University of Cincinnati  Medical Center,10,0,kidney-pancreas,child
-NY Presbyterian Hospital/Columbia Univ. Medical Center,9,0,kidney-pancreas,child
-Montefiore Medical Center,9,0,kidney-pancreas,child
-Scott and White Memorial Hospital,9,0,kidney-pancreas,child
-Auxilio Mutuo Hospital,9,0,kidney-pancreas,child
-Methodist University Hospital,9,0,kidney-pancreas,child
-Barnes-Jewish Hospital,9,0,kidney-pancreas,child
-University of Kansas Hospital,9,0,kidney-pancreas,child
-Mayo Clinic Florida,8,0,kidney-pancreas,child
-Methodist Specialty and Transplant Hospital,7,0,kidney-pancreas,child
-University of Texas Medical Branch at Galveston,7,0,kidney-pancreas,child
-Sentara Norfolk General Hospital,7,0,kidney-pancreas,child
-Mount Sinai Medical Center,7,0,kidney-pancreas,child
-Wake Forest Baptist Medical Center,7,0,kidney-pancreas,child
-Piedmont Hospital,7,0,kidney-pancreas,child
-University of Chicago Medical Center,7,0,kidney-pancreas,child
-University of Illinois Medical Center,7,0,kidney-pancreas,child
-Johns Hopkins Hospital,7,0,kidney-pancreas,child
-Rush University Medical Center,6,0,kidney-pancreas,child
-University of Colorado Hospital/Health Science Center,6,0,kidney-pancreas,child
-Cedars-Sinai Medical Center,6,0,kidney-pancreas,child
-Erie County Medical Center,6,0,kidney-pancreas,child
-The Cleveland Clinic Foundation,6,0,kidney-pancreas,child
-Oregon Health and Science University,6,0,kidney-pancreas,child
-University of Pittsburgh Medical Center,6,0,kidney-pancreas,child
-Temple University Hospital,6,0,kidney-pancreas,child
-Methodist Dallas Medical Center,6,0,kidney-pancreas,child
-Baylor All Saints Medical Center,5,0,kidney-pancreas,child
-Memorial Hermann Hospital, University of Texas at Houston,5,0,kidney-pancreas,child
-Thomas Jefferson University Hospital,5,0,kidney-pancreas,child
-Integris Baptist Medical Center,5,0,kidney-pancreas,child
-University of Mississippi Medical Center,5,0,kidney-pancreas,child
-Banner-University Medical Center Phoenix,5,0,kidney-pancreas,child
-Keck Hospital of USC,5,0,kidney-pancreas,child
-Florida Hospital Medical Center,5,0,kidney-pancreas,child
-Medical College of Virginia Hospitals,4,0,kidney-pancreas,child
-University of Washington Medical Center,4,0,kidney-pancreas,child
-Virginia Mason Medical Center,3,0,kidney-pancreas,child
-Providence Sacred Heart Medical Center & Children's Hospital,3,0,kidney-pancreas,child
-Aurora St. Luke's Medical Center,3,0,kidney-pancreas,child
-University of Virginia Health Sciences Center,3,0,kidney-pancreas,child
-Inova Fairfax Hospital,3,0,kidney-pancreas,child
-Intermountain Medical Center,3,0,kidney-pancreas,child
-State University of New York Upstate Medical University,3,0,kidney-pancreas,child
-Albert Einstein Medical Center,3,0,kidney-pancreas,child
-Carolinas Medical Center,3,0,kidney-pancreas,child
-Our Lady of Lourdes Medical Center,3,0,kidney-pancreas,child
-Saint Barnabas Medical Center,3,0,kidney-pancreas,child
-Centura Porter Adventist Hospital,3,0,kidney-pancreas,child
-UF Health Shands Hospital,3,0,kidney-pancreas,child
-UMass Memorial Medical Center,3,0,kidney-pancreas,child
-Tulane Medical Center,2,0,kidney-pancreas,child
-Stanford Health Care,2,0,kidney-pancreas,child
-AU Medical Center, Inc.,2,0,kidney-pancreas,child
-University of California at Los Angeles Medical Center,2,0,kidney-pancreas,child
-University of Iowa Hospitals and Clinics Transplant Programs,5,0,kidney-pancreas,child
-Beth Israel Deaconess Medical Center,5,0,kidney-pancreas,child
-Vidant Medical Center,5,0,kidney-pancreas,child
-Research Medical Center,4,0,kidney-pancreas,child
-Henry Ford Hospital,4,0,kidney-pancreas,child
-Mercy Medical Center-Des Moines,4,0,kidney-pancreas,child
-Loma Linda University Medical Center,4,0,kidney-pancreas,child
-The Nebraska Medical Center,4,0,kidney-pancreas,child
-Allegheny General Hospital,4,0,kidney-pancreas,child
-Vanderbilt University Medical Center and Nashville VA Medical Center,4,0,kidney-pancreas,child
-Strong Memorial Hospital, University of Rochester Medical Center,1,0,kidney-pancreas,child
-Scripps Green Hospital,1,0,kidney-pancreas,child
-University of California Davis Medical Center,1,0,kidney-pancreas,child
-University of Kentucky Medical Center,1,0,kidney-pancreas,child
-OSF Saint Francis Medical Center,1,0,kidney-pancreas,child
-Massachusetts General Hospital,1,0,kidney-pancreas,child
-Brigham and Women's Hospital,1,0,kidney-pancreas,child
-SSM Health Saint Louis University Hospital,1,0,kidney-pancreas,child
-University of North Carolina Hospitals,1,0,kidney-pancreas,child
-University of California San Diego Medical Center,2,0,kidney-pancreas,child
-Sharp Memorial Hospital,2,0,kidney-pancreas,child
-Banner University Medical Center-Tucson,2,0,kidney-pancreas,child
-Albany Medical Center Hospital,2,0,kidney-pancreas,child
-New York-Presbyterian Hospital/Weill Cornell Medical Center,2,0,kidney-pancreas,child
-Hospital of the University of Pennsylvania,2,0,kidney-pancreas,child
-Medical City Dallas Hospital,2,0,kidney-pancreas,child
-Swedish Medical Center,2,0,kidney-pancreas,child
-Avera McKennan Hospital,1,0,kidney-pancreas,child
-University Hospital, University of Texas Health Science Center,1,0,kidney-pancreas,child
-Ochsner Foundation Hospital,211,0,liver,child
-University of California San Francisco Medical Center,183,0,liver,child
-University of Maryland Medical System,169,0,liver,child
-The Cleveland Clinic Foundation,158,0,liver,child
-Indiana University Health,154,0,liver,child
-University of California at Los Angeles Medical Center,146,0,liver,child
-Jackson Memorial Hospital University of Miami School of Medicine,143,0,liver,child
-Vanderbilt University Medical Center and Nashville VA Medical Center,141,0,liver,child
-Georgetown University Medical Center,137,0,liver,child
-Mount Sinai Medical Center,131,0,liver,child
-Lucile Salter Packard Children's Hospital at Stanford,43,0,liver,child
-University of North Carolina Hospitals,42,0,liver,child
-Children's Hospital of Pittsburgh of UPMC,38,0,liver,child
-Texas Children's Hospital,33,0,liver,child
-University of Chicago Medical Center,30,0,liver,child
-Yale New Haven Hospital,29,0,liver,child
-Children's Healthcare of Atlanta at Egleston,27,0,liver,child
-Childrens Hospital Los Angeles,25,0,liver,child
-UF Health Shands Hospital,25,0,liver,child
-Children's Hospital Medical Center,24,0,liver,child
-Boston Children's Hospital,17,0,liver,child
-Children's Hospital of Philadelphia,17,0,liver,child
-Ann & Robert H. Lurie Children's Hospital of Chicago,15,0,liver,child
-Children's Hospital Colorado,14,0,liver,child
-St. Louis Children's Hospital at Washington University Medical Center,14,0,liver,child
-Primary Children's Hospital,14,0,liver,child
-Westchester Medical Center,14,0,liver,child
-Seattle Children's Hospital,12,0,liver,child
-Children's Medical Center of Dallas,11,0,liver,child
-Alfred I duPont Hospital for Children,9,0,liver,child
-Mayo Clinic Florida,164,0,liver,child
-University of Alabama Hospital,138,0,liver,child
-Hospital of the University of Pennsylvania,127,0,liver,child
-Mayo Clinic Hospital,122,0,liver,child
-Emory University Hospital,122,0,liver,child
-Rochester Methodist Hospital (Mayo Clinic),118,0,liver,child
-Methodist University Hospital,118,0,liver,child
-Houston Methodist Hospital,118,0,liver,child
-University of Cincinnati  Medical Center,115,0,liver,child
-Lahey Clinic Medical Center,114,0,liver,child
-Piedmont Hospital,114,0,liver,child
-Keck Hospital of USC,111,0,liver,child
-University of Pittsburgh Medical Center,110,0,liver,child
-University of Colorado Hospital/Health Science Center,97,0,liver,child
-University of Kansas Hospital,94,0,liver,child
-Barnes-Jewish Hospital,94,0,liver,child
-Ohio State University Medical Center,92,0,liver,child
-Cedars-Sinai Medical Center,87,0,liver,child
-Henry Ford Hospital,127,0,liver,child
-Baylor University Medical Center,125,0,liver,child
-Johns Hopkins Hospital,119,0,liver,child
-University of Wisconsin Hospital and Clinics,113,0,liver,child
-The Nebraska Medical Center,100,0,liver,child
-Northwestern Memorial Hospital,96,0,liver,child
-CHI St. Luke's Health Baylor College of Medicine Medical Center,94,0,liver,child
-Duke University Hospital,93,0,liver,child
-Medical University of South Carolina,93,0,liver,child
-NY Presbyterian Hospital/Columbia Univ. Medical Center,83,0,liver,child
-Florida Hospital Medical Center,59,0,liver,child
-Loyola University Medical Center,58,0,liver,child
-UT Southwestern Medical Center/William P. Clements Jr. University Hospital,58,0,liver,child
-New York University Medical Center,57,0,liver,child
-Cleveland Clinic Florida Weston,57,0,liver,child
-California Pacific Medical Center,57,0,liver,child
-Loma Linda University Medical Center,52,0,liver,child
-Methodist Specialty and Transplant Hospital,47,0,liver,child
-Strong Memorial Hospital, University of Rochester Medical Center,44,0,liver,child
-Intermountain Medical Center,43,0,liver,child
-UCSF Medical Center at Mission Bay,9,0,liver,child
-Le Bonheur Children's Medical Center,9,0,liver,child
-Children's Hospital of Michigan,6,0,liver,child
-Saint Marys Hospital (Mayo Clinic),6,0,liver,child
-Children's of Alabama,5,0,liver,child
-Phoenix Children's Hospital,4,0,liver,child
-Children's Mercy Hospital,4,0,liver,child
-Children's Hospital of Wisconsin,4,0,liver,child
-Cardinal Glennon Children's Hospital,4,0,liver,child
-University of Mississippi Medical Center,42,0,liver,child
-University of Utah Medical Center,40,0,liver,child
-Jewish Hospital,39,0,liver,child
-Scripps Green Hospital,37,0,liver,child
-VA Pittsburgh Healthcare System,37,0,liver,child
-SSM Health Saint Louis University Hospital,36,0,liver,child
-UAMS Medical Center,36,0,liver,child
-New York-Presbyterian Hospital/Weill Cornell Medical Center,35,0,liver,child
-University of California San Diego Medical Center,34,0,liver,child
-Rush University Medical Center,34,0,liver,child
-Froedtert Memorial Lutheran Hospital,34,0,liver,child
-University of Kentucky Medical Center,32,0,liver,child
-Beth Israel Deaconess Medical Center,31,0,liver,child
-Allegheny General Hospital,31,0,liver,child
-University Hospital,27,0,liver,child
-Aurora St. Luke's Medical Center,27,0,liver,child
-Swedish Medical Center,26,0,liver,child
-William Beaumont Hospital,26,0,liver,child
-University of Illinois Medical Center,26,0,liver,child
-Hartford Hospital,23,0,liver,child
-University of Michigan Medical Center,79,0,liver,child
-Carolinas Medical Center,78,0,liver,child
-University of Minnesota Medical Center, Fairview,78,0,liver,child
-Massachusetts General Hospital,71,0,liver,child
-University Hospital, University of Texas Health Science Center,68,0,liver,child
-University of Virginia Health Sciences Center,65,0,liver,child
-Montefiore Medical Center,50,0,liver,child
-Integris Baptist Medical Center,49,0,liver,child
-Memorial Hermann Hospital, University of Texas at Houston,44,0,liver,child
-Auxilio Mutuo Hospital,43,0,liver,child
-Temple University Hospital,5,0,liver,child
-Avera McKennan Hospital,4,0,liver,child
-Largo Medical Center,4,0,liver,child
-Medical City Fort Worth,3,0,liver,child
-Baylor All Saints Medical Center,23,0,liver,child
-Hahnemann University Hospital,22,0,liver,child
-University Hospitals of Cleveland,20,0,liver,child
-Broward General Medical Center,19,0,liver,child
-Tulane Medical Center,18,0,liver,child
-University of Iowa Hospitals and Clinics Transplant Programs,18,0,liver,child
-VA Portland Health Care System,18,0,liver,child
-Geisinger Medical Center,18,0,liver,child
-University of Texas Medical Branch at Galveston,18,0,liver,child
-Penn State Milton S Hershey Medical Center,17,0,liver,child
-University of Washington Medical Center,83,0,liver,child
-Banner-University Medical Center Phoenix,79,0,liver,child
-Stanford Health Care,76,0,liver,child
-Medical College of Virginia Hospitals,75,0,liver,child
-Albert Einstein Medical Center,75,0,liver,child
-Thomas Jefferson University Hospital,73,0,liver,child
-Methodist Dallas Medical Center,69,0,liver,child
-UMass Memorial Medical Center,66,0,liver,child
-Tampa General Hospital,63,0,liver,child
-Oregon Health and Science University,62,0,liver,child
-Willis-Knighton Medical Center,17,0,liver,child
-Banner University Medical Center-Tucson,15,0,liver,child
-The Queen's Medical Center,14,0,liver,child
-Michael E. DeBakey VA Medical Center,14,0,liver,child
-Our Lady of Lourdes Medical Center,12,0,liver,child
-Centura Porter Adventist Hospital,12,0,liver,child
-Presbyterian/St Luke's Medical Center,12,0,liver,child
-St. Joseph's Hospital and Medical Center,10,0,liver,child
-St Luke's Hospital of Kansas City,10,0,liver,child
-OU Medical Center,9,0,liver,child
-Indiana University Health,21,0,pancreas,child
-University of Wisconsin Hospital and Clinics,19,0,pancreas,child
-The Nebraska Medical Center,17,0,pancreas,child
-Georgetown University Medical Center,16,0,pancreas,child
-Jackson Memorial Hospital University of Miami School of Medicine,12,0,pancreas,child
-Rochester Methodist Hospital (Mayo Clinic),9,0,pancreas,child
-Houston Methodist Hospital,9,0,pancreas,child
-University of Minnesota Medical Center, Fairview,8,0,pancreas,child
-NY Presbyterian Hospital/Columbia Univ. Medical Center,7,0,pancreas,child
-Mount Sinai Medical Center,7,0,pancreas,child
-The Cleveland Clinic Foundation,6,0,pancreas,child
-State University of New York Upstate Medical University,4,0,pancreas,child
-Henry Ford Hospital,4,0,pancreas,child
-Mayo Clinic Florida,4,0,pancreas,child
-University of California at Los Angeles Medical Center,3,0,pancreas,child
-Mayo Clinic Hospital,3,0,pancreas,child
-UMass Memorial Medical Center,3,0,pancreas,child
-Duke University Hospital,3,0,pancreas,child
-Northwestern Memorial Hospital,3,0,pancreas,child
-Montefiore Medical Center,3,0,pancreas,child
-Stanford Health Care,1,0,pancreas,child
-Cedars-Sinai Medical Center,1,0,pancreas,child
-Banner-University Medical Center Phoenix,1,0,pancreas,child
-Keck Hospital of USC,1,0,pancreas,child
-University of Colorado Hospital/Health Science Center,1,0,pancreas,child
-Emory University Hospital,1,0,pancreas,child
-Mercy Medical Center-Des Moines,1,0,pancreas,child
-Florida Hospital Medical Center,1,0,pancreas,child
-Vidant Medical Center,1,0,pancreas,child
-Wake Forest Baptist Medical Center,1,0,pancreas,child
-Children's Hospital of Pittsburgh of UPMC,3,0,pancreas,child
-University of Pittsburgh Medical Center,2,0,pancreas,child
-Thomas Jefferson University Hospital,2,0,pancreas,child
-Children's Hospital Medical Center,2,0,pancreas,child
-Ohio State University Medical Center,2,0,pancreas,child
-Robert Wood Johnson University Hospital,2,0,pancreas,child
-Scott and White Memorial Hospital,2,0,pancreas,child
-Baylor University Medical Center,2,0,pancreas,child
-Auxilio Mutuo Hospital,2,0,pancreas,child
-Piedmont Hospital,2,0,pancreas,child
-University of Virginia Health Sciences Center,1,0,pancreas,child
-Saint Barnabas Medical Center,1,0,pancreas,child
-New York-Presbyterian Hospital/Weill Cornell Medical Center,1,0,pancreas,child
-Sanford Medical Center Fargo,1,0,pancreas,child
-Strong Memorial Hospital, University of Rochester Medical Center,1,0,pancreas,child
-Lehigh Valley Hospital,1,0,pancreas,child
-Hospital of the University of Pennsylvania,1,0,pancreas,child
-UT Southwestern Medical Center/William P. Clements Jr. University Hospital,37,0,heart,child
-UF Health Shands Hospital,33,0,heart,child
-Carolinas Medical Center,32,0,heart,child
-University of Maryland Medical System,30,0,heart,child
-University of Minnesota Medical Center, Fairview,30,0,heart,child
-Saint Marys Hospital (Mayo Clinic),28,0,heart,child
-Memorial Hermann Hospital, University of Texas at Houston,28,0,heart,child
-Johns Hopkins Hospital,27,0,heart,child
-Ochsner Foundation Hospital,25,0,heart,child
-Texas Children's Hospital,25,0,heart,child
-Vanderbilt University Medical Center and Nashville VA Medical Center,94,0,heart,child
-Duke University Hospital,78,0,heart,child
-NY Presbyterian Hospital/Columbia Univ. Medical Center,76,0,heart,child
-Stanford Health Care,58,0,heart,child
-University of California at Los Angeles Medical Center,58,0,heart,child
-The Cleveland Clinic Foundation,51,0,heart,child
-Montefiore Medical Center,45,0,heart,child
-University of Michigan Medical Center,42,0,heart,child
-Mount Sinai Medical Center,39,0,heart,child
-University of Chicago Medical Center,39,0,heart,child
-University of North Carolina Hospitals,11,0,heart,child
-Providence Sacred Heart Medical Center & Children's Hospital,10,0,heart,child
-Children's Hospital Colorado,10,0,heart,child
-Medical University of South Carolina,10,0,heart,child
-Children's Hospital of Wisconsin,9,0,heart,child
-Children's Hospital of Philadelphia,9,0,heart,child
-Johns Hopkins All Children's Hospital,8,0,heart,child
-Nationwide Children's Hospital,8,0,heart,child
-Children's National Medical Center,8,0,heart,child
-Le Bonheur Children's Medical Center,7,0,heart,child
-Children's Healthcare of Atlanta at Egleston,15,0,heart,child
-Ann & Robert H. Lurie Children's Hospital of Chicago,15,0,heart,child
-Children's Medical Center of Dallas,14,0,heart,child
-University of Iowa Hospitals and Clinics Transplant Programs,14,0,heart,child
-Seattle Children's Hospital,13,0,heart,child
-Children's Hospital Medical Center,13,0,heart,child
-Children's of Alabama,12,0,heart,child
-Children's Hospital of Pittsburgh of UPMC,12,0,heart,child
-Boston Children's Hospital,12,0,heart,child
-Primary Children's Hospital,11,0,heart,child
-University of Chicago Medical Center,2,0,pancreas,child
-Beth Israel Deaconess Medical Center,2,0,pancreas,child
-Barnes-Jewish Hospital,2,0,pancreas,child
-University of Maryland Medical System,2,0,pancreas,child
-University of Michigan Medical Center,2,0,pancreas,child
-Banner University Medical Center-Tucson,2,0,pancreas,child
-Loma Linda University Medical Center,2,0,pancreas,child
-California Pacific Medical Center,2,0,pancreas,child
-Sharp Memorial Hospital,1,0,pancreas,child
-University of California Davis Medical Center,1,0,pancreas,child
-Children's Mercy Hospital,1,0,heart,child
-Cedars-Sinai Medical Center,118,0,heart,child
-Hospital of the University of Pennsylvania,72,0,heart,child
-University of Washington Medical Center,68,0,heart,child
-Baylor University Medical Center,60,0,heart,child
-Florida Hospital Medical Center,60,0,heart,child
-Newark Beth Israel Medical Center,59,0,heart,child
-Tampa General Hospital,54,0,heart,child
-St Luke's Hospital of Kansas City,50,0,heart,child
-Childrens Hospital Los Angeles,7,0,heart,child
-Arkansas Children's Hospital,6,0,heart,child
-Children's Hospital & Medical Center,5,0,heart,child
-Memorial Regional Hospital/Joe DiMaggio Children's Hospital,5,0,heart,child
-Children's Hospital of Michigan,4,0,heart,child
-Rady Children's Hospital and Health Center,3,0,heart,child
-Cardiovascular Center of Puerto Rico and the Caribbean,2,0,heart,child
-Alfred I duPont Hospital for Children,2,0,heart,child
-Cardinal Glennon Children's Hospital,2,0,heart,child
-Norton Children's Hospital,2,0,heart,child
-University of California San Diego Medical Center,32,0,heart,child
-University of Colorado Hospital/Health Science Center,30,0,heart,child
-Northwestern Memorial Hospital,30,0,heart,child
-Loyola University Medical Center,28,0,heart,child
-Cleveland Clinic Florida Weston,28,0,heart,child
-Ohio State University Medical Center,28,0,heart,child
-Medical College of Virginia Hospitals,27,0,heart,child
-Westchester Medical Center,27,0,heart,child
-Advocate Christ Medical Center,27,0,heart,child
-Allegheny General Hospital,26,0,heart,child
-University of Pittsburgh Medical Center,26,0,heart,child
-Saint Thomas Hospital,26,0,heart,child
-Brigham and Women's Hospital,24,0,heart,child
-Mayo Clinic Florida,23,0,heart,child
-Aurora St. Luke's Medical Center,23,0,heart,child
-Henry Ford Hospital,22,0,heart,child
-Methodist Specialty and Transplant Hospital,22,0,heart,child
-University of Utah Medical Center,20,0,heart,child
-University of California San Francisco Medical Center,20,0,heart,child
-Washington Hospital Center,19,0,heart,child
-The Nebraska Medical Center,49,0,heart,child
-Houston Methodist Hospital,49,0,heart,child
-Tufts Medical Center,48,0,heart,child
-Mayo Clinic Hospital,44,0,heart,child
-University of Kentucky Medical Center,40,0,heart,child
-Emory University Hospital,40,0,heart,child
-St Vincent Hospital and Health Care Center,39,0,heart,child
-Barnes-Jewish Hospital,37,0,heart,child
-Massachusetts General Hospital,35,0,heart,child
-CHI St. Luke's Health Baylor College of Medicine Medical Center,34,0,heart,child
-Baptist Memorial Hospital,15,0,heart,child
-Seton Medical Center Austin,14,0,heart,child
-University of Alabama Hospital,14,0,heart,child
-Keck Hospital of USC,14,0,heart,child
-Spectrum Health,13,0,heart,child
-Scott and White Memorial Hospital,13,0,heart,child
-Piedmont Hospital,12,0,heart,child
-California Pacific Medical Center,11,0,heart,child
-Medical City Dallas Hospital,11,0,heart,child
-Robert Wood Johnson University Hospital,11,0,heart,child
-Inova Fairfax Hospital,19,0,heart,child
-Temple University Hospital,18,0,heart,child
-Hartford Hospital,18,0,heart,child
-Baptist Medical Center,18,0,heart,child
-Abbott Northwestern Hospital,18,0,heart,child
-Intermountain Medical Center,17,0,heart,child
-University of Wisconsin Hospital and Clinics,17,0,heart,child
-Sentara Norfolk General Hospital,16,0,heart,child
-Strong Memorial Hospital, University of Rochester Medical Center,16,0,heart,child
-Yale New Haven Hospital,16,0,heart,child
-University Hospitals of Cleveland,11,0,heart,child
-Hunter Holmes McGuire Veterans Administration Medical Center,10,0,heart,child
-Froedtert Memorial Lutheran Hospital,10,0,heart,child
-Banner University Medical Center-Tucson,10,0,heart,child
-University of Kansas Hospital,10,0,heart,child
-Sharp Memorial Hospital,9,0,heart,child
-Sutter Meidcal Center Sacramento,8,0,heart,child
-Jewish Hospital,7,0,heart,child
-Lutheran Hospital of Fort Wayne,7,0,heart,child
-Wake Forest Baptist Medical Center,7,0,heart,child
-University of Cincinnati  Medical Center,6,0,heart,child
-University of Texas Medical Branch at Galveston,6,0,heart,child
-Penn State Milton S Hershey Medical Center,5,0,heart,child
-Hahnemann University Hospital,4,0,heart,child
-Thomas Jefferson University Hospital,4,0,heart,child
-Memorial Regional Hospital,3,0,heart,child
-MUSC Children's Hospital,2,0,heart,child
-Oregon Health and Science University,23,0,heart,child
-University of Mississippi Medical Center,22,0,heart,child
-Jackson Memorial Hospital University of Miami School of Medicine,21,0,heart,child
-University of Virginia Health Sciences Center,20,0,heart,child
-Phoenix Children's Hospital,19,0,heart,child
-Loma Linda University Medical Center,19,0,heart,child
-Indiana University Health,18,0,heart,child
-Lucile Salter Packard Children's Hospital at Stanford,18,0,heart,child
-St. Louis Children's Hospital at Washington University Medical Center,17,0,heart,child
-Integris Baptist Medical Center,16,0,heart,child
-University of Pittsburgh Medical Center,60,0,lung,child
-Houston Methodist Hospital,57,0,lung,child
-University of Minnesota Medical Center, Fairview,56,0,lung,child
-University of Washington Medical Center,55,0,lung,child
-Tampa General Hospital,55,0,lung,child
-Brigham and Women's Hospital,53,0,lung,child
-University of California San Francisco Medical Center,49,0,lung,child
-CHI St. Luke's Health Baylor College of Medicine Medical Center,47,0,lung,child
-UF Health Shands Hospital,44,0,lung,child
-Stanford Health Care,43,0,lung,child
-The Cleveland Clinic Foundation,124,0,lung,child
-Temple University Hospital,105,0,lung,child
-St. Joseph's Hospital and Medical Center,100,0,lung,child
-Hospital of the University of Pennsylvania,94,0,lung,child
-Duke University Hospital,93,0,lung,child
-University of California at Los Angeles Medical Center,87,0,lung,child
-Barnes-Jewish Hospital,84,0,lung,child
-NY Presbyterian Hospital/Columbia Univ. Medical Center,73,0,lung,child
-UT Southwestern Medical Center/William P. Clements Jr. University Hospital,67,0,lung,child
-Indiana University Health,63,0,lung,child
-Henry Ford Hospital,27,0,lung,child
-Emory University Hospital,27,0,lung,child
-University of Wisconsin Hospital and Clinics,27,0,lung,child
-University of Virginia Health Sciences Center,26,0,lung,child
-Vanderbilt University Medical Center and Nashville VA Medical Center,26,0,lung,child
-Newark Beth Israel Medical Center,25,0,lung,child
-Integris Baptist Medical Center,25,0,lung,child
-Johns Hopkins Hospital,25,0,lung,child
-Spectrum Health,24,0,lung,child
-University of Colorado Hospital/Health Science Center,21,0,lung,child
-University of Kansas Hospital,1,0,pancreas,child
-Jewish Hospital,1,0,pancreas,child
-Ochsner Foundation Hospital,1,0,pancreas,child
-University of Illinois Medical Center,1,0,pancreas,child
-University of Texas Medical Branch at Galveston,1,0,pancreas,child
-Medical University of South Carolina,1,0,pancreas,child
-University of Washington Medical Center,1,0,pancreas,child
-Virginia Mason Medical Center,1,0,pancreas,child
-University of Utah Medical Center,1,0,pancreas,child
-Medical College of Virginia Hospitals,1,0,pancreas,child
-Mayo Clinic Florida,43,0,lung,child
-Loyola University Medical Center,42,0,lung,child
-Ohio State University Medical Center,41,0,lung,child
-Massachusetts General Hospital,38,0,lung,child
-University of Maryland Medical System,37,0,lung,child
-University of Michigan Medical Center,36,0,lung,child
-Baylor University Medical Center,34,0,lung,child
-Ochsner Foundation Hospital,31,0,lung,child
-University of Kentucky Medical Center,30,0,lung,child
-University Hospital, University of Texas Health Science Center,28,0,lung,child
-Cedars-Sinai Medical Center,13,0,lung,child
-Northwestern Memorial Hospital,13,0,lung,child
-Froedtert Memorial Lutheran Hospital,13,0,lung,child
-University of Utah Medical Center,12,0,lung,child
-The Nebraska Medical Center,12,0,lung,child
-University Hospitals of Cleveland,10,0,lung,child
-Jewish Hospital,10,0,lung,child
-Advocate Christ Medical Center,10,0,lung,child
-St. Louis Children's Hospital at Washington University Medical Center,9,0,lung,child
-Memorial Hermann Hospital, University of Texas at Houston,9,0,lung,child
-Stanford Health Care,8,0,heart-lung,child
-Houston Methodist Hospital,3,0,heart-lung,child
-Jackson Memorial Hospital University of Miami School of Medicine,2,0,heart-lung,child
-University of Alabama Hospital,2,0,heart-lung,child
-Saint Marys Hospital (Mayo Clinic),2,0,heart-lung,child
-St. Louis Children's Hospital at Washington University Medical Center,1,0,heart-lung,child
-Duke University Hospital,1,0,heart-lung,child
-Newark Beth Israel Medical Center,1,0,heart-lung,child
-UT Southwestern Medical Center/William P. Clements Jr. University Hospital,1,0,heart-lung,child
-Temple University Hospital,1,0,heart-lung,child
-University of California San Francisco Medical Center,1,0,heart-lung,child
-University of Maryland Medical System,1,0,heart-lung,child
-UF Health Shands Hospital,1,0,heart-lung,child
-Cedars-Sinai Medical Center,1,0,heart-lung,child
-University of North Carolina Hospitals,20,0,lung,child
-University of Chicago Medical Center,19,0,lung,child
-University of Alabama Hospital,18,0,lung,child
-Inova Fairfax Hospital,17,0,lung,child
-Banner University Medical Center-Tucson,16,0,lung,child
-Florida Hospital Medical Center,16,0,lung,child
-Medical University of South Carolina,16,0,lung,child
-University of Iowa Hospitals and Clinics Transplant Programs,14,0,lung,child
-University of California San Diego Medical Center,14,0,lung,child
-Jackson Memorial Hospital University of Miami School of Medicine,13,0,lung,child
-The Nebraska Medical Center,20,0,intestine,child
-Georgetown University Medical Center,20,0,intestine,child
-Jackson Memorial Hospital University of Miami School of Medicine,19,0,intestine,child
-The Cleveland Clinic Foundation,14,0,intestine,child
-Mount Sinai Medical Center,10,0,intestine,child
-Indiana University Health,9,0,intestine,child
-Henry Ford Hospital,6,0,intestine,child
-Children's Hospital of Pittsburgh of UPMC,4,0,intestine,child
-University of California at Los Angeles Medical Center,4,0,intestine,child
-Duke University Hospital,3,0,intestine,child
-NY Presbyterian Hospital/Columbia Univ. Medical Center,2,0,intestine,child
-Lucile Salter Packard Children's Hospital at Stanford,2,0,intestine,child
-Boston Children's Hospital,2,0,intestine,child
-Children's Hospital Medical Center,2,0,intestine,child
-Seattle Children's Hospital,1,0,intestine,child
-University of Washington Medical Center,1,0,intestine,child
-University of Wisconsin Hospital and Clinics,1,0,intestine,child
-University of Pittsburgh Medical Center,1,0,intestine,child
-University of Alabama Hospital,1,0,intestine,child
-Stanford Health Care,1,0,intestine,child
-Keck Hospital of USC,9,0,lung,child
-Saint Marys Hospital (Mayo Clinic),9,0,lung,child
-Texas Children's Hospital,7,0,lung,child
-Boston Children's Hospital,5,0,lung,child
-Lucile Salter Packard Children's Hospital at Stanford,4,0,lung,child
-Children's Hospital of Philadelphia,4,0,lung,child
-Nationwide Children's Hospital,4,0,lung,child
-Children's Hospital Medical Center,2,0,lung,child
-Children's Hospital of Pittsburgh of UPMC,2,0,lung,child
-Mayo Clinic Hospital,2,0,lung,child
+﻿"name","volume","rate","organ","type"
+"Piedmont Hospital","139","10.8","kidney","adult"
+"Yale New Haven Hospital","135","13.5","kidney","adult"
+"University of Mississippi Medical Center","130","22.2","kidney","adult"
+"University of Utah Medical Center","124","42.1","kidney","adult"
+"Mercy Health Saint Mary�s","124","35.0","kidney","adult"
+"University of Illinois Medical Center","121","14.4","kidney","adult"
+"The Nebraska Medical Center","120","57.6","kidney","adult"
+"Methodist University Hospital","119","17.2","kidney","adult"
+"Henry Ford Hospital","118","21.3","kidney","adult"
+"Stanford Health Care","117","6.1","kidney","adult"
+"Medical University of South Carolina","223","24.5","kidney","adult"
+"Houston Methodist Hospital","223","14.5","kidney","adult"
+"Georgetown University Medical Center","217","22.4","kidney","adult"
+"Mount Sinai Medical Center","217","13.0","kidney","adult"
+"University of Pittsburgh Medical Center","215","21.6","kidney","adult"
+"Cedars-Sinai Medical Center","215","17.1","kidney","adult"
+"New York-Presbyterian Hospital/Weill Cornell Medical Center","199","15.2","kidney","adult"
+"Johns Hopkins Hospital","193","16.4","kidney","adult"
+"Indiana University Health","189","21.7","kidney","adult"
+"Hospital of the University of Pennsylvania","188","17.1","kidney","adult"
+"University of California San Francisco Medical Center","344","6.5","kidney","adult"
+"Saint Barnabas Medical Center","297","20.2","kidney","adult"
+"Mayo Clinic Hospital","285","33.2","kidney","adult"
+"University of California Davis Medical Center","282","25.8","kidney","adult"
+"Emory University Hospital","276","12.2","kidney","adult"
+"Ohio State University Medical Center","265","39.7","kidney","adult"
+"University of Alabama Hospital","246","8.4","kidney","adult"
+"Tampa General Hospital","241","33.2","kidney","adult"
+"Barnes-Jewish Hospital","231","26.7","kidney","adult"
+"Northwestern Memorial Hospital","224","17.9","kidney","adult"
+"Rochester Methodist Hospital (Mayo Clinic)","187","33.6","kidney","adult"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","184","16.8","kidney","adult"
+"California Pacific Medical Center","183","10.5","kidney","adult"
+"University of Michigan Medical Center","181","17.4","kidney","adult"
+"University of Minnesota Medical Center, Fairview","173","18.9","kidney","adult"
+"Banner-University Medical Center Phoenix","172","18.7","kidney","adult"
+"University of Colorado Hospital/Health Science Center","171","13.6","kidney","adult"
+"Vanderbilt University Medical Center and Nashville VA Medical Center","170","20.2","kidney","adult"
+"Florida Hospital Medical Center","168","33.0","kidney","adult"
+"Medical College of Virginia Hospitals","156","32.8","kidney","adult"
+"Jackson Memorial Hospital University of Miami School of Medicine","317","16.5","kidney","adult"
+"University of Wisconsin Hospital and Clinics","289","29.4","kidney","adult"
+"Keck Hospital of USC","160","14.8","kidney","adult"
+"Medical City Fort Worth","155","137.2","kidney","adult"
+"Cleveland Clinic Florida Weston","121","55.0","kidney","adult"
+"CHI St. Luke's Health Baylor College of Medicine Medical Center","119","13.3","kidney","adult"
+"Rush University Medical Center","96","20.4","kidney","adult"
+"Methodist Dallas Medical Center","82","23.3","kidney","adult"
+"Albany Medical Center Hospital","50","20.3","kidney","adult"
+"University of California at Los Angeles Medical Center","354","15.2","kidney","adult"
+"Froedtert Memorial Lutheran Hospital","97","12.5","kidney","adult"
+"Thomas Jefferson University Hospital","96","15.4","kidney","adult"
+"William Beaumont Hospital","95","22.3","kidney","adult"
+"Virginia Mason Medical Center","95","21.8","kidney","adult"
+"University of Kentucky Medical Center","90","18.7","kidney","adult"
+"University Hospitals of Cleveland","89","16.2","kidney","adult"
+"Inova Fairfax Hospital","89","14.8","kidney","adult"
+"Sentara Norfolk General Hospital","89","13.5","kidney","adult"
+"Integris Baptist Medical Center","88","39.7","kidney","adult"
+"University of North Carolina Hospitals","88","11.8","kidney","adult"
+"University of Cincinnati  Medical Center","86","36.2","kidney","adult"
+"University Hospital, University of Texas Health Science Center","86","14.6","kidney","adult"
+"University of Texas Medical Branch at Galveston","84","25.7","kidney","adult"
+"Swedish Medical Center","84","19.0","kidney","adult"
+"Auxilio Mutuo Hospital","82","18.5","kidney","adult"
+"Medical City Dallas Hospital","78","32.5","kidney","adult"
+"State University of New York Upstate Medical University","77","51.1","kidney","adult"
+"Hartford Hospital","77","16.9","kidney","adult"
+"Intermountain Medical Center","76","35.1","kidney","adult"
+"Brigham and Women's Hospital","76","25.4","kidney","adult"
+"Banner University Medical Center-Tucson","115","60.9","kidney","adult"
+"Carolinas Medical Center","115","21.5","kidney","adult"
+"Erie County Medical Center","113","37.5","kidney","adult"
+"Massachusetts General Hospital","112","17.5","kidney","adult"
+"Allegheny General Hospital","107","29.5","kidney","adult"
+"University of Virginia Health Sciences Center","106","17.8","kidney","adult"
+"Lehigh Valley Hospital","101","23.5","kidney","adult"
+"Scott and White Memorial Hospital","100","55.7","kidney","adult"
+"Loyola University Medical Center","98","16.3","kidney","adult"
+"Legacy Good Samaritan Hospital and Medical Center","97","36.7","kidney","adult"
+"Strong Memorial Hospital, University of Rochester Medical Center","76","18.9","kidney","adult"
+"Oregon Health and Science University","75","35.8","kidney","adult"
+"University Hospital of State University of New York at Stony Brook","75","34.7","kidney","adult"
+"UF Health Shands Hospital","73","16.0","kidney","adult"
+"St Luke's Hospital of Kansas City","72","60.1","kidney","adult"
+"Albert Einstein Medical Center","71","8.3","kidney","adult"
+"Research Medical Center","70","32.1","kidney","adult"
+"Presbyterian/St Luke's Medical Center","70","14.2","kidney","adult"
+"University of California San Diego Medical Center","70","9.4","kidney","adult"
+"Baylor All Saints Medical Center","67","7.3","kidney","adult"
+"Montefiore Medical Center","156","19.2","kidney","adult"
+"New York University Medical Center","151","31.3","kidney","adult"
+"Duke University Hospital","148","25.2","kidney","adult"
+"Baylor University Medical Center","147","15.2","kidney","adult"
+"Ochsner Foundation Hospital","146","12.1","kidney","adult"
+"Loma Linda University Medical Center","146","11.7","kidney","adult"
+"University of Kansas Hospital","141","35.0","kidney","adult"
+"Mayo Clinic Florida","140","21.2","kidney","adult"
+"Wake Forest Baptist Medical Center","139","30.2","kidney","adult"
+"University of Washington Medical Center","139","27.7","kidney","adult"
+"Jewish Hospital","66","25.3","kidney","adult"
+"University of Chicago Medical Center","66","11.1","kidney","adult"
+"Tulane Medical Center","65","15.2","kidney","adult"
+"Iowa Methodist Medical Center","64","94.5","kidney","adult"
+"University Medical Center of Southern Nevada","64","46.9","kidney","adult"
+"Beth Israel Deaconess Medical Center","64","17.9","kidney","adult"
+"The Christ Hospital","63","42.3","kidney","adult"
+"UAMS Medical Center","61","32.9","kidney","adult"
+"Vidant Medical Center","61","21.6","kidney","adult"
+"Rhode Island Hospital","61","20.8","kidney","adult"
+"AU Medical Center, Inc.","60","4.7","kidney","adult"
+"St Vincent Hospital and Health Care Center","59","26.1","kidney","adult"
+"Sharp Memorial Hospital","59","11.5","kidney","adult"
+"VA Pittsburgh Healthcare System","59","9.6","kidney","adult"
+"University of Iowa Hospitals and Clinics Transplant Programs","58","17.8","kidney","adult"
+"Hennepin County Medical Center","57","14.9","kidney","adult"
+"Memorial Hermann Hospital, University of Texas at Houston","57","14.4","kidney","adult"
+"Walter Reed National Military Medical Center at Bethesda","56","21.9","kidney","adult"
+"University of Tennessee Medical Center at Knoxville","54","22.1","kidney","adult"
+"Scripps Green Hospital","54","9.6","kidney","adult"
+"Maine Medical Center","45","44.0","kidney","adult"
+"VA Portland Health Care System","45","22.7","kidney","adult"
+"Providence Sacred Heart Medical Center & Children's Hospital","45","16.1","kidney","adult"
+"Geisinger Medical Center","45","13.5","kidney","adult"
+"UT Southwestern Medical Center/William P. Clements Jr. University Hospital","45","12.9","kidney","adult"
+"North Shore University Hospital/Northwell Health","44","9.2","kidney","adult"
+"St John Medical Center","43","44.3","kidney","adult"
+"The Queen's Medical Center","43","11.8","kidney","adult"
+"Texas Health Harris Methodist Fort Worth Hospital","42","66.2","kidney","adult"
+"George Washington University Hospital","42","41.9","kidney","adult"
+"Boston Medical Center","42","17.4","kidney","adult"
+"Pinnacle Health System at Harrisburg Hospital","42","12.4","kidney","adult"
+"Harper University Hospital Detroit Medical Center","41","13.4","kidney","adult"
+"Abbott Northwestern Hospital","40","20.5","kidney","adult"
+"Hackensack University Medical Center","39","17.0","kidney","adult"
+"Presbyterian Hospital","38","18.2","kidney","adult"
+"University Hospital, University of New Mexico Health Sciences Center","37","14.5","kidney","adult"
+"Las Palmas Medical Center","36","29.0","kidney","adult"
+"Tufts Medical Center","36","19.4","kidney","adult"
+"Centura Porter Adventist Hospital","36","13.4","kidney","adult"
+"Charleston Area Medical Center","35","20.0","kidney","adult"
+"Baystate Medical Center","35","17.9","kidney","adult"
+"OSF Saint Francis Medical Center","35","12.8","kidney","adult"
+"Aurora St. Luke's Medical Center","35","12.5","kidney","adult"
+"Henrico Doctors' Hospital","34","13.3","kidney","adult"
+"The Lankenau Hospital","33","23.9","kidney","adult"
+"Largo Medical Center","32","235.3","kidney","adult"
+"OU Medical Center","32","27.1","kidney","adult"
+"Lahey Clinic Medical Center","32","19.2","kidney","adult"
+"Saint Thomas Hospital","31","20.4","kidney","adult"
+"Mary Hitchcock Memorial Hospital","23","46.0","kidney","adult"
+"The Iowa City VA Health Care System","23","40.6","kidney","adult"
+"The University of Vermont Medical Center","23","28.7","kidney","adult"
+"Penn State Milton S Hershey Medical Center","23","15.3","kidney","adult"
+"Advocate Christ Medical Center","23","9.8","kidney","adult"
+"Nashville Veterans Administration Hospital","21","10.2","kidney","adult"
+"Lutheran Hospital of Fort Wayne","20","17.9","kidney","adult"
+"Erlanger Medical Center","20","17.4","kidney","adult"
+"Sanford Bismarck Medical Center","18","26.0","kidney","adult"
+"University of Missouri Hospital and Clinics","17","17.9","kidney","adult"
+"Christiana Care Health Services","31","9.5","kidney","adult"
+"St John Hospital and Medical Center","30","11.0","kidney","adult"
+"Saint Francis Hospital","29","36.6","kidney","adult"
+"Our Lady of Lourdes Medical Center","29","12.2","kidney","adult"
+"Sanford Health/USD Medical Center","26","24.7","kidney","adult"
+"North Austin Medical Center","26","7.8","kidney","adult"
+"Christus Santa Rosa Hospital Medical Center","25","11.6","kidney","adult"
+"Sanford Medical Center Fargo","24","34.1","kidney","adult"
+"Mercy Medical Center-Des Moines","24","23.0","kidney","adult"
+"Avera McKennan Hospital","24","11.4","kidney","adult"
+"Memorial Medical Center","17","11.8","kidney","adult"
+"Riverside Community Hospital","17","11.1","kidney","adult"
+"Harbor UCLA Medical Center","17","5.6","kidney","adult"
+"Michael E. DeBakey VA Medical Center","14","7.1","kidney","adult"
+"Halifax Medical Center","13","46.0","kidney","adult"
+"Crozer-Chester Medical Center","13","10.8","kidney","adult"
+"Saint Joseph Hospital","13","8.6","kidney","adult"
+"Gulf Coast Medical Center","12","9.4","kidney","adult"
+"Parkland Health and Hospital System","12","8.6","kidney","adult"
+"St. Joseph's Hospital and Medical Center","11","43.4","kidney","adult"
+"Lucile Salter Packard Children's Hospital at Stanford","11","35.6","kidney","adult"
+"Saint Marys Hospital (Mayo Clinic)","8","48.3","kidney","adult"
+"Children's Mercy Hospital","7","45.5","kidney","adult"
+"Children's Medical Center of Dallas","7","13.4","kidney","adult"
+"Children's Hospital Medical Center","5","55.0","kidney","adult"
+"Rady Children's Hospital and Health Center","5","41.4","kidney","adult"
+"Birmingham VA Medical Center","5","10.2","kidney","adult"
+"UPMC Hamot","4","72.1","kidney","adult"
+"Childrens Hospital Los Angeles","4","56.6","kidney","adult"
+"James J. Peters VA Medical Center","4","41.6","kidney","adult"
+"Children's of Alabama","2","16.3","kidney","adult"
+"Children's Healthcare of Atlanta at Egleston","2","11.0","kidney","adult"
+"Cardinal Glennon Children's Hospital","1","165.6","kidney","adult"
+"Children's Hospital of Michigan","1","73.1","kidney","adult"
+"Children's Hospital","1","60.4","kidney","adult"
+"Ann & Robert H. Lurie Children's Hospital of Chicago","1","25.2","kidney","adult"
+"Children's Hospital of Philadelphia","1","10.3","kidney","adult"
+"Seattle Children's Hospital","4","30.3","kidney","adult"
+"Boston Children's Hospital","4","24.6","kidney","adult"
+"UCSF Medical Center at Mission Bay","3","125.1","kidney","adult"
+"Children's Hospital of Pittsburgh of UPMC","3","59.2","kidney","adult"
+"Driscoll Children's Hospital","3","46.8","kidney","adult"
+"Primary Children's Hospital","3","27.9","kidney","adult"
+"Texas Children's Hospital","3","26.5","kidney","adult"
+"Children's Hospital of the King's Daughters","2","37.7","kidney","adult"
+"Children's Hospital Colorado","2","17.9","kidney","adult"
+"Methodist Specialty and Transplant Hospital","302","13.5","kidney","adult"
+"University of Maryland Medical System","220","14.6","kidney","adult"
+"The Cleveland Clinic Foundation","152","22.2","kidney","adult"
+"University of Toledo Medical Center","77","40.5","kidney","adult"
+"East Texas Medical Center","24","15.7","kidney","adult"
+"Centennial Medical Center","15","5.2","kidney","adult"
+"Newark Beth Israel Medical Center","4","103.3","kidney","adult"
+"Doctor's Hospital at Renaissance","3","37.7","kidney","adult"
+"Sacred Heart Hospital Pensacola","3","35.8","kidney","adult"
+"Robert Wood Johnson University Hospital","53","11.6","kidney","adult"
+"SSM Health Saint Louis University Hospital","52","29.3","kidney","adult"
+"Willis-Knighton Medical Center","52","16.3","kidney","adult"
+"St. Vincent Medical Center","51","19.3","kidney","adult"
+"Hahnemann University Hospital","51","12.4","kidney","adult"
+"University of California Irvine Medical Center","47","6.1","kidney","adult"
+"Temple University Hospital","46","22.1","kidney","adult"
+"UMass Memorial Medical Center","46","18.0","kidney","adult"
+"Westchester Medical Center","46","10.4","kidney","adult"
+"State University of New York, Downstate Medical Center","46","8.0","kidney","adult"
+"University of Wisconsin Hospital and Clinics","37","271.3","kidney-pancreas","adult"
+"Indiana University Health","29","126.2","kidney-pancreas","adult"
+"University of Maryland Medical System","24","81.6","kidney-pancreas","adult"
+"University of Minnesota Medical Center, Fairview","20","18.2","kidney-pancreas","adult"
+"Georgetown University Medical Center","18","154.6","kidney-pancreas","adult"
+"Ohio State University Medical Center","17","128.5","kidney-pancreas","adult"
+"Tampa General Hospital","17","93.2","kidney-pancreas","adult"
+"University of California San Francisco Medical Center","17","24.6","kidney-pancreas","adult"
+"Emory University Hospital","16","44.3","kidney-pancreas","adult"
+"Northwestern Memorial Hospital","15","80.9","kidney-pancreas","adult"
+"Piedmont Hospital","7","21.4","kidney-pancreas","adult"
+"Oregon Health and Science University","6","198.7","kidney-pancreas","adult"
+"Cedars-Sinai Medical Center","6","135.1","kidney-pancreas","adult"
+"Methodist Dallas Medical Center","6","103.0","kidney-pancreas","adult"
+"Erie County Medical Center","6","63.0","kidney-pancreas","adult"
+"Rush University Medical Center","6","59.7","kidney-pancreas","adult"
+"Methodist Specialty and Transplant Hospital","6","55.6","kidney-pancreas","adult"
+"Temple University Hospital","6","43.1","kidney-pancreas","adult"
+"The Cleveland Clinic Foundation","6","39.0","kidney-pancreas","adult"
+"University of Pittsburgh Medical Center","6","34.8","kidney-pancreas","adult"
+"Beth Israel Deaconess Medical Center","5","37.5","kidney-pancreas","adult"
+"Thomas Jefferson University Hospital","5","29.9","kidney-pancreas","adult"
+"Vanderbilt University Medical Center and Nashville VA Medical Center","4","62.5","kidney-pancreas","adult"
+"Medical College of Virginia Hospitals","4","62.0","kidney-pancreas","adult"
+"Mercy Medical Center-Des Moines","4","61.5","kidney-pancreas","adult"
+"The Nebraska Medical Center","4","60.7","kidney-pancreas","adult"
+"Research Medical Center","4","60.0","kidney-pancreas","adult"
+"Allegheny General Hospital","4","46.9","kidney-pancreas","adult"
+"Henry Ford Hospital","4","41.0","kidney-pancreas","adult"
+"University of Washington Medical Center","4","27.6","kidney-pancreas","adult"
+"Loma Linda University Medical Center","4","21.6","kidney-pancreas","adult"
+"Inova Fairfax Hospital","3","89.1","kidney-pancreas","adult"
+"State University of New York Upstate Medical University","3","84.6","kidney-pancreas","adult"
+"Providence Sacred Heart Medical Center & Children's Hospital","3","70.3","kidney-pancreas","adult"
+"Aurora St. Luke's Medical Center","3","64.5","kidney-pancreas","adult"
+"Carolinas Medical Center","3","59.7","kidney-pancreas","adult"
+"University of Virginia Health Sciences Center","3","56.9","kidney-pancreas","adult"
+"UMass Memorial Medical Center","3","45.3","kidney-pancreas","adult"
+"Virginia Mason Medical Center","3","41.8","kidney-pancreas","adult"
+"Saint Barnabas Medical Center","3","41.0","kidney-pancreas","adult"
+"University of Cincinnati  Medical Center","10","92.5","kidney-pancreas","adult"
+"St. Vincent Medical Center","10","79.3","kidney-pancreas","adult"
+"University of Alabama Hospital","10","73.9","kidney-pancreas","adult"
+"Jewish Hospital","10","65.8","kidney-pancreas","adult"
+"Houston Methodist Hospital","10","41.0","kidney-pancreas","adult"
+"University of Kansas Hospital","9","219.7","kidney-pancreas","adult"
+"Barnes-Jewish Hospital","9","154.7","kidney-pancreas","adult"
+"Scott and White Memorial Hospital","9","134.2","kidney-pancreas","adult"
+"Auxilio Mutuo Hospital","9","115.1","kidney-pancreas","adult"
+"Methodist University Hospital","9","74.7","kidney-pancreas","adult"
+"California Pacific Medical Center","14","75.8","kidney-pancreas","adult"
+"University of Michigan Medical Center","14","52.7","kidney-pancreas","adult"
+"Ochsner Foundation Hospital","14","49.7","kidney-pancreas","adult"
+"Medical University of South Carolina","14","30.1","kidney-pancreas","adult"
+"Baylor University Medical Center","13","162.1","kidney-pancreas","adult"
+"Mayo Clinic Hospital","13","67.9","kidney-pancreas","adult"
+"Willis-Knighton Medical Center","12","127.9","kidney-pancreas","adult"
+"Rochester Methodist Hospital (Mayo Clinic)","12","43.2","kidney-pancreas","adult"
+"University of Utah Medical Center","10","256.9","kidney-pancreas","adult"
+"Duke University Hospital","10","98.3","kidney-pancreas","adult"
+"University of California San Diego Medical Center","2","23.6","kidney-pancreas","adult"
+"Hospital of the University of Pennsylvania","2","23.3","kidney-pancreas","adult"
+"Swedish Medical Center","2","16.2","kidney-pancreas","adult"
+"Sharp Memorial Hospital","2","13.8","kidney-pancreas","adult"
+"Stanford Health Care","2","11.9","kidney-pancreas","adult"
+"New York-Presbyterian Hospital/Weill Cornell Medical Center","2","9.8","kidney-pancreas","adult"
+"AU Medical Center, Inc.","2","4.6","kidney-pancreas","adult"
+"SSM Health Saint Louis University Hospital","1","58.5","kidney-pancreas","adult"
+"Strong Memorial Hospital, University of Rochester Medical Center","1","54.7","kidney-pancreas","adult"
+"Avera McKennan Hospital","1","31.2","kidney-pancreas","adult"
+"University of Colorado Hospital/Health Science Center","6","25.6","kidney-pancreas","adult"
+"Vidant Medical Center","5","399.6","kidney-pancreas","adult"
+"Florida Hospital Medical Center","5","171.5","kidney-pancreas","adult"
+"University of Mississippi Medical Center","5","170.5","kidney-pancreas","adult"
+"University of Iowa Hospitals and Clinics Transplant Programs","5","131.8","kidney-pancreas","adult"
+"Memorial Hermann Hospital, University of Texas at Houston","5","130.9","kidney-pancreas","adult"
+"Baylor All Saints Medical Center","5","78.4","kidney-pancreas","adult"
+"Integris Baptist Medical Center","5","65.6","kidney-pancreas","adult"
+"Banner-University Medical Center Phoenix","5","51.7","kidney-pancreas","adult"
+"Keck Hospital of USC","5","40.8","kidney-pancreas","adult"
+"OSF Saint Francis Medical Center","1","27.4","kidney-pancreas","adult"
+"University Hospital, University of Texas Health Science Center","1","25.5","kidney-pancreas","adult"
+"University of California Davis Medical Center","1","24.6","kidney-pancreas","adult"
+"Massachusetts General Hospital","1","20.1","kidney-pancreas","adult"
+"Scripps Green Hospital","1","15.0","kidney-pancreas","adult"
+"University of Kentucky Medical Center","1","10.3","kidney-pancreas","adult"
+"University of North Carolina Hospitals","1","9.6","kidney-pancreas","adult"
+"Our Lady of Lourdes Medical Center","3","34.5","kidney-pancreas","adult"
+"UF Health Shands Hospital","3","33.5","kidney-pancreas","adult"
+"Centura Porter Adventist Hospital","3","29.0","kidney-pancreas","adult"
+"Albert Einstein Medical Center","3","24.5","kidney-pancreas","adult"
+"Intermountain Medical Center","3","23.3","kidney-pancreas","adult"
+"Banner University Medical Center-Tucson","2","93.8","kidney-pancreas","adult"
+"Medical City Dallas Hospital","2","71.4","kidney-pancreas","adult"
+"Tulane Medical Center","2","68.1","kidney-pancreas","adult"
+"Albany Medical Center Hospital","2","47.0","kidney-pancreas","adult"
+"University of California at Los Angeles Medical Center","2","35.5","kidney-pancreas","adult"
+"Montefiore Medical Center","9","56.8","kidney-pancreas","adult"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","9","54.3","kidney-pancreas","adult"
+"Mayo Clinic Florida","8","66.4","kidney-pancreas","adult"
+"University of Texas Medical Branch at Galveston","7","102.2","kidney-pancreas","adult"
+"Wake Forest Baptist Medical Center","7","61.4","kidney-pancreas","adult"
+"University of Chicago Medical Center","7","57.4","kidney-pancreas","adult"
+"University of Illinois Medical Center","7","56.0","kidney-pancreas","adult"
+"Sentara Norfolk General Hospital","7","53.4","kidney-pancreas","adult"
+"Mount Sinai Medical Center","7","39.3","kidney-pancreas","adult"
+"Johns Hopkins Hospital","7","28.7","kidney-pancreas","adult"
+"University of Alabama Hospital","138","139.6","liver","adult"
+"University of California at Los Angeles Medical Center","137","37.0","liver","adult"
+"Vanderbilt University Medical Center and Nashville VA Medical Center","136","87.0","liver","adult"
+"Hospital of the University of Pennsylvania","127","100.2","liver","adult"
+"Henry Ford Hospital","127","58.4","liver","adult"
+"Baylor University Medical Center","125","66.0","liver","adult"
+"Mount Sinai Medical Center","125","39.4","liver","adult"
+"Jackson Memorial Hospital University of Miami School of Medicine","124","83.8","liver","adult"
+"Emory University Hospital","122","102.6","liver","adult"
+"Mayo Clinic Hospital","122","83.2","liver","adult"
+"University of California San Francisco Medical Center","183","24.2","liver","adult"
+"Mayo Clinic Florida","164","158.4","liver","adult"
+"University of Michigan Medical Center","70","38.4","liver","adult"
+"Florida Hospital Medical Center","59","162.0","liver","adult"
+"California Pacific Medical Center","57","25.8","liver","adult"
+"Integris Baptist Medical Center","49","31.0","liver","adult"
+"Ochsner Foundation Hospital","206","163.4","liver","adult"
+"University of Maryland Medical System","169","39.3","liver","adult"
+"The Cleveland Clinic Foundation","154","93.5","liver","adult"
+"Indiana University Health","142","263.3","liver","adult"
+"University Hospital, University of Texas Health Science Center","65","37.4","liver","adult"
+"Tampa General Hospital","63","135.6","liver","adult"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","63","37.3","liver","adult"
+"Oregon Health and Science University","62","69.8","liver","adult"
+"University of Virginia Health Sciences Center","60","63.0","liver","adult"
+"UT Southwestern Medical Center/William P. Clements Jr. University Hospital","58","48.3","liver","adult"
+"Loyola University Medical Center","58","35.7","liver","adult"
+"Cleveland Clinic Florida Weston","57","112.9","liver","adult"
+"New York University Medical Center","57","13.2","liver","adult"
+"Loma Linda University Medical Center","52","31.1","liver","adult"
+"Banner-University Medical Center Phoenix","79","90.3","liver","adult"
+"Stanford Health Care","76","14.1","liver","adult"
+"Albert Einstein Medical Center","75","145.1","liver","adult"
+"Medical College of Virginia Hospitals","75","65.2","liver","adult"
+"Thomas Jefferson University Hospital","73","75.4","liver","adult"
+"Carolinas Medical Center","73","69.0","liver","adult"
+"University of Minnesota Medical Center, Fairview","72","39.1","liver","adult"
+"Methodist Dallas Medical Center","69","58.6","liver","adult"
+"Massachusetts General Hospital","68","28.1","liver","adult"
+"UMass Memorial Medical Center","66","26.9","liver","adult"
+"University of Colorado Hospital/Health Science Center","97","16.6","liver","adult"
+"Northwestern Memorial Hospital","95","103.5","liver","adult"
+"University of Kansas Hospital","94","78.2","liver","adult"
+"Barnes-Jewish Hospital","94","77.6","liver","adult"
+"CHI St. Luke's Health Baylor College of Medicine Medical Center","94","37.4","liver","adult"
+"Ohio State University Medical Center","92","131.5","liver","adult"
+"Cedars-Sinai Medical Center","87","31.2","liver","adult"
+"University of Washington Medical Center","83","43.8","liver","adult"
+"Medical University of South Carolina","82","155.9","liver","adult"
+"Duke University Hospital","81","140.9","liver","adult"
+"Rochester Methodist Hospital (Mayo Clinic)","118","39.2","liver","adult"
+"Houston Methodist Hospital","118","33.9","liver","adult"
+"University of Cincinnati  Medical Center","115","70.2","liver","adult"
+"Johns Hopkins Hospital","115","28.9","liver","adult"
+"Lahey Clinic Medical Center","114","65.0","liver","adult"
+"Piedmont Hospital","114","59.7","liver","adult"
+"Keck Hospital of USC","111","36.5","liver","adult"
+"University of Pittsburgh Medical Center","110","60.8","liver","adult"
+"University of Wisconsin Hospital and Clinics","108","71.3","liver","adult"
+"Georgetown University Medical Center","104","34.8","liver","adult"
+"University Hospitals of Cleveland","20","27.7","liver","adult"
+"Broward General Medical Center","19","100.7","liver","adult"
+"Yale New Haven Hospital","19","19.7","liver","adult"
+"Tulane Medical Center","18","100.7","liver","adult"
+"University of Iowa Hospitals and Clinics Transplant Programs","18","71.1","liver","adult"
+"VA Portland Health Care System","18","43.7","liver","adult"
+"University of Texas Medical Branch at Galveston","18","37.2","liver","adult"
+"Geisinger Medical Center","18","23.1","liver","adult"
+"Willis-Knighton Medical Center","17","31.9","liver","adult"
+"Penn State Milton S Hershey Medical Center","17","17.8","liver","adult"
+"VA Pittsburgh Healthcare System","37","27.0","liver","adult"
+"UAMS Medical Center","36","103.4","liver","adult"
+"SSM Health Saint Louis University Hospital","36","43.0","liver","adult"
+"New York-Presbyterian Hospital/Weill Cornell Medical Center","35","65.0","liver","adult"
+"Rush University Medical Center","34","44.5","liver","adult"
+"University of California San Diego Medical Center","34","35.7","liver","adult"
+"Froedtert Memorial Lutheran Hospital","34","30.3","liver","adult"
+"University of Kentucky Medical Center","32","29.2","liver","adult"
+"Beth Israel Deaconess Medical Center","31","38.8","liver","adult"
+"Allegheny General Hospital","31","37.2","liver","adult"
+"Banner University Medical Center-Tucson","15","48.5","liver","adult"
+"The Queen's Medical Center","14","40.7","liver","adult"
+"Michael E. DeBakey VA Medical Center","14","24.4","liver","adult"
+"Westchester Medical Center","14","17.7","liver","adult"
+"Presbyterian/St Luke's Medical Center","12","31.1","liver","adult"
+"Our Lady of Lourdes Medical Center","12","25.2","liver","adult"
+"Centura Porter Adventist Hospital","12","15.5","liver","adult"
+"St Luke's Hospital of Kansas City","10","148.7","liver","adult"
+"St. Joseph's Hospital and Medical Center","10","137.2","liver","adult"
+"OU Medical Center","9","36.3","liver","adult"
+"UCSF Medical Center at Mission Bay","1","48.1","liver","adult"
+"Children's Hospital of Wisconsin","1","32.2","liver","adult"
+"Children's Hospital Medical Center","1","17.9","liver","adult"
+"Methodist University Hospital","118","206.9","liver","adult"
+"The Nebraska Medical Center","84","53.3","liver","adult"
+"Auxilio Mutuo Hospital","43","338.0","liver","adult"
+"Largo Medical Center","4","753.1","liver","adult"
+"Medical City Fort Worth","3","146.7","liver","adult"
+"Saint Marys Hospital (Mayo Clinic)","2","57.5","liver","adult"
+"University of Wisconsin Hospital and Clinics","19","165.8","pancreas","adult"
+"Indiana University Health","19","134.1","pancreas","adult"
+"Houston Methodist Hospital","9","44.4","pancreas","adult"
+"Rochester Methodist Hospital (Mayo Clinic)","9","21.4","pancreas","adult"
+"Georgetown University Medical Center","8","70.3","pancreas","adult"
+"University of Minnesota Medical Center, Fairview","8","8.4","pancreas","adult"
+"Jackson Memorial Hospital University of Miami School of Medicine","7","54.5","pancreas","adult"
+"Mount Sinai Medical Center","7","19.0","pancreas","adult"
+"The Cleveland Clinic Foundation","6","15.7","pancreas","adult"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","5","8.7","pancreas","adult"
+"Mayo Clinic Florida","4","954.9","pancreas","adult"
+"State University of New York Upstate Medical University","4","65.0","pancreas","adult"
+"Henry Ford Hospital","4","15.7","pancreas","adult"
+"Montefiore Medical Center","3","60.9","pancreas","adult"
+"UMass Memorial Medical Center","3","51.4","pancreas","adult"
+"Northwestern Memorial Hospital","3","34.6","pancreas","adult"
+"Mayo Clinic Hospital","3","27.5","pancreas","adult"
+"Banner University Medical Center-Tucson","2","777.1","pancreas","adult"
+"Auxilio Mutuo Hospital","2","214.9","pancreas","adult"
+"Baylor University Medical Center","2","169.1","pancreas","adult"
+"Barnes-Jewish Hospital","2","140.2","pancreas","adult"
+"California Pacific Medical Center","2","124.4","pancreas","adult"
+"Scott and White Memorial Hospital","2","69.2","pancreas","adult"
+"Robert Wood Johnson University Hospital","2","64.9","pancreas","adult"
+"Loma Linda University Medical Center","2","57.9","pancreas","adult"
+"Piedmont Hospital","2","52.8","pancreas","adult"
+"Ohio State University Medical Center","2","44.7","pancreas","adult"
+"Thomas Jefferson University Hospital","2","35.6","pancreas","adult"
+"Methodist Specialty and Transplant Hospital","47","50.5","liver","adult"
+"Strong Memorial Hospital, University of Rochester Medical Center","44","71.7","liver","adult"
+"Intermountain Medical Center","43","37.1","liver","adult"
+"University of Mississippi Medical Center","42","385.2","liver","adult"
+"Memorial Hermann Hospital, University of Texas at Houston","42","91.0","liver","adult"
+"University of North Carolina Hospitals","42","53.7","liver","adult"
+"Montefiore Medical Center","42","39.6","liver","adult"
+"University of Utah Medical Center","40","43.1","liver","adult"
+"Jewish Hospital","39","93.9","liver","adult"
+"Scripps Green Hospital","37","37.5","liver","adult"
+"University of Chicago Medical Center","27","86.2","liver","adult"
+"Aurora St. Luke's Medical Center","27","49.0","liver","adult"
+"University Hospital","27","42.0","liver","adult"
+"University of Illinois Medical Center","26","77.9","liver","adult"
+"Swedish Medical Center","26","65.3","liver","adult"
+"William Beaumont Hospital","26","57.8","liver","adult"
+"UF Health Shands Hospital","25","34.6","liver","adult"
+"Hartford Hospital","23","69.8","liver","adult"
+"Baylor All Saints Medical Center","23","8.8","liver","adult"
+"Hahnemann University Hospital","22","44.4","liver","adult"
+"Beth Israel Deaconess Medical Center","2","33.5","pancreas","adult"
+"University of Pittsburgh Medical Center","2","22.5","pancreas","adult"
+"University of Michigan Medical Center","2","20.1","pancreas","adult"
+"University of Maryland Medical System","2","13.4","pancreas","adult"
+"University of Chicago Medical Center","2","8.5","pancreas","adult"
+"Florida Hospital Medical Center","1","1352.8","pancreas","adult"
+"University of Texas Medical Branch at Galveston","1","338.2","pancreas","adult"
+"University of Kansas Hospital","1","329.1","pancreas","adult"
+"University of California Davis Medical Center","1","134.3","pancreas","adult"
+"Cedars-Sinai Medical Center","1","113.4","pancreas","adult"
+"University of Washington Medical Center","1","103.8","pancreas","adult"
+"University of Utah Medical Center","1","98.5","pancreas","adult"
+"Keck Hospital of USC","1","86.8","pancreas","adult"
+"Duke University Hospital","1","83.0","pancreas","adult"
+"Ochsner Foundation Hospital","1","82.3","pancreas","adult"
+"Emory University Hospital","1","55.8","pancreas","adult"
+"Mercy Medical Center-Des Moines","1","55.1","pancreas","adult"
+"Vidant Medical Center","1","44.1","pancreas","adult"
+"Sanford Medical Center Fargo","1","31.8","pancreas","adult"
+"University of Colorado Hospital/Health Science Center","1","30.7","pancreas","adult"
+"University of Illinois Medical Center","1","10.6","pancreas","adult"
+"University of Virginia Health Sciences Center","1","10.5","pancreas","adult"
+"New York-Presbyterian Hospital/Weill Cornell Medical Center","1","9.1","pancreas","adult"
+"Medical University of South Carolina","1","8.2","pancreas","adult"
+"Children's Hospital of Pittsburgh of UPMC","7","47.0","liver","adult"
+"Temple University Hospital","5","22.6","liver","adult"
+"Avera McKennan Hospital","4","33.3","liver","adult"
+"Lucile Salter Packard Children's Hospital at Stanford","2","38.3","liver","adult"
+"St. Louis Children's Hospital at Washington University Medical Center","1","78.0","liver","adult"
+"Medical College of Virginia Hospitals","1","28.1","pancreas","adult"
+"Banner-University Medical Center Phoenix","1","25.9","pancreas","adult"
+"Jewish Hospital","1","24.3","pancreas","adult"
+"Virginia Mason Medical Center","1","22.8","pancreas","adult"
+"Saint Barnabas Medical Center","1","22.6","pancreas","adult"
+"Strong Memorial Hospital, University of Rochester Medical Center","1","20.0","pancreas","adult"
+"Lehigh Valley Hospital","1","19.4","pancreas","adult"
+"Hospital of the University of Pennsylvania","1","15.1","pancreas","adult"
+"Sharp Memorial Hospital","1","13.3","pancreas","adult"
+"Wake Forest Baptist Medical Center","1","13.3","pancreas","adult"
+"Mayo Clinic Hospital","44","102.5","heart","adult"
+"Cedars-Sinai Medical Center","117","116.7","heart","adult"
+"Vanderbilt University Medical Center and Nashville VA Medical Center","82","85.9","heart","adult"
+"Duke University Hospital","74","87.3","heart","adult"
+"Hospital of the University of Pennsylvania","72","123.3","heart","adult"
+"University of Washington Medical Center","68","126.7","heart","adult"
+"Florida Hospital Medical Center","60","258.1","heart","adult"
+"Baylor University Medical Center","60","240.7","heart","adult"
+"Newark Beth Israel Medical Center","59","190.6","heart","adult"
+"Stanford Health Care","57","127.3","heart","adult"
+"Tampa General Hospital","54","133.0","heart","adult"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","54","31.0","heart","adult"
+"University of California at Los Angeles Medical Center","53","149.4","heart","adult"
+"St Luke's Hospital of Kansas City","50","174.2","heart","adult"
+"The Nebraska Medical Center","49","91.6","heart","adult"
+"Houston Methodist Hospital","49","77.1","heart","adult"
+"Tufts Medical Center","48","35.0","heart","adult"
+"The Cleveland Clinic Foundation","44","36.6","heart","adult"
+"University of Kentucky Medical Center","40","256.1","heart","adult"
+"Emory University Hospital","40","63.6","heart","adult"
+"Advocate Christ Medical Center","27","27.5","heart","adult"
+"Saint Thomas Hospital","26","336.1","heart","adult"
+"Allegheny General Hospital","26","63.4","heart","adult"
+"University of Pittsburgh Medical Center","26","50.4","heart","adult"
+"Ochsner Foundation Hospital","24","51.7","heart","adult"
+"Brigham and Women's Hospital","24","50.7","heart","adult"
+"UF Health Shands Hospital","24","44.0","heart","adult"
+"Oregon Health and Science University","23","99.4","heart","adult"
+"Aurora St. Luke's Medical Center","23","83.8","heart","adult"
+"Carolinas Medical Center","23","81.9","heart","adult"
+"University of Colorado Hospital/Health Science Center","30","70.3","heart","adult"
+"Northwestern Memorial Hospital","30","60.1","heart","adult"
+"Cleveland Clinic Florida Weston","28","215.7","heart","adult"
+"Ohio State University Medical Center","28","121.1","heart","adult"
+"Memorial Hermann Hospital, University of Texas at Houston","28","67.9","heart","adult"
+"Loyola University Medical Center","28","54.4","heart","adult"
+"Westchester Medical Center","27","139.5","heart","adult"
+"University of Maryland Medical System","27","118.1","heart","adult"
+"Medical College of Virginia Hospitals","27","61.9","heart","adult"
+"University of Minnesota Medical Center, Fairview","27","49.4","heart","adult"
+"Mayo Clinic Florida","23","40.8","heart","adult"
+"Methodist Specialty and Transplant Hospital","22","116.4","heart","adult"
+"Henry Ford Hospital","22","103.7","heart","adult"
+"Johns Hopkins Hospital","22","53.9","heart","adult"
+"Saint Marys Hospital (Mayo Clinic)","22","19.5","heart","adult"
+"University of California San Francisco Medical Center","20","80.9","heart","adult"
+"Jackson Memorial Hospital University of Miami School of Medicine","20","63.4","heart","adult"
+"University of Utah Medical Center","20","63.4","heart","adult"
+"Washington Hospital Center","19","35.4","heart","adult"
+"Inova Fairfax Hospital","19","27.1","heart","adult"
+"Temple University Hospital","18","161.6","heart","adult"
+"Abbott Northwestern Hospital","18","140.5","heart","adult"
+"University of Mississippi Medical Center","18","88.4","heart","adult"
+"Hartford Hospital","18","81.1","heart","adult"
+"Baptist Medical Center","18","38.4","heart","adult"
+"Intermountain Medical Center","17","79.5","heart","adult"
+"University of Wisconsin Hospital and Clinics","17","48.8","heart","adult"
+"Indiana University Health","16","222.2","heart","adult"
+"Integris Baptist Medical Center","16","77.2","heart","adult"
+"Strong Memorial Hospital, University of Rochester Medical Center","16","62.8","heart","adult"
+"University of Iowa Hospitals and Clinics Transplant Programs","12","34.4","heart","adult"
+"Piedmont Hospital","12","33.9","heart","adult"
+"California Pacific Medical Center","11","216.5","heart","adult"
+"Robert Wood Johnson University Hospital","11","90.7","heart","adult"
+"University Hospitals of Cleveland","11","78.4","heart","adult"
+"University of North Carolina Hospitals","11","76.5","heart","adult"
+"Medical City Dallas Hospital","11","31.7","heart","adult"
+"University of Kansas Hospital","10","362.7","heart","adult"
+"Froedtert Memorial Lutheran Hospital","10","47.2","heart","adult"
+"Hunter Holmes McGuire Veterans Administration Medical Center","10","47.0","heart","adult"
+"Banner University Medical Center-Tucson","10","36.2","heart","adult"
+"Sharp Memorial Hospital","9","154.6","heart","adult"
+"Medical University of South Carolina","9","73.5","heart","adult"
+"Providence Sacred Heart Medical Center & Children's Hospital","9","30.5","heart","adult"
+"Sutter Meidcal Center Sacramento","8","29.3","heart","adult"
+"Wake Forest Baptist Medical Center","7","91.6","heart","adult"
+"Lutheran Hospital of Fort Wayne","7","82.3","heart","adult"
+"Jewish Hospital","7","39.2","heart","adult"
+"University of Cincinnati  Medical Center","6","92.6","heart","adult"
+"University of Texas Medical Branch at Galveston","6","87.5","heart","adult"
+"St. Louis Children's Hospital at Washington University Medical Center","5","224.3","heart","adult"
+"Penn State Milton S Hershey Medical Center","5","32.4","heart","adult"
+"Hahnemann University Hospital","4","81.3","heart","adult"
+"Thomas Jefferson University Hospital","4","38.1","heart","adult"
+"Memorial Regional Hospital","3","54.9","heart","adult"
+"Lucile Salter Packard Children's Hospital at Stanford","2","55.1","heart","adult"
+"Texas Children's Hospital","2","29.9","heart","adult"
+"Seattle Children's Hospital","1","380.5","heart","adult"
+"Cardiovascular Center of Puerto Rico and the Caribbean","1","300.6","heart","adult"
+"St Vincent Hospital and Health Care Center","39","144.2","heart","adult"
+"University of Chicago Medical Center","39","108.6","heart","adult"
+"Mount Sinai Medical Center","38","35.9","heart","adult"
+"UT Southwestern Medical Center/William P. Clements Jr. University Hospital","37","138.2","heart","adult"
+"Montefiore Medical Center","37","74.4","heart","adult"
+"Barnes-Jewish Hospital","37","57.0","heart","adult"
+"Massachusetts General Hospital","35","100.4","heart","adult"
+"University of Michigan Medical Center","35","42.9","heart","adult"
+"CHI St. Luke's Health Baylor College of Medicine Medical Center","34","28.8","heart","adult"
+"University of California San Diego Medical Center","32","99.9","heart","adult"
+"Children's Hospital of Pittsburgh of UPMC","1","168.3","heart","adult"
+"Children's Hospital Medical Center","1","66.7","heart","adult"
+"Primary Children's Hospital","1","42.5","heart","adult"
+"Boston Children's Hospital","1","27.9","heart","adult"
+"Yale New Haven Hospital","16","40.6","heart","adult"
+"Sentara Norfolk General Hospital","16","34.3","heart","adult"
+"Baptist Memorial Hospital","15","73.3","heart","adult"
+"Keck Hospital of USC","14","119.1","heart","adult"
+"Seton Medical Center Austin","14","112.5","heart","adult"
+"University of Alabama Hospital","14","55.7","heart","adult"
+"Scott and White Memorial Hospital","13","186.1","heart","adult"
+"Spectrum Health","13","52.4","heart","adult"
+"Loma Linda University Medical Center","12","101.9","heart","adult"
+"University of Virginia Health Sciences Center","12","44.0","heart","adult"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","72","111.6","lung","adult"
+"Indiana University Health","63","633.5","lung","adult"
+"University of Pittsburgh Medical Center","60","123.1","lung","adult"
+"Houston Methodist Hospital","57","129.7","lung","adult"
+"University of Minnesota Medical Center, Fairview","55","208.1","lung","adult"
+"Tampa General Hospital","55","103.2","lung","adult"
+"University of Washington Medical Center","55","88.3","lung","adult"
+"Brigham and Women's Hospital","53","82.1","lung","adult"
+"CHI St. Luke's Health Baylor College of Medicine Medical Center","47","190.4","lung","adult"
+"UF Health Shands Hospital","43","317.9","lung","adult"
+"St. Joseph's Hospital and Medical Center","98","1148.7","lung","adult"
+"Barnes-Jewish Hospital","84","211.2","lung","adult"
+"UT Southwestern Medical Center/William P. Clements Jr. University Hospital","67","152.2","lung","adult"
+"University of California San Francisco Medical Center","49","167.5","lung","adult"
+"Spectrum Health","24","237.1","lung","adult"
+"The Cleveland Clinic Foundation","124","113.6","lung","adult"
+"Temple University Hospital","105","116.6","lung","adult"
+"Hospital of the University of Pennsylvania","94","217.6","lung","adult"
+"Duke University Hospital","93","625.5","lung","adult"
+"University of California at Los Angeles Medical Center","87","227.9","lung","adult"
+"Mayo Clinic Florida","43","112.1","lung","adult"
+"Loyola University Medical Center","42","254.9","lung","adult"
+"Stanford Health Care","42","119.1","lung","adult"
+"Ohio State University Medical Center","41","334.0","lung","adult"
+"Massachusetts General Hospital","38","342.5","lung","adult"
+"University of Maryland Medical System","37","390.5","lung","adult"
+"University of Michigan Medical Center","36","62.1","lung","adult"
+"Baylor University Medical Center","34","229.3","lung","adult"
+"University of Kentucky Medical Center","30","155.4","lung","adult"
+"University Hospital, University of Texas Health Science Center","28","345.1","lung","adult"
+"Jackson Memorial Hospital University of Miami School of Medicine","25","42.6","kidney-pancreas","adult"
+"Brigham and Women's Hospital","1","35.3","kidney-pancreas","adult"
+"Mayo Clinic Hospital","2","193.7","lung","adult"
+"Boston Children's Hospital","1","33.6","lung","adult"
+"Ochsner Foundation Hospital","31","232.7","lung","adult"
+"University of California San Diego Medical Center","14","35.2","lung","adult"
+"University of North Carolina Hospitals","18","448.2","lung","adult"
+"University of Alabama Hospital","18","76.8","lung","adult"
+"Inova Fairfax Hospital","17","109.5","lung","adult"
+"Florida Hospital Medical Center","16","1915.2","lung","adult"
+"Medical University of South Carolina","16","784.3","lung","adult"
+"Banner University Medical Center-Tucson","16","342.3","lung","adult"
+"University of Iowa Hospitals and Clinics Transplant Programs","14","195.8","lung","adult"
+"Northwestern Memorial Hospital","13","1376.4","lung","adult"
+"Froedtert Memorial Lutheran Hospital","13","115.7","lung","adult"
+"Cedars-Sinai Medical Center","13","96.0","lung","adult"
+"The Nebraska Medical Center","12","834.9","lung","adult"
+"University of Utah Medical Center","12","471.9","lung","adult"
+"Jackson Memorial Hospital University of Miami School of Medicine","12","144.6","lung","adult"
+"Advocate Christ Medical Center","10","169.0","lung","adult"
+"University Hospitals of Cleveland","10","164.9","lung","adult"
+"Jewish Hospital","10","67.6","lung","adult"
+"Memorial Hermann Hospital, University of Texas at Houston","9","414.3","lung","adult"
+"Keck Hospital of USC","9","40.2","lung","adult"
+"Saint Marys Hospital (Mayo Clinic)","9","29.6","lung","adult"
+"Nationwide Children's Hospital","4","203.4","lung","adult"
+"Stanford Health Care","8","97.5","heart-lung","adult"
+"Houston Methodist Hospital","3","176.2","heart-lung","adult"
+"Jackson Memorial Hospital University of Miami School of Medicine","2","226.2","heart-lung","adult"
+"University of Alabama Hospital","2","64.7","heart-lung","adult"
+"Saint Marys Hospital (Mayo Clinic)","2","34.8","heart-lung","adult"
+"Newark Beth Israel Medical Center","1","716.2","heart-lung","adult"
+"UT Southwestern Medical Center/William P. Clements Jr. University Hospital","1","160.9","heart-lung","adult"
+"Temple University Hospital","1","152.8","heart-lung","adult"
+"University of Maryland Medical System","1","123.8","heart-lung","adult"
+"UF Health Shands Hospital","1","115.2","heart-lung","adult"
+"Duke University Hospital","1","96.6","heart-lung","adult"
+"Cedars-Sinai Medical Center","1","64.0","heart-lung","adult"
+"University of California San Francisco Medical Center","1","37.3","heart-lung","adult"
+"Stanford Health Care","1","171.5","intestine","adult"
+"University of Washington Medical Center","1","68.3","intestine","adult"
+"Children's Hospital of Pittsburgh of UPMC","1","18.1","intestine","adult"
+"University of Pittsburgh Medical Center","1","16.9","intestine","adult"
+"University of Wisconsin Hospital and Clinics","27","157.7","lung","adult"
+"Henry Ford Hospital","27","130.2","lung","adult"
+"Emory University Hospital","27","59.1","lung","adult"
+"Vanderbilt University Medical Center and Nashville VA Medical Center","26","305.5","lung","adult"
+"University of Virginia Health Sciences Center","26","282.0","lung","adult"
+"Integris Baptist Medical Center","25","310.1","lung","adult"
+"Newark Beth Israel Medical Center","25","249.1","lung","adult"
+"Johns Hopkins Hospital","25","151.6","lung","adult"
+"University of Colorado Hospital/Health Science Center","21","88.8","lung","adult"
+"University of Chicago Medical Center","19","212.7","lung","adult"
+"The Cleveland Clinic Foundation","11","113.4","intestine","adult"
+"Jackson Memorial Hospital University of Miami School of Medicine","10","97.6","intestine","adult"
+"The Nebraska Medical Center","9","265.7","intestine","adult"
+"Mount Sinai Medical Center","9","191.1","intestine","adult"
+"Indiana University Health","8","169.7","intestine","adult"
+"Georgetown University Medical Center","8","43.9","intestine","adult"
+"Henry Ford Hospital","6","597.1","intestine","adult"
+"University of California at Los Angeles Medical Center","4","38.3","intestine","adult"
+"University of Alabama Hospital","1","777.1","intestine","adult"
+"University of Wisconsin Hospital and Clinics","1","388.6","intestine","adult"
+"Tampa General Hospital","251","0","kidney","child"
+"University of Alabama Hospital","246","0","kidney","child"
+"Mount Sinai Medical Center","232","0","kidney","child"
+"Barnes-Jewish Hospital","231","0","kidney","child"
+"Medical University of South Carolina","229","0","kidney","child"
+"Northwestern Memorial Hospital","224","0","kidney","child"
+"Houston Methodist Hospital","223","0","kidney","child"
+"University of Maryland Medical System","220","0","kidney","child"
+"Cedars-Sinai Medical Center","220","0","kidney","child"
+"Georgetown University Medical Center","218","0","kidney","child"
+"University of California at Los Angeles Medical Center","370","0","kidney","child"
+"University of California San Francisco Medical Center","344","0","kidney","child"
+"Jackson Memorial Hospital University of Miami School of Medicine","336","0","kidney","child"
+"Saint Barnabas Medical Center","307","0","kidney","child"
+"Methodist Specialty and Transplant Hospital","303","0","kidney","child"
+"University of Wisconsin Hospital and Clinics","297","0","kidney","child"
+"University of California Davis Medical Center","292","0","kidney","child"
+"Mayo Clinic Hospital","286","0","kidney","child"
+"Emory University Hospital","276","0","kidney","child"
+"Ohio State University Medical Center","265","0","kidney","child"
+"University of Pittsburgh Medical Center","215","0","kidney","child"
+"Indiana University Health","200","0","kidney","child"
+"New York-Presbyterian Hospital/Weill Cornell Medical Center","200","0","kidney","child"
+"Johns Hopkins Hospital","198","0","kidney","child"
+"University of Minnesota Medical Center, Fairview","190","0","kidney","child"
+"Hospital of the University of Pennsylvania","188","0","kidney","child"
+"University of Michigan Medical Center","187","0","kidney","child"
+"Rochester Methodist Hospital (Mayo Clinic)","187","0","kidney","child"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","185","0","kidney","child"
+"California Pacific Medical Center","183","0","kidney","child"
+"Duke University Hospital","152","0","kidney","child"
+"New York University Medical Center","151","0","kidney","child"
+"Wake Forest Baptist Medical Center","147","0","kidney","child"
+"Baylor University Medical Center","147","0","kidney","child"
+"Ochsner Foundation Hospital","146","0","kidney","child"
+"University of Kansas Hospital","141","0","kidney","child"
+"Yale New Haven Hospital","140","0","kidney","child"
+"Mayo Clinic Florida","140","0","kidney","child"
+"Piedmont Hospital","139","0","kidney","child"
+"University of Washington Medical Center","139","0","kidney","child"
+"University of Mississippi Medical Center","131","0","kidney","child"
+"The Nebraska Medical Center","125","0","kidney","child"
+"University of Utah Medical Center","124","0","kidney","child"
+"Mercy Health Saint Mary�s","124","0","kidney","child"
+"University of Illinois Medical Center","122","0","kidney","child"
+"Carolinas Medical Center","121","0","kidney","child"
+"Cleveland Clinic Florida Weston","121","0","kidney","child"
+"CHI St. Luke's Health Baylor College of Medicine Medical Center","119","0","kidney","child"
+"Methodist University Hospital","119","0","kidney","child"
+"Henry Ford Hospital","118","0","kidney","child"
+"Massachusetts General Hospital","117","0","kidney","child"
+"Stanford Health Care","117","0","kidney","child"
+"Banner University Medical Center-Tucson","116","0","kidney","child"
+"Erie County Medical Center","115","0","kidney","child"
+"University of Virginia Health Sciences Center","107","0","kidney","child"
+"Allegheny General Hospital","107","0","kidney","child"
+"University Hospital, University of Texas Health Science Center","103","0","kidney","child"
+"Lehigh Valley Hospital","101","0","kidney","child"
+"Scott and White Memorial Hospital","100","0","kidney","child"
+"Loyola University Medical Center","98","0","kidney","child"
+"Legacy Good Samaritan Hospital and Medical Center","97","0","kidney","child"
+"Froedtert Memorial Lutheran Hospital","97","0","kidney","child"
+"Rush University Medical Center","96","0","kidney","child"
+"Thomas Jefferson University Hospital","96","0","kidney","child"
+"Virginia Mason Medical Center","95","0","kidney","child"
+"William Beaumont Hospital","95","0","kidney","child"
+"University of North Carolina Hospitals","94","0","kidney","child"
+"University of Kentucky Medical Center","92","0","kidney","child"
+"University Hospitals of Cleveland","91","0","kidney","child"
+"Inova Fairfax Hospital","91","0","kidney","child"
+"Sentara Norfolk General Hospital","89","0","kidney","child"
+"Integris Baptist Medical Center","88","0","kidney","child"
+"Oregon Health and Science University","86","0","kidney","child"
+"University of Cincinnati  Medical Center","86","0","kidney","child"
+"Swedish Medical Center","85","0","kidney","child"
+"University of Texas Medical Branch at Galveston","84","0","kidney","child"
+"State University of New York Upstate Medical University","82","0","kidney","child"
+"Auxilio Mutuo Hospital","82","0","kidney","child"
+"Methodist Dallas Medical Center","82","0","kidney","child"
+"Hartford Hospital","81","0","kidney","child"
+"Medical City Dallas Hospital","79","0","kidney","child"
+"Strong Memorial Hospital, University of Rochester Medical Center","77","0","kidney","child"
+"UF Health Shands Hospital","77","0","kidney","child"
+"University of Toledo Medical Center","77","0","kidney","child"
+"University Hospital of State University of New York at Stony Brook","76","0","kidney","child"
+"Intermountain Medical Center","76","0","kidney","child"
+"Brigham and Women's Hospital","76","0","kidney","child"
+"St Luke's Hospital of Kansas City","72","0","kidney","child"
+"Albert Einstein Medical Center","71","0","kidney","child"
+"Tulane Medical Center","70","0","kidney","child"
+"Vanderbilt University Medical Center and Nashville VA Medical Center","175","0","kidney","child"
+"Florida Hospital Medical Center","172","0","kidney","child"
+"Banner-University Medical Center Phoenix","172","0","kidney","child"
+"University of Colorado Hospital/Health Science Center","171","0","kidney","child"
+"Montefiore Medical Center","163","0","kidney","child"
+"Medical College of Virginia Hospitals","162","0","kidney","child"
+"Loma Linda University Medical Center","160","0","kidney","child"
+"Keck Hospital of USC","160","0","kidney","child"
+"The Cleveland Clinic Foundation","159","0","kidney","child"
+"Medical City Fort Worth","155","0","kidney","child"
+"Walter Reed National Military Medical Center at Bethesda","56","0","kidney","child"
+"Robert Wood Johnson University Hospital","55","0","kidney","child"
+"Scripps Green Hospital","54","0","kidney","child"
+"University of Tennessee Medical Center at Knoxville","54","0","kidney","child"
+"Willis-Knighton Medical Center","52","0","kidney","child"
+"Albany Medical Center Hospital","52","0","kidney","child"
+"SSM Health Saint Louis University Hospital","52","0","kidney","child"
+"Hahnemann University Hospital","51","0","kidney","child"
+"St. Vincent Medical Center","51","0","kidney","child"
+"Lucile Salter Packard Children's Hospital at Stanford","49","0","kidney","child"
+"Geisinger Medical Center","48","0","kidney","child"
+"Westchester Medical Center","47","0","kidney","child"
+"State University of New York, Downstate Medical Center","47","0","kidney","child"
+"University of California Irvine Medical Center","47","0","kidney","child"
+"Maine Medical Center","46","0","kidney","child"
+"UMass Memorial Medical Center","46","0","kidney","child"
+"Temple University Hospital","46","0","kidney","child"
+"Providence Sacred Heart Medical Center & Children's Hospital","45","0","kidney","child"
+"UT Southwestern Medical Center/William P. Clements Jr. University Hospital","45","0","kidney","child"
+"VA Portland Health Care System","45","0","kidney","child"
+"The Queen's Medical Center","44","0","kidney","child"
+"North Shore University Hospital/Northwell Health","44","0","kidney","child"
+"St John Medical Center","43","0","kidney","child"
+"Hackensack University Medical Center","42","0","kidney","child"
+"Boston Medical Center","42","0","kidney","child"
+"George Washington University Hospital","42","0","kidney","child"
+"Pinnacle Health System at Harrisburg Hospital","42","0","kidney","child"
+"Texas Health Harris Methodist Fort Worth Hospital","42","0","kidney","child"
+"University Hospital, University of New Mexico Health Sciences Center","41","0","kidney","child"
+"Harper University Hospital Detroit Medical Center","41","0","kidney","child"
+"Abbott Northwestern Hospital","40","0","kidney","child"
+"Presbyterian Hospital","38","0","kidney","child"
+"Tufts Medical Center","36","0","kidney","child"
+"OSF Saint Francis Medical Center","36","0","kidney","child"
+"Centura Porter Adventist Hospital","36","0","kidney","child"
+"Las Palmas Medical Center","36","0","kidney","child"
+"Aurora St. Luke's Medical Center","35","0","kidney","child"
+"Charleston Area Medical Center","35","0","kidney","child"
+"Baystate Medical Center","35","0","kidney","child"
+"Henrico Doctors' Hospital","34","0","kidney","child"
+"The Lankenau Hospital","33","0","kidney","child"
+"Largo Medical Center","32","0","kidney","child"
+"Lahey Clinic Medical Center","32","0","kidney","child"
+"OU Medical Center","32","0","kidney","child"
+"Saint Thomas Hospital","31","0","kidney","child"
+"Christiana Care Health Services","31","0","kidney","child"
+"St John Hospital and Medical Center","30","0","kidney","child"
+"Our Lady of Lourdes Medical Center","29","0","kidney","child"
+"Saint Francis Hospital","29","0","kidney","child"
+"Penn State Milton S Hershey Medical Center","28","0","kidney","child"
+"University of Chicago Medical Center","70","0","kidney","child"
+"Research Medical Center","70","0","kidney","child"
+"University of California San Diego Medical Center","70","0","kidney","child"
+"Presbyterian/St Luke's Medical Center","70","0","kidney","child"
+"Baylor All Saints Medical Center","67","0","kidney","child"
+"Jewish Hospital","66","0","kidney","child"
+"Rhode Island Hospital","64","0","kidney","child"
+"University Medical Center of Southern Nevada","64","0","kidney","child"
+"Beth Israel Deaconess Medical Center","64","0","kidney","child"
+"Iowa Methodist Medical Center","64","0","kidney","child"
+"The Christ Hospital","63","0","kidney","child"
+"Vidant Medical Center","62","0","kidney","child"
+"AU Medical Center, Inc.","62","0","kidney","child"
+"University of Iowa Hospitals and Clinics Transplant Programs","61","0","kidney","child"
+"UAMS Medical Center","61","0","kidney","child"
+"Memorial Hermann Hospital, University of Texas at Houston","60","0","kidney","child"
+"VA Pittsburgh Healthcare System","59","0","kidney","child"
+"Sharp Memorial Hospital","59","0","kidney","child"
+"St Vincent Hospital and Health Care Center","59","0","kidney","child"
+"Hennepin County Medical Center","57","0","kidney","child"
+"Erlanger Medical Center","20","0","kidney","child"
+"Phoenix Children's Hospital","19","0","kidney","child"
+"Children's Mercy Hospital","19","0","kidney","child"
+"Childrens Hospital Los Angeles","19","0","kidney","child"
+"Children's Hospital Colorado","18","0","kidney","child"
+"Children's of Alabama","18","0","kidney","child"
+"Sanford Bismarck Medical Center","18","0","kidney","child"
+"Memorial Medical Center","17","0","kidney","child"
+"Harbor UCLA Medical Center","17","0","kidney","child"
+"Riverside Community Hospital","17","0","kidney","child"
+"Children's Hospital of Philadelphia","16","0","kidney","child"
+"Saint Marys Hospital (Mayo Clinic)","15","0","kidney","child"
+"Ann & Robert H. Lurie Children's Hospital of Chicago","15","0","kidney","child"
+"Centennial Medical Center","15","0","kidney","child"
+"Children's Hospital of Pittsburgh of UPMC","14","0","kidney","child"
+"Michael E. DeBakey VA Medical Center","14","0","kidney","child"
+"Primary Children's Hospital","13","0","kidney","child"
+"Children's Medical Center of Dallas","13","0","kidney","child"
+"Crozer-Chester Medical Center","13","0","kidney","child"
+"Halifax Medical Center","13","0","kidney","child"
+"Cardinal Glennon Children's Hospital","6","0","kidney","child"
+"St. Louis Children's Hospital at Washington University Medical Center","6","0","kidney","child"
+"Children's Hospital of the King's Daughters","6","0","kidney","child"
+"Nationwide Children's Hospital","6","0","kidney","child"
+"Alfred I duPont Hospital for Children","6","0","kidney","child"
+"Le Bonheur Children's Medical Center","6","0","kidney","child"
+"Children's Hospital of Oklahoma","5","0","kidney","child"
+"Birmingham VA Medical Center","5","0","kidney","child"
+"Helen DeVos Children's Hospital","4","0","kidney","child"
+"Norton Children's Hospital","4","0","kidney","child"
+"Saint Joseph Hospital","13","0","kidney","child"
+"Cook Children's Medical Center","12","0","kidney","child"
+"Parkland Health and Hospital System","12","0","kidney","child"
+"Gulf Coast Medical Center","12","0","kidney","child"
+"St. Joseph's Hospital and Medical Center","11","0","kidney","child"
+"Rady Children's Hospital and Health Center","10","0","kidney","child"
+"UCSF Medical Center at Mission Bay","10","0","kidney","child"
+"Children's Hospital of Wisconsin","9","0","kidney","child"
+"Driscoll Children's Hospital","8","0","kidney","child"
+"Arkansas Children's Hospital","7","0","kidney","child"
+"Newark Beth Israel Medical Center","4","0","kidney","child"
+"James J. Peters VA Medical Center","4","0","kidney","child"
+"UPMC Hamot","4","0","kidney","child"
+"Doctor's Hospital at Renaissance","3","0","kidney","child"
+"Children's Hospital","3","0","kidney","child"
+"Children's Hospital of Michigan","3","0","kidney","child"
+"Sacred Heart Hospital Pensacola","3","0","kidney","child"
+"Steven and Alexandra Cohen Children's Medical Center/Northwell Health","1","0","kidney","child"
+"The University of Vermont Medical Center","23","0","kidney","child"
+"The Iowa City VA Health Care System","23","0","kidney","child"
+"Advocate Christ Medical Center","23","0","kidney","child"
+"Children's Hospital Medical Center","22","0","kidney","child"
+"Children's Healthcare of Atlanta at Egleston","22","0","kidney","child"
+"University of Missouri Hospital and Clinics","22","0","kidney","child"
+"Seattle Children's Hospital","21","0","kidney","child"
+"Nashville Veterans Administration Hospital","21","0","kidney","child"
+"Children's National Medical Center","20","0","kidney","child"
+"Lutheran Hospital of Fort Wayne","20","0","kidney","child"
+"University of Wisconsin Hospital and Clinics","37","0","kidney-pancreas","child"
+"Indiana University Health","29","0","kidney-pancreas","child"
+"Jackson Memorial Hospital University of Miami School of Medicine","26","0","kidney-pancreas","child"
+"University of Maryland Medical System","24","0","kidney-pancreas","child"
+"University of Minnesota Medical Center, Fairview","20","0","kidney-pancreas","child"
+"Georgetown University Medical Center","18","0","kidney-pancreas","child"
+"Tampa General Hospital","17","0","kidney-pancreas","child"
+"University of California San Francisco Medical Center","17","0","kidney-pancreas","child"
+"Ohio State University Medical Center","17","0","kidney-pancreas","child"
+"Emory University Hospital","16","0","kidney-pancreas","child"
+"Boston Children's Hospital","27","0","kidney","child"
+"Sanford Health/USD Medical Center","26","0","kidney","child"
+"North Austin Medical Center","26","0","kidney","child"
+"Avera McKennan Hospital","25","0","kidney","child"
+"Texas Children's Hospital","25","0","kidney","child"
+"Christus Santa Rosa Hospital Medical Center","25","0","kidney","child"
+"Mary Hitchcock Memorial Hospital","24","0","kidney","child"
+"Sanford Medical Center Fargo","24","0","kidney","child"
+"Mercy Medical Center-Des Moines","24","0","kidney","child"
+"East Texas Medical Center","24","0","kidney","child"
+"Northwestern Memorial Hospital","15","0","kidney-pancreas","child"
+"Ochsner Foundation Hospital","14","0","kidney-pancreas","child"
+"University of Michigan Medical Center","14","0","kidney-pancreas","child"
+"California Pacific Medical Center","14","0","kidney-pancreas","child"
+"Medical University of South Carolina","14","0","kidney-pancreas","child"
+"Baylor University Medical Center","13","0","kidney-pancreas","child"
+"Mayo Clinic Hospital","13","0","kidney-pancreas","child"
+"Rochester Methodist Hospital (Mayo Clinic)","12","0","kidney-pancreas","child"
+"Willis-Knighton Medical Center","12","0","kidney-pancreas","child"
+"Jewish Hospital","10","0","kidney-pancreas","child"
+"Duke University Hospital","10","0","kidney-pancreas","child"
+"University of Alabama Hospital","10","0","kidney-pancreas","child"
+"St. Vincent Medical Center","10","0","kidney-pancreas","child"
+"University of Utah Medical Center","10","0","kidney-pancreas","child"
+"Houston Methodist Hospital","10","0","kidney-pancreas","child"
+"University of Cincinnati  Medical Center","10","0","kidney-pancreas","child"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","9","0","kidney-pancreas","child"
+"Montefiore Medical Center","9","0","kidney-pancreas","child"
+"Scott and White Memorial Hospital","9","0","kidney-pancreas","child"
+"Auxilio Mutuo Hospital","9","0","kidney-pancreas","child"
+"Methodist University Hospital","9","0","kidney-pancreas","child"
+"Barnes-Jewish Hospital","9","0","kidney-pancreas","child"
+"University of Kansas Hospital","9","0","kidney-pancreas","child"
+"Mayo Clinic Florida","8","0","kidney-pancreas","child"
+"Methodist Specialty and Transplant Hospital","7","0","kidney-pancreas","child"
+"University of Texas Medical Branch at Galveston","7","0","kidney-pancreas","child"
+"Sentara Norfolk General Hospital","7","0","kidney-pancreas","child"
+"Mount Sinai Medical Center","7","0","kidney-pancreas","child"
+"Wake Forest Baptist Medical Center","7","0","kidney-pancreas","child"
+"Piedmont Hospital","7","0","kidney-pancreas","child"
+"University of Chicago Medical Center","7","0","kidney-pancreas","child"
+"University of Illinois Medical Center","7","0","kidney-pancreas","child"
+"Johns Hopkins Hospital","7","0","kidney-pancreas","child"
+"Rush University Medical Center","6","0","kidney-pancreas","child"
+"University of Colorado Hospital/Health Science Center","6","0","kidney-pancreas","child"
+"Cedars-Sinai Medical Center","6","0","kidney-pancreas","child"
+"Erie County Medical Center","6","0","kidney-pancreas","child"
+"The Cleveland Clinic Foundation","6","0","kidney-pancreas","child"
+"Oregon Health and Science University","6","0","kidney-pancreas","child"
+"University of Pittsburgh Medical Center","6","0","kidney-pancreas","child"
+"Temple University Hospital","6","0","kidney-pancreas","child"
+"Methodist Dallas Medical Center","6","0","kidney-pancreas","child"
+"Baylor All Saints Medical Center","5","0","kidney-pancreas","child"
+"Memorial Hermann Hospital, University of Texas at Houston","5","0","kidney-pancreas","child"
+"Thomas Jefferson University Hospital","5","0","kidney-pancreas","child"
+"Integris Baptist Medical Center","5","0","kidney-pancreas","child"
+"University of Mississippi Medical Center","5","0","kidney-pancreas","child"
+"Banner-University Medical Center Phoenix","5","0","kidney-pancreas","child"
+"Keck Hospital of USC","5","0","kidney-pancreas","child"
+"Florida Hospital Medical Center","5","0","kidney-pancreas","child"
+"Medical College of Virginia Hospitals","4","0","kidney-pancreas","child"
+"University of Washington Medical Center","4","0","kidney-pancreas","child"
+"Virginia Mason Medical Center","3","0","kidney-pancreas","child"
+"Providence Sacred Heart Medical Center & Children's Hospital","3","0","kidney-pancreas","child"
+"Aurora St. Luke's Medical Center","3","0","kidney-pancreas","child"
+"University of Virginia Health Sciences Center","3","0","kidney-pancreas","child"
+"Inova Fairfax Hospital","3","0","kidney-pancreas","child"
+"Intermountain Medical Center","3","0","kidney-pancreas","child"
+"State University of New York Upstate Medical University","3","0","kidney-pancreas","child"
+"Albert Einstein Medical Center","3","0","kidney-pancreas","child"
+"Carolinas Medical Center","3","0","kidney-pancreas","child"
+"Our Lady of Lourdes Medical Center","3","0","kidney-pancreas","child"
+"Saint Barnabas Medical Center","3","0","kidney-pancreas","child"
+"Centura Porter Adventist Hospital","3","0","kidney-pancreas","child"
+"UF Health Shands Hospital","3","0","kidney-pancreas","child"
+"UMass Memorial Medical Center","3","0","kidney-pancreas","child"
+"Tulane Medical Center","2","0","kidney-pancreas","child"
+"Stanford Health Care","2","0","kidney-pancreas","child"
+"AU Medical Center, Inc.","2","0","kidney-pancreas","child"
+"University of California at Los Angeles Medical Center","2","0","kidney-pancreas","child"
+"University of Iowa Hospitals and Clinics Transplant Programs","5","0","kidney-pancreas","child"
+"Beth Israel Deaconess Medical Center","5","0","kidney-pancreas","child"
+"Vidant Medical Center","5","0","kidney-pancreas","child"
+"Research Medical Center","4","0","kidney-pancreas","child"
+"Henry Ford Hospital","4","0","kidney-pancreas","child"
+"Mercy Medical Center-Des Moines","4","0","kidney-pancreas","child"
+"Loma Linda University Medical Center","4","0","kidney-pancreas","child"
+"The Nebraska Medical Center","4","0","kidney-pancreas","child"
+"Allegheny General Hospital","4","0","kidney-pancreas","child"
+"Vanderbilt University Medical Center and Nashville VA Medical Center","4","0","kidney-pancreas","child"
+"Strong Memorial Hospital, University of Rochester Medical Center","1","0","kidney-pancreas","child"
+"Scripps Green Hospital","1","0","kidney-pancreas","child"
+"University of California Davis Medical Center","1","0","kidney-pancreas","child"
+"University of Kentucky Medical Center","1","0","kidney-pancreas","child"
+"OSF Saint Francis Medical Center","1","0","kidney-pancreas","child"
+"Massachusetts General Hospital","1","0","kidney-pancreas","child"
+"Brigham and Women's Hospital","1","0","kidney-pancreas","child"
+"SSM Health Saint Louis University Hospital","1","0","kidney-pancreas","child"
+"University of North Carolina Hospitals","1","0","kidney-pancreas","child"
+"University of California San Diego Medical Center","2","0","kidney-pancreas","child"
+"Sharp Memorial Hospital","2","0","kidney-pancreas","child"
+"Banner University Medical Center-Tucson","2","0","kidney-pancreas","child"
+"Albany Medical Center Hospital","2","0","kidney-pancreas","child"
+"New York-Presbyterian Hospital/Weill Cornell Medical Center","2","0","kidney-pancreas","child"
+"Hospital of the University of Pennsylvania","2","0","kidney-pancreas","child"
+"Medical City Dallas Hospital","2","0","kidney-pancreas","child"
+"Swedish Medical Center","2","0","kidney-pancreas","child"
+"Avera McKennan Hospital","1","0","kidney-pancreas","child"
+"University Hospital, University of Texas Health Science Center","1","0","kidney-pancreas","child"
+"Ochsner Foundation Hospital","211","0","liver","child"
+"University of California San Francisco Medical Center","183","0","liver","child"
+"University of Maryland Medical System","169","0","liver","child"
+"The Cleveland Clinic Foundation","158","0","liver","child"
+"Indiana University Health","154","0","liver","child"
+"University of California at Los Angeles Medical Center","146","0","liver","child"
+"Jackson Memorial Hospital University of Miami School of Medicine","143","0","liver","child"
+"Vanderbilt University Medical Center and Nashville VA Medical Center","141","0","liver","child"
+"Georgetown University Medical Center","137","0","liver","child"
+"Mount Sinai Medical Center","131","0","liver","child"
+"Lucile Salter Packard Children's Hospital at Stanford","43","0","liver","child"
+"University of North Carolina Hospitals","42","0","liver","child"
+"Children's Hospital of Pittsburgh of UPMC","38","0","liver","child"
+"Texas Children's Hospital","33","0","liver","child"
+"University of Chicago Medical Center","30","0","liver","child"
+"Yale New Haven Hospital","29","0","liver","child"
+"Children's Healthcare of Atlanta at Egleston","27","0","liver","child"
+"Childrens Hospital Los Angeles","25","0","liver","child"
+"UF Health Shands Hospital","25","0","liver","child"
+"Children's Hospital Medical Center","24","0","liver","child"
+"Boston Children's Hospital","17","0","liver","child"
+"Children's Hospital of Philadelphia","17","0","liver","child"
+"Ann & Robert H. Lurie Children's Hospital of Chicago","15","0","liver","child"
+"Children's Hospital Colorado","14","0","liver","child"
+"St. Louis Children's Hospital at Washington University Medical Center","14","0","liver","child"
+"Primary Children's Hospital","14","0","liver","child"
+"Westchester Medical Center","14","0","liver","child"
+"Seattle Children's Hospital","12","0","liver","child"
+"Children's Medical Center of Dallas","11","0","liver","child"
+"Alfred I duPont Hospital for Children","9","0","liver","child"
+"Mayo Clinic Florida","164","0","liver","child"
+"University of Alabama Hospital","138","0","liver","child"
+"Hospital of the University of Pennsylvania","127","0","liver","child"
+"Mayo Clinic Hospital","122","0","liver","child"
+"Emory University Hospital","122","0","liver","child"
+"Rochester Methodist Hospital (Mayo Clinic)","118","0","liver","child"
+"Methodist University Hospital","118","0","liver","child"
+"Houston Methodist Hospital","118","0","liver","child"
+"University of Cincinnati  Medical Center","115","0","liver","child"
+"Lahey Clinic Medical Center","114","0","liver","child"
+"Piedmont Hospital","114","0","liver","child"
+"Keck Hospital of USC","111","0","liver","child"
+"University of Pittsburgh Medical Center","110","0","liver","child"
+"University of Colorado Hospital/Health Science Center","97","0","liver","child"
+"University of Kansas Hospital","94","0","liver","child"
+"Barnes-Jewish Hospital","94","0","liver","child"
+"Ohio State University Medical Center","92","0","liver","child"
+"Cedars-Sinai Medical Center","87","0","liver","child"
+"Henry Ford Hospital","127","0","liver","child"
+"Baylor University Medical Center","125","0","liver","child"
+"Johns Hopkins Hospital","119","0","liver","child"
+"University of Wisconsin Hospital and Clinics","113","0","liver","child"
+"The Nebraska Medical Center","100","0","liver","child"
+"Northwestern Memorial Hospital","96","0","liver","child"
+"CHI St. Luke's Health Baylor College of Medicine Medical Center","94","0","liver","child"
+"Duke University Hospital","93","0","liver","child"
+"Medical University of South Carolina","93","0","liver","child"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","83","0","liver","child"
+"Florida Hospital Medical Center","59","0","liver","child"
+"Loyola University Medical Center","58","0","liver","child"
+"UT Southwestern Medical Center/William P. Clements Jr. University Hospital","58","0","liver","child"
+"New York University Medical Center","57","0","liver","child"
+"Cleveland Clinic Florida Weston","57","0","liver","child"
+"California Pacific Medical Center","57","0","liver","child"
+"Loma Linda University Medical Center","52","0","liver","child"
+"Methodist Specialty and Transplant Hospital","47","0","liver","child"
+"Strong Memorial Hospital, University of Rochester Medical Center","44","0","liver","child"
+"Intermountain Medical Center","43","0","liver","child"
+"UCSF Medical Center at Mission Bay","9","0","liver","child"
+"Le Bonheur Children's Medical Center","9","0","liver","child"
+"Children's Hospital of Michigan","6","0","liver","child"
+"Saint Marys Hospital (Mayo Clinic)","6","0","liver","child"
+"Children's of Alabama","5","0","liver","child"
+"Phoenix Children's Hospital","4","0","liver","child"
+"Children's Mercy Hospital","4","0","liver","child"
+"Children's Hospital of Wisconsin","4","0","liver","child"
+"Cardinal Glennon Children's Hospital","4","0","liver","child"
+"University of Mississippi Medical Center","42","0","liver","child"
+"University of Utah Medical Center","40","0","liver","child"
+"Jewish Hospital","39","0","liver","child"
+"Scripps Green Hospital","37","0","liver","child"
+"VA Pittsburgh Healthcare System","37","0","liver","child"
+"SSM Health Saint Louis University Hospital","36","0","liver","child"
+"UAMS Medical Center","36","0","liver","child"
+"New York-Presbyterian Hospital/Weill Cornell Medical Center","35","0","liver","child"
+"University of California San Diego Medical Center","34","0","liver","child"
+"Rush University Medical Center","34","0","liver","child"
+"Froedtert Memorial Lutheran Hospital","34","0","liver","child"
+"University of Kentucky Medical Center","32","0","liver","child"
+"Beth Israel Deaconess Medical Center","31","0","liver","child"
+"Allegheny General Hospital","31","0","liver","child"
+"University Hospital","27","0","liver","child"
+"Aurora St. Luke's Medical Center","27","0","liver","child"
+"Swedish Medical Center","26","0","liver","child"
+"William Beaumont Hospital","26","0","liver","child"
+"University of Illinois Medical Center","26","0","liver","child"
+"Hartford Hospital","23","0","liver","child"
+"University of Michigan Medical Center","79","0","liver","child"
+"Carolinas Medical Center","78","0","liver","child"
+"University of Minnesota Medical Center, Fairview","78","0","liver","child"
+"Massachusetts General Hospital","71","0","liver","child"
+"University Hospital, University of Texas Health Science Center","68","0","liver","child"
+"University of Virginia Health Sciences Center","65","0","liver","child"
+"Montefiore Medical Center","50","0","liver","child"
+"Integris Baptist Medical Center","49","0","liver","child"
+"Memorial Hermann Hospital, University of Texas at Houston","44","0","liver","child"
+"Auxilio Mutuo Hospital","43","0","liver","child"
+"Temple University Hospital","5","0","liver","child"
+"Avera McKennan Hospital","4","0","liver","child"
+"Largo Medical Center","4","0","liver","child"
+"Medical City Fort Worth","3","0","liver","child"
+"Baylor All Saints Medical Center","23","0","liver","child"
+"Hahnemann University Hospital","22","0","liver","child"
+"University Hospitals of Cleveland","20","0","liver","child"
+"Broward General Medical Center","19","0","liver","child"
+"Tulane Medical Center","18","0","liver","child"
+"University of Iowa Hospitals and Clinics Transplant Programs","18","0","liver","child"
+"VA Portland Health Care System","18","0","liver","child"
+"Geisinger Medical Center","18","0","liver","child"
+"University of Texas Medical Branch at Galveston","18","0","liver","child"
+"Penn State Milton S Hershey Medical Center","17","0","liver","child"
+"University of Washington Medical Center","83","0","liver","child"
+"Banner-University Medical Center Phoenix","79","0","liver","child"
+"Stanford Health Care","76","0","liver","child"
+"Medical College of Virginia Hospitals","75","0","liver","child"
+"Albert Einstein Medical Center","75","0","liver","child"
+"Thomas Jefferson University Hospital","73","0","liver","child"
+"Methodist Dallas Medical Center","69","0","liver","child"
+"UMass Memorial Medical Center","66","0","liver","child"
+"Tampa General Hospital","63","0","liver","child"
+"Oregon Health and Science University","62","0","liver","child"
+"Willis-Knighton Medical Center","17","0","liver","child"
+"Banner University Medical Center-Tucson","15","0","liver","child"
+"The Queen's Medical Center","14","0","liver","child"
+"Michael E. DeBakey VA Medical Center","14","0","liver","child"
+"Our Lady of Lourdes Medical Center","12","0","liver","child"
+"Centura Porter Adventist Hospital","12","0","liver","child"
+"Presbyterian/St Luke's Medical Center","12","0","liver","child"
+"St. Joseph's Hospital and Medical Center","10","0","liver","child"
+"St Luke's Hospital of Kansas City","10","0","liver","child"
+"OU Medical Center","9","0","liver","child"
+"Indiana University Health","21","0","pancreas","child"
+"University of Wisconsin Hospital and Clinics","19","0","pancreas","child"
+"The Nebraska Medical Center","17","0","pancreas","child"
+"Georgetown University Medical Center","16","0","pancreas","child"
+"Jackson Memorial Hospital University of Miami School of Medicine","12","0","pancreas","child"
+"Rochester Methodist Hospital (Mayo Clinic)","9","0","pancreas","child"
+"Houston Methodist Hospital","9","0","pancreas","child"
+"University of Minnesota Medical Center, Fairview","8","0","pancreas","child"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","7","0","pancreas","child"
+"Mount Sinai Medical Center","7","0","pancreas","child"
+"The Cleveland Clinic Foundation","6","0","pancreas","child"
+"State University of New York Upstate Medical University","4","0","pancreas","child"
+"Henry Ford Hospital","4","0","pancreas","child"
+"Mayo Clinic Florida","4","0","pancreas","child"
+"University of California at Los Angeles Medical Center","3","0","pancreas","child"
+"Mayo Clinic Hospital","3","0","pancreas","child"
+"UMass Memorial Medical Center","3","0","pancreas","child"
+"Duke University Hospital","3","0","pancreas","child"
+"Northwestern Memorial Hospital","3","0","pancreas","child"
+"Montefiore Medical Center","3","0","pancreas","child"
+"Stanford Health Care","1","0","pancreas","child"
+"Cedars-Sinai Medical Center","1","0","pancreas","child"
+"Banner-University Medical Center Phoenix","1","0","pancreas","child"
+"Keck Hospital of USC","1","0","pancreas","child"
+"University of Colorado Hospital/Health Science Center","1","0","pancreas","child"
+"Emory University Hospital","1","0","pancreas","child"
+"Mercy Medical Center-Des Moines","1","0","pancreas","child"
+"Florida Hospital Medical Center","1","0","pancreas","child"
+"Vidant Medical Center","1","0","pancreas","child"
+"Wake Forest Baptist Medical Center","1","0","pancreas","child"
+"Children's Hospital of Pittsburgh of UPMC","3","0","pancreas","child"
+"University of Pittsburgh Medical Center","2","0","pancreas","child"
+"Thomas Jefferson University Hospital","2","0","pancreas","child"
+"Children's Hospital Medical Center","2","0","pancreas","child"
+"Ohio State University Medical Center","2","0","pancreas","child"
+"Robert Wood Johnson University Hospital","2","0","pancreas","child"
+"Scott and White Memorial Hospital","2","0","pancreas","child"
+"Baylor University Medical Center","2","0","pancreas","child"
+"Auxilio Mutuo Hospital","2","0","pancreas","child"
+"Piedmont Hospital","2","0","pancreas","child"
+"University of Virginia Health Sciences Center","1","0","pancreas","child"
+"Saint Barnabas Medical Center","1","0","pancreas","child"
+"New York-Presbyterian Hospital/Weill Cornell Medical Center","1","0","pancreas","child"
+"Sanford Medical Center Fargo","1","0","pancreas","child"
+"Strong Memorial Hospital, University of Rochester Medical Center","1","0","pancreas","child"
+"Lehigh Valley Hospital","1","0","pancreas","child"
+"Hospital of the University of Pennsylvania","1","0","pancreas","child"
+"UT Southwestern Medical Center/William P. Clements Jr. University Hospital","37","0","heart","child"
+"UF Health Shands Hospital","33","0","heart","child"
+"Carolinas Medical Center","32","0","heart","child"
+"University of Maryland Medical System","30","0","heart","child"
+"University of Minnesota Medical Center, Fairview","30","0","heart","child"
+"Saint Marys Hospital (Mayo Clinic)","28","0","heart","child"
+"Memorial Hermann Hospital, University of Texas at Houston","28","0","heart","child"
+"Johns Hopkins Hospital","27","0","heart","child"
+"Ochsner Foundation Hospital","25","0","heart","child"
+"Texas Children's Hospital","25","0","heart","child"
+"Vanderbilt University Medical Center and Nashville VA Medical Center","94","0","heart","child"
+"Duke University Hospital","78","0","heart","child"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","76","0","heart","child"
+"Stanford Health Care","58","0","heart","child"
+"University of California at Los Angeles Medical Center","58","0","heart","child"
+"The Cleveland Clinic Foundation","51","0","heart","child"
+"Montefiore Medical Center","45","0","heart","child"
+"University of Michigan Medical Center","42","0","heart","child"
+"Mount Sinai Medical Center","39","0","heart","child"
+"University of Chicago Medical Center","39","0","heart","child"
+"University of North Carolina Hospitals","11","0","heart","child"
+"Providence Sacred Heart Medical Center & Children's Hospital","10","0","heart","child"
+"Children's Hospital Colorado","10","0","heart","child"
+"Medical University of South Carolina","10","0","heart","child"
+"Children's Hospital of Wisconsin","9","0","heart","child"
+"Children's Hospital of Philadelphia","9","0","heart","child"
+"Johns Hopkins All Children's Hospital","8","0","heart","child"
+"Nationwide Children's Hospital","8","0","heart","child"
+"Children's National Medical Center","8","0","heart","child"
+"Le Bonheur Children's Medical Center","7","0","heart","child"
+"Children's Healthcare of Atlanta at Egleston","15","0","heart","child"
+"Ann & Robert H. Lurie Children's Hospital of Chicago","15","0","heart","child"
+"Children's Medical Center of Dallas","14","0","heart","child"
+"University of Iowa Hospitals and Clinics Transplant Programs","14","0","heart","child"
+"Seattle Children's Hospital","13","0","heart","child"
+"Children's Hospital Medical Center","13","0","heart","child"
+"Children's of Alabama","12","0","heart","child"
+"Children's Hospital of Pittsburgh of UPMC","12","0","heart","child"
+"Boston Children's Hospital","12","0","heart","child"
+"Primary Children's Hospital","11","0","heart","child"
+"University of Chicago Medical Center","2","0","pancreas","child"
+"Beth Israel Deaconess Medical Center","2","0","pancreas","child"
+"Barnes-Jewish Hospital","2","0","pancreas","child"
+"University of Maryland Medical System","2","0","pancreas","child"
+"University of Michigan Medical Center","2","0","pancreas","child"
+"Banner University Medical Center-Tucson","2","0","pancreas","child"
+"Loma Linda University Medical Center","2","0","pancreas","child"
+"California Pacific Medical Center","2","0","pancreas","child"
+"Sharp Memorial Hospital","1","0","pancreas","child"
+"University of California Davis Medical Center","1","0","pancreas","child"
+"Children's Mercy Hospital","1","0","heart","child"
+"Cedars-Sinai Medical Center","118","0","heart","child"
+"Hospital of the University of Pennsylvania","72","0","heart","child"
+"University of Washington Medical Center","68","0","heart","child"
+"Baylor University Medical Center","60","0","heart","child"
+"Florida Hospital Medical Center","60","0","heart","child"
+"Newark Beth Israel Medical Center","59","0","heart","child"
+"Tampa General Hospital","54","0","heart","child"
+"St Luke's Hospital of Kansas City","50","0","heart","child"
+"Childrens Hospital Los Angeles","7","0","heart","child"
+"Arkansas Children's Hospital","6","0","heart","child"
+"Children's Hospital & Medical Center","5","0","heart","child"
+"Memorial Regional Hospital/Joe DiMaggio Children's Hospital","5","0","heart","child"
+"Children's Hospital of Michigan","4","0","heart","child"
+"Rady Children's Hospital and Health Center","3","0","heart","child"
+"Cardiovascular Center of Puerto Rico and the Caribbean","2","0","heart","child"
+"Alfred I duPont Hospital for Children","2","0","heart","child"
+"Cardinal Glennon Children's Hospital","2","0","heart","child"
+"Norton Children's Hospital","2","0","heart","child"
+"University of California San Diego Medical Center","32","0","heart","child"
+"University of Colorado Hospital/Health Science Center","30","0","heart","child"
+"Northwestern Memorial Hospital","30","0","heart","child"
+"Loyola University Medical Center","28","0","heart","child"
+"Cleveland Clinic Florida Weston","28","0","heart","child"
+"Ohio State University Medical Center","28","0","heart","child"
+"Medical College of Virginia Hospitals","27","0","heart","child"
+"Westchester Medical Center","27","0","heart","child"
+"Advocate Christ Medical Center","27","0","heart","child"
+"Allegheny General Hospital","26","0","heart","child"
+"University of Pittsburgh Medical Center","26","0","heart","child"
+"Saint Thomas Hospital","26","0","heart","child"
+"Brigham and Women's Hospital","24","0","heart","child"
+"Mayo Clinic Florida","23","0","heart","child"
+"Aurora St. Luke's Medical Center","23","0","heart","child"
+"Henry Ford Hospital","22","0","heart","child"
+"Methodist Specialty and Transplant Hospital","22","0","heart","child"
+"University of Utah Medical Center","20","0","heart","child"
+"University of California San Francisco Medical Center","20","0","heart","child"
+"Washington Hospital Center","19","0","heart","child"
+"The Nebraska Medical Center","49","0","heart","child"
+"Houston Methodist Hospital","49","0","heart","child"
+"Tufts Medical Center","48","0","heart","child"
+"Mayo Clinic Hospital","44","0","heart","child"
+"University of Kentucky Medical Center","40","0","heart","child"
+"Emory University Hospital","40","0","heart","child"
+"St Vincent Hospital and Health Care Center","39","0","heart","child"
+"Barnes-Jewish Hospital","37","0","heart","child"
+"Massachusetts General Hospital","35","0","heart","child"
+"CHI St. Luke's Health Baylor College of Medicine Medical Center","34","0","heart","child"
+"Baptist Memorial Hospital","15","0","heart","child"
+"Seton Medical Center Austin","14","0","heart","child"
+"University of Alabama Hospital","14","0","heart","child"
+"Keck Hospital of USC","14","0","heart","child"
+"Spectrum Health","13","0","heart","child"
+"Scott and White Memorial Hospital","13","0","heart","child"
+"Piedmont Hospital","12","0","heart","child"
+"California Pacific Medical Center","11","0","heart","child"
+"Medical City Dallas Hospital","11","0","heart","child"
+"Robert Wood Johnson University Hospital","11","0","heart","child"
+"Inova Fairfax Hospital","19","0","heart","child"
+"Temple University Hospital","18","0","heart","child"
+"Hartford Hospital","18","0","heart","child"
+"Baptist Medical Center","18","0","heart","child"
+"Abbott Northwestern Hospital","18","0","heart","child"
+"Intermountain Medical Center","17","0","heart","child"
+"University of Wisconsin Hospital and Clinics","17","0","heart","child"
+"Sentara Norfolk General Hospital","16","0","heart","child"
+"Strong Memorial Hospital, University of Rochester Medical Center","16","0","heart","child"
+"Yale New Haven Hospital","16","0","heart","child"
+"University Hospitals of Cleveland","11","0","heart","child"
+"Hunter Holmes McGuire Veterans Administration Medical Center","10","0","heart","child"
+"Froedtert Memorial Lutheran Hospital","10","0","heart","child"
+"Banner University Medical Center-Tucson","10","0","heart","child"
+"University of Kansas Hospital","10","0","heart","child"
+"Sharp Memorial Hospital","9","0","heart","child"
+"Sutter Meidcal Center Sacramento","8","0","heart","child"
+"Jewish Hospital","7","0","heart","child"
+"Lutheran Hospital of Fort Wayne","7","0","heart","child"
+"Wake Forest Baptist Medical Center","7","0","heart","child"
+"University of Cincinnati  Medical Center","6","0","heart","child"
+"University of Texas Medical Branch at Galveston","6","0","heart","child"
+"Penn State Milton S Hershey Medical Center","5","0","heart","child"
+"Hahnemann University Hospital","4","0","heart","child"
+"Thomas Jefferson University Hospital","4","0","heart","child"
+"Memorial Regional Hospital","3","0","heart","child"
+"MUSC Children's Hospital","2","0","heart","child"
+"Oregon Health and Science University","23","0","heart","child"
+"University of Mississippi Medical Center","22","0","heart","child"
+"Jackson Memorial Hospital University of Miami School of Medicine","21","0","heart","child"
+"University of Virginia Health Sciences Center","20","0","heart","child"
+"Phoenix Children's Hospital","19","0","heart","child"
+"Loma Linda University Medical Center","19","0","heart","child"
+"Indiana University Health","18","0","heart","child"
+"Lucile Salter Packard Children's Hospital at Stanford","18","0","heart","child"
+"St. Louis Children's Hospital at Washington University Medical Center","17","0","heart","child"
+"Integris Baptist Medical Center","16","0","heart","child"
+"University of Pittsburgh Medical Center","60","0","lung","child"
+"Houston Methodist Hospital","57","0","lung","child"
+"University of Minnesota Medical Center, Fairview","56","0","lung","child"
+"University of Washington Medical Center","55","0","lung","child"
+"Tampa General Hospital","55","0","lung","child"
+"Brigham and Women's Hospital","53","0","lung","child"
+"University of California San Francisco Medical Center","49","0","lung","child"
+"CHI St. Luke's Health Baylor College of Medicine Medical Center","47","0","lung","child"
+"UF Health Shands Hospital","44","0","lung","child"
+"Stanford Health Care","43","0","lung","child"
+"The Cleveland Clinic Foundation","124","0","lung","child"
+"Temple University Hospital","105","0","lung","child"
+"St. Joseph's Hospital and Medical Center","100","0","lung","child"
+"Hospital of the University of Pennsylvania","94","0","lung","child"
+"Duke University Hospital","93","0","lung","child"
+"University of California at Los Angeles Medical Center","87","0","lung","child"
+"Barnes-Jewish Hospital","84","0","lung","child"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","73","0","lung","child"
+"UT Southwestern Medical Center/William P. Clements Jr. University Hospital","67","0","lung","child"
+"Indiana University Health","63","0","lung","child"
+"Henry Ford Hospital","27","0","lung","child"
+"Emory University Hospital","27","0","lung","child"
+"University of Wisconsin Hospital and Clinics","27","0","lung","child"
+"University of Virginia Health Sciences Center","26","0","lung","child"
+"Vanderbilt University Medical Center and Nashville VA Medical Center","26","0","lung","child"
+"Newark Beth Israel Medical Center","25","0","lung","child"
+"Integris Baptist Medical Center","25","0","lung","child"
+"Johns Hopkins Hospital","25","0","lung","child"
+"Spectrum Health","24","0","lung","child"
+"University of Colorado Hospital/Health Science Center","21","0","lung","child"
+"University of Kansas Hospital","1","0","pancreas","child"
+"Jewish Hospital","1","0","pancreas","child"
+"Ochsner Foundation Hospital","1","0","pancreas","child"
+"University of Illinois Medical Center","1","0","pancreas","child"
+"University of Texas Medical Branch at Galveston","1","0","pancreas","child"
+"Medical University of South Carolina","1","0","pancreas","child"
+"University of Washington Medical Center","1","0","pancreas","child"
+"Virginia Mason Medical Center","1","0","pancreas","child"
+"University of Utah Medical Center","1","0","pancreas","child"
+"Medical College of Virginia Hospitals","1","0","pancreas","child"
+"Mayo Clinic Florida","43","0","lung","child"
+"Loyola University Medical Center","42","0","lung","child"
+"Ohio State University Medical Center","41","0","lung","child"
+"Massachusetts General Hospital","38","0","lung","child"
+"University of Maryland Medical System","37","0","lung","child"
+"University of Michigan Medical Center","36","0","lung","child"
+"Baylor University Medical Center","34","0","lung","child"
+"Ochsner Foundation Hospital","31","0","lung","child"
+"University of Kentucky Medical Center","30","0","lung","child"
+"University Hospital, University of Texas Health Science Center","28","0","lung","child"
+"Cedars-Sinai Medical Center","13","0","lung","child"
+"Northwestern Memorial Hospital","13","0","lung","child"
+"Froedtert Memorial Lutheran Hospital","13","0","lung","child"
+"University of Utah Medical Center","12","0","lung","child"
+"The Nebraska Medical Center","12","0","lung","child"
+"University Hospitals of Cleveland","10","0","lung","child"
+"Jewish Hospital","10","0","lung","child"
+"Advocate Christ Medical Center","10","0","lung","child"
+"St. Louis Children's Hospital at Washington University Medical Center","9","0","lung","child"
+"Memorial Hermann Hospital, University of Texas at Houston","9","0","lung","child"
+"Stanford Health Care","8","0","heart-lung","child"
+"Houston Methodist Hospital","3","0","heart-lung","child"
+"Jackson Memorial Hospital University of Miami School of Medicine","2","0","heart-lung","child"
+"University of Alabama Hospital","2","0","heart-lung","child"
+"Saint Marys Hospital (Mayo Clinic)","2","0","heart-lung","child"
+"St. Louis Children's Hospital at Washington University Medical Center","1","0","heart-lung","child"
+"Duke University Hospital","1","0","heart-lung","child"
+"Newark Beth Israel Medical Center","1","0","heart-lung","child"
+"UT Southwestern Medical Center/William P. Clements Jr. University Hospital","1","0","heart-lung","child"
+"Temple University Hospital","1","0","heart-lung","child"
+"University of California San Francisco Medical Center","1","0","heart-lung","child"
+"University of Maryland Medical System","1","0","heart-lung","child"
+"UF Health Shands Hospital","1","0","heart-lung","child"
+"Cedars-Sinai Medical Center","1","0","heart-lung","child"
+"University of North Carolina Hospitals","20","0","lung","child"
+"University of Chicago Medical Center","19","0","lung","child"
+"University of Alabama Hospital","18","0","lung","child"
+"Inova Fairfax Hospital","17","0","lung","child"
+"Banner University Medical Center-Tucson","16","0","lung","child"
+"Florida Hospital Medical Center","16","0","lung","child"
+"Medical University of South Carolina","16","0","lung","child"
+"University of Iowa Hospitals and Clinics Transplant Programs","14","0","lung","child"
+"University of California San Diego Medical Center","14","0","lung","child"
+"Jackson Memorial Hospital University of Miami School of Medicine","13","0","lung","child"
+"The Nebraska Medical Center","20","0","intestine","child"
+"Georgetown University Medical Center","20","0","intestine","child"
+"Jackson Memorial Hospital University of Miami School of Medicine","19","0","intestine","child"
+"The Cleveland Clinic Foundation","14","0","intestine","child"
+"Mount Sinai Medical Center","10","0","intestine","child"
+"Indiana University Health","9","0","intestine","child"
+"Henry Ford Hospital","6","0","intestine","child"
+"Children's Hospital of Pittsburgh of UPMC","4","0","intestine","child"
+"University of California at Los Angeles Medical Center","4","0","intestine","child"
+"Duke University Hospital","3","0","intestine","child"
+"NY Presbyterian Hospital/Columbia Univ. Medical Center","2","0","intestine","child"
+"Lucile Salter Packard Children's Hospital at Stanford","2","0","intestine","child"
+"Boston Children's Hospital","2","0","intestine","child"
+"Children's Hospital Medical Center","2","0","intestine","child"
+"Seattle Children's Hospital","1","0","intestine","child"
+"University of Washington Medical Center","1","0","intestine","child"
+"University of Wisconsin Hospital and Clinics","1","0","intestine","child"
+"University of Pittsburgh Medical Center","1","0","intestine","child"
+"University of Alabama Hospital","1","0","intestine","child"
+"Stanford Health Care","1","0","intestine","child"
+"Keck Hospital of USC","9","0","lung","child"
+"Saint Marys Hospital (Mayo Clinic)","9","0","lung","child"
+"Texas Children's Hospital","7","0","lung","child"
+"Boston Children's Hospital","5","0","lung","child"
+"Lucile Salter Packard Children's Hospital at Stanford","4","0","lung","child"
+"Children's Hospital of Philadelphia","4","0","lung","child"
+"Nationwide Children's Hospital","4","0","lung","child"
+"Children's Hospital Medical Center","2","0","lung","child"
+"Children's Hospital of Pittsburgh of UPMC","2","0","lung","child"
+"Mayo Clinic Hospital","2","0","lung","child"
