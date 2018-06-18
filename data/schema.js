@@ -8,6 +8,13 @@ const typeDefs = `
 type Query {
   testString: String
 }
+
+type Hospital {
+    name: String
+    volume: Int
+    rate: Float
+    type: String
+  }
 `;
 
 const schema = makeExecutableSchema({ typeDefs });

@@ -1,7 +1,7 @@
 function getData() {
     $.ajax({
         type: "GET",
-        url: "./getData",
+        url: "./scrapeData",
         dataType: "text",
         success: function (msg) { //On Success
             var json = JSON.parse(msg)
