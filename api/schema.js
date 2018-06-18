@@ -9,14 +9,17 @@ const typeDefs = `
 type Query {
   testString: String
   allHospitals: [Hospital]
+  allOrgans: [Organ]
 }
 
 type Hospital {
     name: String
-    volume: Int
-    rate: Float
-    type: String
+    organs: [Organ]
   }
+
+type Organ {
+  name: String
+}
 `;
 
 const schema = makeExecutableSchema({ typeDefs, resolvers });

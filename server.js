@@ -44,7 +44,7 @@ app.get('/scrapeData', function (req, res) {
         });
 
         const fs = require('fs');
-        fs.writeFile("./data/output.json", JSON.stringify(hospitals), 'utf8', function (err) {
+        fs.writeFile("./api/raw/output.json", JSON.stringify(hospitals), 'utf8', function (err) {
             if (err) {
                 return console.log(err);
             }
