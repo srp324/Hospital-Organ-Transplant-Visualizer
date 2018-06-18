@@ -21,7 +21,8 @@ app.listen(GRAPHQL_PORT, () =>
   )
 );
 
-//TODO: Setup Neo4j Database
+//TODO: Setup Neo4j Database - 90%
+    //TODO: Get rid of child/adult rates with 0 in data.json/csv as that just means the hospital only treats either child or adult
 
 /* TODO: Remove as data has been scraped (neo4jscrape)
 app.get('/scrapeData', function (req, res) {
