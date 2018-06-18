@@ -12,7 +12,6 @@ type Query {
 }
 
 type Hospital {
-    id: Int
     name: String
     volume: Int
     rate: Float

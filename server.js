@@ -23,30 +23,29 @@ app.listen(GRAPHQL_PORT, () =>
 
 app.get('/scrapeData', function (req, res) {
     request({
-        //TODO: Make URL Dynamic
-        uri: "https://www.srtr.org/transplant-centers/?&organ=kidney&recipientType=adult&page=1/",
+        uri: "https://www.srtr.org/transplant-centers/?&organ=" + req.query.organ + "&recipientType="+ req.query.type + "&page=" + req.query.page,
     }, function (error, response, body) {
         var $ = cheerio.load(body);
 
         var hospitals = [];
         $('li[class=searchResults-item]').each(function(i, elem) {
-            hospitals[i] = { 
-                id: i,
+            hospitals[i] = {
                 name: $('.searchResults-name h5').eq(i).text(),
                 volume: $('.searchResults-transplantVolume-hd').eq(i).text(),
                 rate: $('.searchResults-transplantRate-hd').eq(i).text(),
-                type: "adult"
+                organ: req.query.organ,
+                type: req.query.type
             }
         });
 
-        const fs = require('fs');
-        fs.writeFile("./data/output.json", JSON.stringify(hospitals), 'utf8', function (err) {
-            if (err) {
-                return console.log(err);
-            }
+        // const fs = require('fs');
+        // fs.writeFile("./data/output.json", JSON.stringify(hospitals), 'utf8', function (err) {
+        //     if (err) {
+        //         return console.log(err);
+        //     }
         
-            console.log("The file was saved!");
-        }); 
+        //     console.log("The file was saved!");
+        // }); 
         res.send(JSON.stringify(hospitals));
     });
 })

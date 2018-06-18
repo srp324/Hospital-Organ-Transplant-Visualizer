@@ -1,0 +1,10 @@
+CREATE CONSTRAINT ON (h:Hospital) ASSERT h.name IS UNIQUE;
+
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "https://gist.githubusercontent.com/srp324/85c624f453abcaaa1ced553ab9ddb1f7/raw/845924f58883af2945c1fd483079b1875c9ebacf/output.csv"
+AS line WITH line
+RETURN line
+
+CREATE (hospital:Hospital { id: TOINT(line.`id`)
+
+})
