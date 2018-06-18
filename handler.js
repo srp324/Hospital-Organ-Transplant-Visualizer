@@ -37,8 +37,9 @@ function scrapeData() {
                     //Parse json to data array
                     for (var i = 0; i < json.length; i++) {
 
-                        //Remove cases for 0 rate and 0 volume
-                        if (json[i].rate !== "0.0" && json[i].volume !== "0")
+                        //Remove cases for 0 rate
+                        //TODO: Run this to get the new data
+                        if (json[i].rate !== "0.0")
                             data[data.length] = json[i];
                     }
                 },
