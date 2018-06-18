@@ -21,9 +21,11 @@ app.listen(GRAPHQL_PORT, () =>
   )
 );
 
+//TODO: Setup Neo4j Database
+
+/* TODO: Remove as data has been scraped (neo4jscrape)
 app.get('/scrapeData', function (req, res) {
     request({
-        //TODO: Make URL Dynamic
         uri: "https://www.srtr.org/transplant-centers/?&organ=kidney&recipientType=adult&page=1/",
     }, function (error, response, body) {
         var $ = cheerio.load(body);
@@ -50,3 +52,4 @@ app.get('/scrapeData', function (req, res) {
         res.send(JSON.stringify(hospitals));
     });
 })
+*/
