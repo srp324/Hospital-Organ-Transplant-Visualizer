@@ -31,6 +31,7 @@ app.get('/scrapeData', function (req, res) {
         var hospitals = [];
         $('li[class=searchResults-item]').each(function(i, elem) {
             hospitals[i] = { 
+                id: i,
                 name: $('.searchResults-name h5').eq(i).text(),
                 volume: $('.searchResults-transplantVolume-hd').eq(i).text(),
                 rate: $('.searchResults-transplantRate-hd').eq(i).text(),
