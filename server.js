@@ -21,10 +21,10 @@ app.listen(GRAPHQL_PORT, () =>
   )
 );
 
-app.get('/getData', function (req, res) {
+app.get('/scrapeData', function (req, res) {
     request({
         //TODO: Make URL Dynamic
-        uri: "https://www.srtr.org/transplant-centers/?&organ=kidney&recipientType=adult&sort=rating&page=1/",
+        uri: "https://www.srtr.org/transplant-centers/?&organ=kidney&recipientType=adult&page=1/",
     }, function (error, response, body) {
         var $ = cheerio.load(body);
 
@@ -38,6 +38,14 @@ app.get('/getData', function (req, res) {
             }
         });
 
+        const fs = require('fs');
+        fs.writeFile("./data/output.json", JSON.stringify(hospitals), 'utf8', function (err) {
+            if (err) {
+                return console.log(err);
+            }
+        
+            console.log("The file was saved!");
+        }); 
         res.send(JSON.stringify(hospitals));
     });
 })
