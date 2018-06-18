@@ -1,12 +1,14 @@
 import { makeExecutableSchema, addMockFunctionsToSchema } from 'graphql-tools';
+import resolvers from './resolvers';
 
-const mocks = {
-    String: () => 'It works!'
-  };
+// const mocks = {
+//     String: () => 'It works!'
+//   };
 
 const typeDefs = `
 type Query {
   testString: String
+  allHospitals: [Hospital]
 }
 
 type Hospital {
@@ -18,8 +20,8 @@ type Hospital {
   }
 `;
 
-const schema = makeExecutableSchema({ typeDefs });
+const schema = makeExecutableSchema({ typeDefs, resolvers });
 
-addMockFunctionsToSchema({ schema, mocks });
+//addMockFunctionsToSchema({ schema, mocks });
 
 export default schema;
