@@ -4,7 +4,7 @@ import request from 'request';
 import cheerio from 'cheerio';
 import { graphqlExpress, graphiqlExpress } from 'apollo-server-express';
 import bodyParser from 'body-parser';
-import schema from './data/schema';
+import schema from './api/schema';
 
 const GRAPHQL_PORT = 8080;
 
