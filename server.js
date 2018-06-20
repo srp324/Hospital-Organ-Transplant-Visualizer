@@ -24,34 +24,3 @@ app.listen(GRAPHQL_PORT, () =>
 //TODO: 1. Setup Neo4j Sandbox Database - 90%
     //TODO: 1a. Get rid of child/adult rates with 0 in data.json/csv as that just means the hospital only treats either child or adult
 //TODO: 2. Connect GraphQL to Neo4j Sandbox
-
-/* TODO: Remove as data has been scraped (neo4jscrape)
-app.get('/scrapeData', function (req, res) {
-    request({
-        uri: "https://www.srtr.org/transplant-centers/?&organ=kidney&recipientType=adult&page=1/",
-    }, function (error, response, body) {
-        var $ = cheerio.load(body);
-
-        var hospitals = [];
-        $('li[class=searchResults-item]').each(function(i, elem) {
-            hospitals[i] = { 
-                id: i,
-                name: $('.searchResults-name h5').eq(i).text(),
-                volume: $('.searchResults-transplantVolume-hd').eq(i).text(),
-                rate: $('.searchResults-transplantRate-hd').eq(i).text(),
-                type: "adult"
-            }
-        });
-
-        const fs = require('fs');
-        fs.writeFile("./api/raw/output.json", JSON.stringify(hospitals), 'utf8', function (err) {
-            if (err) {
-                return console.log(err);
-            }
-        
-            console.log("The file was saved!");
-        }); 
-        res.send(JSON.stringify(hospitals));
-    });
-})
-*/
