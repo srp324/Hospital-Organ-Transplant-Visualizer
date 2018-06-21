@@ -7,8 +7,8 @@ let driver = neo4j.driver(config.neoHost + ":" + config.neoPort, neo4j.auth.basi
 const resolvers = {
     Query: {
         allHospitals(_, params) {
-            let session = driver.session();
-            let query = `MATCH (h:Hospital) RETURN h`
+            let session = driver.session(),
+                query = `MATCH (h:Hospital) RETURN h`
             return session.run(query, params)
                 .then(result => {
                     return result.records.map(record => {
@@ -18,23 +18,22 @@ const resolvers = {
         },
     },
 
-    /* BUG within Neo4j: Running this query deletes the Sandbox
     Hospital: {
-        organs(_, params) {
-            console.log(_, params);
-            let session = driver.session();
-            let query = `MATCH (h:Hospital {name: "PIEDMONT HOSPITAL"})-[t:TRANSPLANTS]-(o:Organ)
-            RETURN DISTINCT o`
+        organs(h) {
+            let session = driver.session(),
+                params = {name: h.name},
+                query = `MATCH (h:Hospital {name: $name})-[t:TRANSPLANTS]->(o:Organ)
+                        RETURN DISTINCT o.name as organs`
             return session.run(query, params)
                 .then(result => {
                     return result.records.map(record => {
-                        console.log(record.get("o").properties);
-                        return record.get("o").properties
+                        return record.get("organs");
                     })
                 })
         }
     }
-    */
+    
+    //TODO: Transplant Rates and Volumes
 };
 
 export default resolvers;
