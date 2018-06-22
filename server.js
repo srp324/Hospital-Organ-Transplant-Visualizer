@@ -20,7 +20,3 @@ app.listen(GRAPHQL_PORT, () =>
     GraphiQL is running on http://localhost:${GRAPHQL_PORT}/graphiql`
   )
 );
-
-//TODO: 1. Setup Neo4j Sandbox Database - 90%
-    //TODO: 1a. Get rid of child/adult rates with 0 in data.json/csv as that just means the hospital only treats either child or adult
-//TODO: 2. Connect GraphQL to Neo4j Sandbox
