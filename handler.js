@@ -11,14 +11,14 @@ var pages = [
     {name: "lung", pages: 8, type:"adult"},
     {name: "heart-lung", pages: 4, type:"adult"},
     {name: "intestine", pages: 3, type:"adult"},
-    {name: "kidney", pages: 27, type:"child"},
-    {name: "kidney-pancreas", pages: 15, type:"child"},
-    {name: "liver", pages: 15, type:"child"},
-    {name: "pancreas", pages: 15, type:"child"},
-    {name: "heart", pages: 15, type:"child"},
-    {name: "lung", pages: 8, type:"child"},
-    {name: "heart-lung", pages: 4, type:"child"},
-    {name: "intestine", pages: 3, type:"child"}
+    {name: "kidney", pages: 27, type:"pediatric"},
+    {name: "kidney-pancreas", pages: 15, type:"pediatric"},
+    {name: "liver", pages: 15, type:"pediatric"},
+    {name: "pancreas", pages: 15, type:"pediatric"},
+    {name: "heart", pages: 15, type:"pediatric"},
+    {name: "lung", pages: 8, type:"pediatric"},
+    {name: "heart-lung", pages: 4, type:"pediatric"},
+    {name: "intestine", pages: 3, type:"pediatric"}
 ];
 
 function scrapeData() {
