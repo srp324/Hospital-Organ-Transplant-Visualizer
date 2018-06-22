@@ -1,7 +1,7 @@
 {
-  "name": "organ-transplant-results",
+  "name": "hospital-organ-transplant-api",
   "version": "1.0.0",
-  "description": "A Neo4j graph database containing organ transplant centers data",
+  "description": "A Neo4j backed GraphQL API providing hospital organ transplant data",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/srp324/organ-transplant-results.git"
+    "url": "git+https://github.com/srp324/Hospital-Organ-Transplant-API.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/srp324/organ-transplant-results/issues"
+    "url": "https://github.com/srp324/Hospital-Organ-Transplant-API/issues"
   },
-  "homepage": "https://github.com/srp324/organ-transplant-results#readme",
+  "homepage": "https://github.com/srp324/Hospital-Organ-Transplant-API#readme",
   "dependencies": {
     "apollo-server-express": "^1.3.6",
     "body-parser": "^1.18.3",
