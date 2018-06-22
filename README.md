@@ -17,6 +17,9 @@ TODO: Finish README and instructions to setup
 Glimpse of the Neo4j Database
 ![alt text](https://i.gyazo.com/dd9ef2da322740f7d63582d786096188.png "MATCH (n:Hospital) RETURN n LIMIT 5")
 
+Glimpse of a Node and Relationship. Each `TRANSPLANTS` relationship is either for an `adult` or `pediatric` organ transplant with corresponding rates and volumes.
+![alt text](https://i.gyazo.com/ef29aa2316871d31e88145c51ef45a67.png "MATCH r = (:Hospital {name: \"JOHNS HOPKINS HOSPITAL\"})-[:TRANSPLANTS]->(:Organ) RETURN r")
+
 Glimpse of the GraphiQL IDE querying the Neo4j Database
 ![alt text](https://i.gyazo.com/7dc1a13468947ffc2c772f152d14c7a4.png "{allHospitals { 
     name, organs}}")
