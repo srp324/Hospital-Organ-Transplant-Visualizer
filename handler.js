@@ -38,13 +38,12 @@ function scrapeData() {
                     for (var i = 0; i < json.length; i++) {
 
                         //Remove cases for 0 rate
-                        //TODO: Run this to get the new data
-                        if (json[i].rate !== "0.0")
+                        if (json[i].rate !== "0.0" && json[i].rate !== "0")
                             data[data.length] = json[i];
                     }
                 },
                 error: function (jgXHR, textStatus, errorThrown) { //On Error
-                    alert("Error: " + textStatus + " " + errorThrown);
+                    console.log("Error: " + textStatus + " " + errorThrown);
                 }
             });
         }

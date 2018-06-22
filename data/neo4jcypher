@@ -2,7 +2,7 @@ CREATE CONSTRAINT ON (h:Hospital) ASSERT h.name IS UNIQUE;
 CREATE CONSTRAINT ON (o:Organ) ASSERT o.name IS UNIQUE;
 
 USING PERIODIC COMMIT
-LOAD CSV WITH HEADERS FROM "https://gist.githubusercontent.com/srp324/85c624f453abcaaa1ced553ab9ddb1f7/raw/fef8c848d751c0230c8fb73430f90bdc05b5253f/data.csv" AS line 
+LOAD CSV WITH HEADERS FROM "https://gist.githubusercontent.com/srp324/85c624f453abcaaa1ced553ab9ddb1f7/raw/fed5869345feceb459f155094c7fe7f92efdf35a/data.csv" AS line 
 WITH line
 
 MERGE (hospital: Hospital {name: UPPER(line.name)})
