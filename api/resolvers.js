@@ -29,25 +29,19 @@ const resolvers = {
     },
 
     Hospital: {
-        organs(h) {
+        transplants(h) {
             let session = driver.session(),
                 params = {name: h.name},
                 query = `MATCH (h:Hospital {name: $name})-[t:TRANSPLANTS]->(o:Organ)
-                        RETURN DISTINCT o.name as organs`
+                        RETURN {name: o.name, type: t.type, rate: t.rate, volume: t.volume} as transplant`
             return session.run(query, params)
                 .then(result => {
                     return result.records.map(record => {
-                        return record.get("organs");
+                        return record.get("transplant");
                     })
                 })
         }
-    },
-
-    Organ: {
-
     }
-    
-    //TODO: Transplant Rates and Volumes
 };
 
 export default resolvers;

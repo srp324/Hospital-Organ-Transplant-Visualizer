@@ -14,11 +14,14 @@ type Query {
 
 type Hospital {
     name: String!
-    organs: [String]
+    transplants: [Organ]
   }
 
 type Organ {
   name: String!
+  type: String!
+  rate: Float
+  volume: Int
 }
 `;
 
