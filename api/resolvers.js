@@ -18,11 +18,11 @@ const resolvers = {
         },
         allOrgans(_, params) {
             let session = driver.session(),
-                query = `MATCH (o:Organ) RETURN o`
+                query = `MATCH (o:Organ) RETURN o.name`
             return session.run(query, params)
                 .then(result => {
                     return result.records.map(record => {
-                        return record.get("o").properties
+                        return record.get("o.name")
                     })
                 })
         }
@@ -42,6 +42,13 @@ const resolvers = {
                 })
         }
     }
+
+    /* TODO: Return all the hospitals that transplant a certain organ
+            Visually, this can be seen by visiting Neo4j Browser, then executing
+             MATCH (h:Hospital {name: "JOHNS HOPKINS HOSPITAL"})-[t:TRANSPLANTS]->(o:Organ)
+             RETURN o, t
+            Then "Expand Child Relationships" of an Organ node
+    */
 };
 
 export default resolvers;
