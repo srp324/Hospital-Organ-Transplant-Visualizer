@@ -16,6 +16,16 @@ const resolvers = {
                     })
                 })
         },
+        allOrgans(_, params) {
+            let session = driver.session(),
+                query = `MATCH (o:Organ) RETURN o`
+            return session.run(query, params)
+                .then(result => {
+                    return result.records.map(record => {
+                        return record.get("o").properties
+                    })
+                })
+        }
     },
 
     Hospital: {
@@ -31,6 +41,10 @@ const resolvers = {
                     })
                 })
         }
+    },
+
+    Organ: {
+
     }
     
     //TODO: Transplant Rates and Volumes
