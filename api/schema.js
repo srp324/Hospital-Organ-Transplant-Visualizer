@@ -9,17 +9,17 @@ const typeDefs = `
 type Query {
   testString: String
   allHospitals: [Hospital]
-  allOrgans: [Organ]
+  allOrgans: [String]
 }
 
 type Hospital {
-    name: String!
+    name: String
     transplants: [Organ]
   }
 
 type Organ {
-  name: String!
-  type: String!
+  name: String
+  type: String
   rate: Float
   volume: Int
 }
