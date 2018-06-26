@@ -2,7 +2,7 @@
 A Neo4j backed GraphQL API providing hospital organ transplant data.
 
 ## Motivation
-TODO
+This was just a personal project to feed my curiosity around graph databases and a little bit of web scraping. It was nice to get my mind around graph database schemas and visualizing different relationships in data when simply looking at a CSV file. I decided to use GraphQL to query the Neo4j Database after it was set up. When I stumbled across the SRTR hospital organ transplant page, I thought it would be convenient to set up a graph database for the information since the hospital's are involved with multiple organ transplants, each with their own rate and volume as well as for adults and pediatric patients, which can be seen modeled in the screenshots below.
 
 ## Process
 I scraped the data from https://www.srtr.org/transplant-centers/. The code for this is contained within the `neo4jscrape` branch.
