@@ -22,5 +22,4 @@ Glimpse of a Node and Relationship. Each `TRANSPLANTS` relationship is either fo
 ![alt text](https://i.gyazo.com/ef29aa2316871d31e88145c51ef45a67.png "MATCH r = (:Hospital {name: \"JOHNS HOPKINS HOSPITAL\"})-[:TRANSPLANTS]->(:Organ) RETURN r")
 
 Glimpse of the GraphiQL IDE querying the Neo4j Database
-![alt text](https://i.gyazo.com/7dc1a13468947ffc2c772f152d14c7a4.png "{allHospitals { 
-    name, organs}}")
+![alt text](https://i.gyazo.com/9916e9a1ebae219030def77322d552da.png "{allHospitals { name transplants {name type rate volume}}}")
