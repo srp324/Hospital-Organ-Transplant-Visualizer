@@ -11,6 +11,8 @@ const resolvers = {
                 query = `MATCH (h:Hospital) RETURN h`
             return session.run(query, params)
                 .then(result => {
+                    
+                    console.log(result.records);
                     return result.records.map(record => {
                         return record.get("h").properties
                     })
@@ -21,8 +23,21 @@ const resolvers = {
                 query = `MATCH (o:Organ) RETURN o.name`
             return session.run(query, params)
                 .then(result => {
+                    console.log(result.records);
+
                     return result.records.map(record => {
                         return record.get("o.name")
+                    })
+                })
+        },
+        getHospital(_, params) {
+            let session = driver.session(),
+                query = `MATCH (h:Hospital) WHERE h.name = $name RETURN h`
+            return session.run(query, params)
+                .then(result => {
+
+                    return result.records.map(record => {
+                        return record.get("h").properties
                     })
                 })
         }

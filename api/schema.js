@@ -10,6 +10,7 @@ type Query {
   testString: String
   allHospitals: [Hospital]
   allOrgans: [String]
+  getHospital(name: String): [Hospital]
 }
 
 type Hospital {
