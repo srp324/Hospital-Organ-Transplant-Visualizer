@@ -11,8 +11,6 @@ const resolvers = {
                 query = `MATCH (h:Hospital) RETURN h`
             return session.run(query, params)
                 .then(result => {
-                    
-                    console.log(result.records);
                     return result.records.map(record => {
                         return record.get("h").properties
                     })
@@ -23,8 +21,6 @@ const resolvers = {
                 query = `MATCH (o:Organ) RETURN o.name`
             return session.run(query, params)
                 .then(result => {
-                    console.log(result.records);
-
                     return result.records.map(record => {
                         return record.get("o.name")
                     })
@@ -35,9 +31,19 @@ const resolvers = {
                 query = `MATCH (h:Hospital) WHERE h.name = $name RETURN h`
             return session.run(query, params)
                 .then(result => {
-
                     return result.records.map(record => {
                         return record.get("h").properties
+                    })
+                })
+        },
+        getOrgan(_, params) {
+            let session = driver.session(),
+                query = `MATCH (o:Organ {name: $name})<-[t:TRANSPLANTS]-(h:Hospital) 
+                         RETURN {name: o.name, hospital: h.name, type: t.type, rate: t.rate, volume: t.volume} as organInfo`
+            return session.run(query, params)
+                .then(result => {
+                    return result.records.map(record => {
+                        return record.get("organInfo")
                     })
                 })
         }
@@ -48,7 +54,7 @@ const resolvers = {
             let session = driver.session(),
                 params = {name: h.name},
                 query = `MATCH (h:Hospital {name: $name})-[t:TRANSPLANTS]->(o:Organ)
-                        RETURN {name: o.name, type: t.type, rate: t.rate, volume: t.volume} as transplant`
+                        RETURN {name: o.name, hospital: h.name, type: t.type, rate: t.rate, volume: t.volume} as transplant`
             return session.run(query, params)
                 .then(result => {
                     return result.records.map(record => {

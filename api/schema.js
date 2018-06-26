@@ -11,6 +11,7 @@ type Query {
   allHospitals: [Hospital]
   allOrgans: [String]
   getHospital(name: String): [Hospital]
+  getOrgan(name: String): [Organ]
 }
 
 type Hospital {
@@ -20,6 +21,7 @@ type Hospital {
 
 type Organ {
   name: String
+  hospital: String!
   type: String
   rate: Float
   volume: Int
