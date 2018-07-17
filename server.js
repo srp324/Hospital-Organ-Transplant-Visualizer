@@ -9,6 +9,8 @@ import schema from './api/schema';
 const GRAPHQL_PORT = 8080;
 
 var app = express();
+var controller = require('./modules/handler');
+var handler = new controller.Handler();
 
 app.use(express.static("."));
 app.use('/graphql', bodyParser.json(), graphqlExpress({ schema }));
@@ -20,3 +22,11 @@ app.listen(GRAPHQL_PORT, () =>
     GraphiQL is running on http://localhost:${GRAPHQL_PORT}/graphiql`
   )
 );
+
+app.get("/getHospitalTransplants", function (req, res) {
+  handler.once('resp', function(msg) {
+      res.send(msg);
+  });
+  handler.getHospitalTransplants();
+});
+
