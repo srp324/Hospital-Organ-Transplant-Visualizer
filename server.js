@@ -23,10 +23,10 @@ app.listen(GRAPHQL_PORT, () =>
   )
 );
 
-app.get("/getHospitalTransplants", function (req, res) {
+app.get("/getOrgan", function (req, res) {
   handler.once('resp', function(msg) {
       res.send(msg);
   });
-  handler.getHospitalTransplants();
+  handler.getOrgan(req.query.organ);
 });
 
