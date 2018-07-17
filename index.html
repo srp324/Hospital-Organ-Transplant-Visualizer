@@ -9,13 +9,34 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-        
-        <!-- Import the handler javascript file -->
-        <script type="text/javascript" src="handler.js"></script>
+
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.10/lodash.min.js"></script>
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/alchemyjs/0.4.2/alchemy.min.css"/>
     </head>
 
     <body>
+        <div class="alchemy" id="alchemy"></div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/alchemyjs/0.4.2/alchemy.min.js"></script>
+        <script type="text/javascript">
+            var config = {
+                //TODO: Replace getOrgan.json with API call to /getOrgan?organ=kidney
+                dataSource: 'data/getOrgan.json',
+                forceLocked: false,
+                graphHeight: function () { return 400; },
+                graphWidth: function () { return 400; },
+                linkDistance: function () { return 40; },
+                nodeTypes: {
+                    "node_type": ["pediatric",
+                        "adult"]
+                },
+                nodeCaption: function (node) {
+                    return node.caption;
+                }
+            };
 
+            alchemy = new Alchemy(config)
+        </script>
     </body>
 
 </html>
