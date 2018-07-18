@@ -23,3 +23,6 @@ Glimpse of a Node and Relationship. Each `TRANSPLANTS` relationship is either fo
 
 Glimpse of the GraphiQL IDE querying the Neo4j Database
 ![alt text](https://i.gyazo.com/9916e9a1ebae219030def77322d552da.png "{allHospitals { name transplants {name type rate volume}}}")
+
+Glimpse of the graph generated with Alchemy.js using the GraphJSON formatted response for the `getOrgan(name:"KIDNEY") { hospital name type rate }` query
+![alt text](https://i.gyazo.com/ef13507a423d7e75868002e669786443.png "Created using Alchemy.js. Node's radius based on transplant rate.")
