@@ -19,6 +19,7 @@ class Handler extends EventEmitter {
             var json = JSON.parse(body);
 
             var id = 0;
+            var max_rate = 0;
             var nodes = [];
             var edges = [];
 
@@ -30,6 +31,10 @@ class Handler extends EventEmitter {
 
             for (var i = 0; i < json.data.getOrgan.length; i++) {
                 var type = json.data.getOrgan[i].type;
+                
+                if (json.data.getOrgan[i].rate >= max_rate)
+                    max_rate = json.data.getOrgan[i].rate;
+
                 nodes.push({
                     "id": ++id,
                     "caption": json.data.getOrgan[i].hospital,
@@ -38,11 +43,12 @@ class Handler extends EventEmitter {
                 edges.push({
                     "source": id,
                     "target": 0,
-                    "caption": type
+                    "caption": type,
+                    "rate": json.data.getOrgan[i].rate,
                 });
             };
 
-            var resp = {"nodes": nodes, "edges": edges}
+            var resp = {"nodes": nodes, "edges": edges, "max_rate": max_rate}
 
             self.emit('resp', resp); 
         });
