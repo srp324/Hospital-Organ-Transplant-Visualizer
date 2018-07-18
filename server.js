@@ -9,7 +9,7 @@ import schema from './api/schema';
 const GRAPHQL_PORT = 8080;
 
 var app = express();
-var gql = require('./modules/graphqlquery');
+var gql = require('./modules/gql');
 var gqlService = new gql.Service();
 
 app.use(express.static("."));
