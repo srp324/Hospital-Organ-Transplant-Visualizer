@@ -2,7 +2,7 @@
 <html>
 
     <head>
-        <title>LearnIt</title>
+        <title>Hospital Organ Transplant API</title>
         <meta name = "viewport" content = "width = device-width, initial-scale = 1">
         
         <!-- Import JQuery, AJAX, and Bootstrap -->
@@ -19,23 +19,50 @@
         <div class="alchemy" id="alchemy"></div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/alchemyjs/0.4.2/alchemy.min.js"></script>
         <script type="text/javascript">
+        
             var config = {
                 //TODO: Replace getOrgan.json with API call to /getOrgan?organ=kidney
                 dataSource: 'data/getOrgan.json',
                 forceLocked: false,
-                graphHeight: function () { return 400; },
-                graphWidth: function () { return 400; },
+                graphHeight: function () { return 600; },
+                graphWidth: function () { return 800; },
                 linkDistance: function () { return 40; },
                 nodeTypes: {
-                    "node_type": ["pediatric",
-                        "adult"]
+                    "type": ["organ", "pediatric", "adult"]
                 },
                 nodeCaption: function (node) {
-                    return node.caption;
+                    if(node.rate)
+                        return node.caption + "-" + node.rate;
+                    else
+                        return node.caption;
+                },
+                nodeStyle: {
+                    "organ": {
+                        "radius": 25,
+                        "color": "#00ce06",
+                        "borderColor": "009e04",
+                        "borderWidth": 5
+                    },
+                    "pediatric": {
+                        "radius": function (d) { return d.getProperties().rate / 8; },
+                        "borderWidth": function (d, radius) { return radius / 5; },
+                    },
+                    "adult": {
+                        "radius": function (d) { return d.getProperties().rate / 8; },
+                        "color": "#ff4242",
+                        "borderColor": "#ad2222",
+                        "borderWidth": function (d, radius) { return radius / 5; },
+                    }
+                },
+                edgeStyle: {
+                    "all": {
+                        "width": 2
+                    }
                 }
             };
 
-            alchemy = new Alchemy(config)
+            alchemy = new Alchemy(config);
+            
         </script>
     </body>
 
