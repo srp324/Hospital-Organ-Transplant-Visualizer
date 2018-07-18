@@ -3,7 +3,7 @@ var request = require('request'); //the request http wrapper module
 
 var EventEmitter = require('events').EventEmitter;
 
-class Handler extends EventEmitter {
+class Service extends EventEmitter {
     constructor() { 
         super(); 
     }
@@ -50,4 +50,4 @@ class Handler extends EventEmitter {
         });
     }
 }
-exports.Handler = Handler;
+exports.Service = Service;

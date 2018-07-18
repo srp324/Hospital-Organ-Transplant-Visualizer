@@ -9,8 +9,8 @@ import schema from './api/schema';
 const GRAPHQL_PORT = 8080;
 
 var app = express();
-var controller = require('./modules/handler');
-var handler = new controller.Handler();
+var gql = require('./modules/graphqlquery');
+var gqlService = new gql.Service();
 
 app.use(express.static("."));
 app.use('/graphql', bodyParser.json(), graphqlExpress({ schema }));
@@ -24,9 +24,9 @@ app.listen(GRAPHQL_PORT, () =>
 );
 
 app.get("/getOrgan", function (req, res) {
-  handler.once('resp', function(msg) {
+  gqlService.once('resp', function(msg) {
       res.send(msg);
   });
-  handler.getOrgan(req.query.organ);
+  gqlService.getOrgan(req.query.organ);
 });
 
