@@ -3,1776 +3,2131 @@
         {
             "id": 0,
             "caption": "KIDNEY",
+            "type": "organ",
             "root": true
         },
         {
             "id": 1,
             "caption": "CHILDREN'S HOSPITAL",
+            "rate": 81.4,
             "type": "pediatric"
         },
         {
             "id": 2,
             "caption": "UNIVERSITY OF KENTUCKY MEDICAL CENTER",
+            "rate": 92.5,
             "type": "pediatric"
         },
         {
             "id": 3,
             "caption": "CHILDREN'S HOSPITAL OF MICHIGAN",
+            "rate": 59.6,
             "type": "pediatric"
         },
         {
             "id": 4,
             "caption": "INOVA FAIRFAX HOSPITAL",
+            "rate": 62.8,
             "type": "pediatric"
         },
         {
             "id": 5,
             "caption": "UNIVERSITY HOSPITALS OF CLEVELAND",
+            "rate": 244.4,
             "type": "pediatric"
         },
         {
             "id": 6,
             "caption": "HACKENSACK UNIVERSITY MEDICAL CENTER",
+            "rate": 40.4,
             "type": "pediatric"
         },
         {
             "id": 7,
             "caption": "ERIE COUNTY MEDICAL CENTER",
+            "rate": 116.2,
             "type": "pediatric"
         },
         {
             "id": 8,
             "caption": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL",
+            "rate": 136.9,
             "type": "pediatric"
         },
         {
             "id": 9,
             "caption": "UNIVERSITY OF IOWA HOSPITALS AND CLINICS TRANSPLANT PROGRAMS",
+            "rate": 107.8,
             "type": "pediatric"
         },
         {
             "id": 10,
             "caption": "LOYOLA UNIVERSITY MEDICAL CENTER",
+            "rate": 19.7,
             "type": "pediatric"
         },
         {
             "id": 11,
             "caption": "MEMORIAL HERMANN HOSPITAL, UNIVERSITY OF TEXAS AT HOUSTON",
+            "rate": 74.5,
             "type": "pediatric"
         },
         {
             "id": 12,
             "caption": "RHODE ISLAND HOSPITAL",
+            "rate": 106.6,
             "type": "pediatric"
         },
         {
             "id": 13,
             "caption": "UNIVERSITY OF COLORADO HOSPITAL/HEALTH SCIENCE CENTER",
+            "rate": 54.4,
             "type": "pediatric"
         },
         {
             "id": 14,
             "caption": "PROVIDENCE SACRED HEART MEDICAL CENTER & CHILDREN'S HOSPITAL",
+            "rate": 58.7,
             "type": "pediatric"
         },
         {
             "id": 15,
             "caption": "TUFTS MEDICAL CENTER",
+            "rate": 33.6,
             "type": "pediatric"
         },
         {
             "id": 16,
             "caption": "UNIVERSITY OF UTAH MEDICAL CENTER",
+            "rate": 52.2,
             "type": "pediatric"
         },
         {
             "id": 17,
             "caption": "UNIVERSITY HOSPITAL OF STATE UNIVERSITY OF NEW YORK AT STONY BROOK",
+            "rate": 20.4,
             "type": "pediatric"
         },
         {
             "id": 18,
             "caption": "OSF SAINT FRANCIS MEDICAL CENTER",
+            "rate": 18.6,
             "type": "pediatric"
         },
         {
             "id": 19,
             "caption": "LARGO MEDICAL CENTER",
+            "rate": 4058.3,
             "type": "pediatric"
         },
         {
             "id": 20,
             "caption": "LEGACY GOOD SAMARITAN HOSPITAL AND MEDICAL CENTER",
+            "rate": 514.4,
             "type": "pediatric"
         },
         {
             "id": 21,
             "caption": "MARY HITCHCOCK MEMORIAL HOSPITAL",
+            "rate": 204.1,
             "type": "pediatric"
         },
         {
             "id": 22,
             "caption": "STATE UNIVERSITY OF NEW YORK, DOWNSTATE MEDICAL CENTER",
+            "rate": 41.1,
             "type": "pediatric"
         },
         {
             "id": 23,
             "caption": "NEW YORK-PRESBYTERIAN HOSPITAL/WEILL CORNELL MEDICAL CENTER",
+            "rate": 32.2,
             "type": "pediatric"
         },
         {
             "id": 24,
             "caption": "NY PRESBYTERIAN HOSPITAL/COLUMBIA UNIV. MEDICAL CENTER",
+            "rate": 30.6,
             "type": "pediatric"
         },
         {
             "id": 25,
             "caption": "MAINE MEDICAL CENTER",
+            "rate": 289.9,
             "type": "pediatric"
         },
         {
             "id": 26,
             "caption": "METHODIST SPECIALTY AND TRANSPLANT HOSPITAL",
+            "rate": 280.1,
             "type": "pediatric"
         },
         {
             "id": 27,
             "caption": "THE QUEEN'S MEDICAL CENTER",
+            "rate": 276.7,
             "type": "pediatric"
         },
         {
             "id": 28,
             "caption": "UNIVERSITY OF ILLINOIS MEDICAL CENTER",
+            "rate": 217.7,
             "type": "pediatric"
         },
         {
             "id": 29,
             "caption": "AU MEDICAL CENTER, INC.",
+            "rate": 59.3,
             "type": "pediatric"
         },
         {
             "id": 30,
             "caption": "ALBANY MEDICAL CENTER HOSPITAL",
+            "rate": 55.8,
             "type": "pediatric"
         },
         {
             "id": 31,
             "caption": "SWEDISH MEDICAL CENTER",
+            "rate": 487,
             "type": "pediatric"
         },
         {
             "id": 32,
             "caption": "AVERA MCKENNAN HOSPITAL",
+            "rate": 361.6,
             "type": "pediatric"
         },
         {
             "id": 33,
             "caption": "OHIO STATE UNIVERSITY MEDICAL CENTER",
+            "rate": 287.6,
             "type": "pediatric"
         },
         {
             "id": 34,
             "caption": "WILLIS-KNIGHTON MEDICAL CENTER",
+            "rate": 297,
             "type": "pediatric"
         },
         {
             "id": 35,
             "caption": "SANFORD HEALTH/USD MEDICAL CENTER",
+            "rate": 361.6,
             "type": "pediatric"
         },
         {
             "id": 36,
             "caption": "UNIVERSITY OF CALIFORNIA DAVIS MEDICAL CENTER",
+            "rate": 158,
             "type": "pediatric"
         },
         {
             "id": 37,
             "caption": "PRIMARY CHILDREN'S HOSPITAL",
+            "rate": 238.4,
             "type": "pediatric"
         },
         {
             "id": 38,
             "caption": "SAINT BARNABAS MEDICAL CENTER",
+            "rate": 27.8,
             "type": "pediatric"
         },
         {
             "id": 39,
             "caption": "TAMPA GENERAL HOSPITAL",
+            "rate": 99.3,
             "type": "pediatric"
         },
         {
             "id": 40,
             "caption": "UNIVERSITY OF WISCONSIN HOSPITAL AND CLINICS",
+            "rate": 118,
             "type": "pediatric"
         },
         {
             "id": 41,
             "caption": "CHILDREN'S HOSPITAL OF WISCONSIN",
+            "rate": 143.3,
             "type": "pediatric"
         },
         {
             "id": 42,
             "caption": "YALE NEW HAVEN HOSPITAL",
+            "rate": 122.1,
             "type": "pediatric"
         },
         {
             "id": 43,
             "caption": "THE NEBRASKA MEDICAL CENTER",
+            "rate": 129.4,
             "type": "pediatric"
         },
         {
             "id": 44,
             "caption": "MEDICAL UNIVERSITY OF SOUTH CAROLINA",
+            "rate": 133.8,
             "type": "pediatric"
         },
         {
             "id": 45,
             "caption": "UNIVERSITY OF MICHIGAN MEDICAL CENTER",
+            "rate": 186.2,
             "type": "pediatric"
         },
         {
             "id": 46,
             "caption": "ALFRED I DUPONT HOSPITAL FOR CHILDREN",
+            "rate": 95.7,
             "type": "pediatric"
         },
         {
             "id": 47,
             "caption": "NATIONWIDE CHILDREN'S HOSPITAL",
+            "rate": 119.5,
             "type": "pediatric"
         },
         {
             "id": 48,
             "caption": "CHILDREN'S HOSPITAL OF PITTSBURGH OF UPMC",
+            "rate": 260,
             "type": "pediatric"
         },
         {
             "id": 49,
             "caption": "CHILDREN'S MERCY HOSPITAL",
+            "rate": 69.3,
             "type": "pediatric"
         },
         {
             "id": 50,
             "caption": "INDIANA UNIVERSITY HEALTH",
+            "rate": 85.1,
             "type": "pediatric"
         },
         {
             "id": 51,
             "caption": "OREGON HEALTH AND SCIENCE UNIVERSITY",
+            "rate": 259.5,
             "type": "pediatric"
         },
         {
             "id": 52,
             "caption": "LE BONHEUR CHILDREN'S MEDICAL CENTER",
+            "rate": 69.4,
             "type": "pediatric"
         },
         {
             "id": 53,
             "caption": "MEDICAL COLLEGE OF VIRGINIA HOSPITALS",
+            "rate": 57.7,
             "type": "pediatric"
         },
         {
             "id": 54,
             "caption": "CHILDREN'S MEDICAL CENTER OF DALLAS",
+            "rate": 41.4,
             "type": "pediatric"
         },
         {
             "id": 55,
             "caption": "CAROLINAS MEDICAL CENTER",
+            "rate": 32.3,
             "type": "pediatric"
         },
         {
             "id": 56,
             "caption": "UNIVERSITY OF NORTH CAROLINA HOSPITALS",
+            "rate": 22.5,
             "type": "pediatric"
         },
         {
             "id": 57,
             "caption": "STATE UNIVERSITY OF NEW YORK UPSTATE MEDICAL UNIVERSITY",
+            "rate": 229.5,
             "type": "pediatric"
         },
         {
             "id": 58,
             "caption": "MASSACHUSETTS GENERAL HOSPITAL",
+            "rate": 195.1,
             "type": "pediatric"
         },
         {
             "id": 59,
             "caption": "CARDINAL GLENNON CHILDREN'S HOSPITAL",
+            "rate": 174.9,
             "type": "pediatric"
         },
         {
             "id": 60,
             "caption": "PENN STATE MILTON S HERSHEY MEDICAL CENTER",
+            "rate": 90.5,
             "type": "pediatric"
         },
         {
             "id": 61,
             "caption": "TULANE MEDICAL CENTER",
+            "rate": 85.2,
             "type": "pediatric"
         },
         {
             "id": 62,
             "caption": "DRISCOLL CHILDREN'S HOSPITAL",
+            "rate": 83,
             "type": "pediatric"
         },
         {
             "id": 63,
             "caption": "UNIVERSITY OF MISSOURI HOSPITAL AND CLINICS",
+            "rate": 67.7,
             "type": "pediatric"
         },
         {
             "id": 64,
             "caption": "JOHNS HOPKINS HOSPITAL",
+            "rate": 45.9,
             "type": "pediatric"
         },
         {
             "id": 65,
             "caption": "CEDARS-SINAI MEDICAL CENTER",
+            "rate": 37,
             "type": "pediatric"
         },
         {
             "id": 66,
             "caption": "RADY CHILDREN'S HOSPITAL AND HEALTH CENTER",
+            "rate": 20.5,
             "type": "pediatric"
         },
         {
             "id": 67,
             "caption": "CHILDREN'S HOSPITAL OF THE KING'S DAUGHTERS",
+            "rate": 135,
             "type": "pediatric"
         },
         {
             "id": 68,
             "caption": "GEISINGER MEDICAL CENTER",
+            "rate": 111.5,
             "type": "pediatric"
         },
         {
             "id": 69,
             "caption": "HELEN DEVOS CHILDREN'S HOSPITAL",
+            "rate": 143.8,
             "type": "pediatric"
         },
         {
             "id": 70,
             "caption": "UNIVERSITY OF CHICAGO MEDICAL CENTER",
+            "rate": 27.8,
             "type": "pediatric"
         },
         {
             "id": 71,
             "caption": "UF HEALTH SHANDS HOSPITAL",
+            "rate": 43.9,
             "type": "pediatric"
         },
         {
             "id": 72,
             "caption": "STRONG MEMORIAL HOSPITAL, UNIVERSITY OF ROCHESTER MEDICAL CENTER",
+            "rate": 84.3,
             "type": "pediatric"
         },
         {
             "id": 73,
             "caption": "STEVEN AND ALEXANDRA COHEN CHILDREN'S MEDICAL CENTER/NORTHWELL HEALTH",
+            "rate": 105.3,
             "type": "pediatric"
         },
         {
             "id": 74,
             "caption": "GEORGETOWN UNIVERSITY MEDICAL CENTER",
+            "rate": 155,
             "type": "pediatric"
         },
         {
             "id": 75,
             "caption": "MAYO CLINIC HOSPITAL",
+            "rate": 187.3,
             "type": "pediatric"
         },
         {
             "id": 76,
             "caption": "DUKE UNIVERSITY HOSPITAL",
+            "rate": 92.7,
             "type": "pediatric"
         },
         {
             "id": 77,
             "caption": "NORTON CHILDREN'S HOSPITAL",
+            "rate": 119.5,
             "type": "pediatric"
         },
         {
             "id": 78,
             "caption": "VANDERBILT UNIVERSITY MEDICAL CENTER AND NASHVILLE VA MEDICAL CENTER",
+            "rate": 156.1,
             "type": "pediatric"
         },
         {
             "id": 79,
             "caption": "ST. LOUIS CHILDREN'S HOSPITAL AT WASHINGTON UNIVERSITY MEDICAL CENTER",
+            "rate": 165.2,
             "type": "pediatric"
         },
         {
             "id": 80,
             "caption": "CHILDREN'S HOSPITAL OF OKLAHOMA",
+            "rate": 68.3,
             "type": "pediatric"
         },
         {
             "id": 81,
             "caption": "HARTFORD HOSPITAL",
+            "rate": 71.5,
             "type": "pediatric"
         },
         {
             "id": 82,
             "caption": "UNIVERSITY HOSPITAL, UNIVERSITY OF NEW MEXICO HEALTH SCIENCES CENTER",
+            "rate": 80.8,
             "type": "pediatric"
         },
         {
             "id": 83,
             "caption": "FLORIDA HOSPITAL MEDICAL CENTER",
+            "rate": 88.2,
             "type": "pediatric"
         },
         {
             "id": 84,
             "caption": "ST JOHN HOSPITAL AND MEDICAL CENTER",
+            "rate": 117.4,
             "type": "pediatric"
         },
         {
             "id": 85,
             "caption": "OCHSNER FOUNDATION HOSPITAL",
+            "rate": 109.7,
             "type": "pediatric"
         },
         {
             "id": 86,
             "caption": "BAYLOR ALL SAINTS MEDICAL CENTER",
+            "rate": 190.2,
             "type": "pediatric"
         },
         {
             "id": 87,
             "caption": "HAHNEMANN UNIVERSITY HOSPITAL",
+            "rate": 173.9,
             "type": "pediatric"
         },
         {
             "id": 88,
             "caption": "ROCHESTER METHODIST HOSPITAL (MAYO CLINIC)",
+            "rate": 75.8,
             "type": "pediatric"
         },
         {
             "id": 89,
             "caption": "UNIVERSITY OF MARYLAND MEDICAL SYSTEM",
+            "rate": 73.1,
             "type": "pediatric"
         },
         {
             "id": 90,
             "caption": "ST. CHRISTOPHER'S HOSPITAL FOR CHILDREN",
+            "rate": 108.7,
             "type": "pediatric"
         },
         {
             "id": 91,
             "caption": "NORTHWESTERN MEMORIAL HOSPITAL",
+            "rate": 81.8,
             "type": "pediatric"
         },
         {
             "id": 92,
             "caption": "WESTCHESTER MEDICAL CENTER",
+            "rate": 63.2,
             "type": "pediatric"
         },
         {
             "id": 93,
             "caption": "MEDICAL CITY DALLAS HOSPITAL",
+            "rate": 52.7,
             "type": "pediatric"
         },
         {
             "id": 94,
             "caption": "UNIVERSITY OF VIRGINIA HEALTH SCIENCES CENTER",
+            "rate": 83.5,
             "type": "pediatric"
         },
         {
             "id": 95,
             "caption": "VIDANT MEDICAL CENTER",
+            "rate": 63.9,
             "type": "pediatric"
         },
         {
             "id": 96,
             "caption": "DOCTOR'S HOSPITAL AT RENAISSANCE",
+            "rate": 260.9,
             "type": "pediatric"
         },
         {
             "id": 97,
             "caption": "RUSH UNIVERSITY MEDICAL CENTER",
+            "rate": 239.9,
             "type": "pediatric"
         },
         {
             "id": 98,
             "caption": "UNIVERSITY OF MISSISSIPPI MEDICAL CENTER",
+            "rate": 43.4,
             "type": "pediatric"
         },
         {
             "id": 99,
             "caption": "BANNER UNIVERSITY MEDICAL CENTER-TUCSON",
+            "rate": 41.3,
             "type": "pediatric"
         },
         {
             "id": 100,
             "caption": "LUCILE SALTER PACKARD CHILDREN'S HOSPITAL AT STANFORD",
+            "rate": 34.2,
             "type": "pediatric"
         },
         {
             "id": 101,
             "caption": "UNIVERSITY OF MINNESOTA MEDICAL CENTER, FAIRVIEW",
+            "rate": 58.7,
             "type": "pediatric"
         },
         {
             "id": 102,
             "caption": "CHILDREN'S HOSPITAL MEDICAL CENTER",
+            "rate": 129.5,
             "type": "pediatric"
         },
         {
             "id": 103,
             "caption": "PHOENIX CHILDREN'S HOSPITAL",
+            "rate": 139.9,
             "type": "pediatric"
         },
         {
             "id": 104,
             "caption": "UNIVERSITY HOSPITAL, UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER",
+            "rate": 179.5,
             "type": "pediatric"
         },
         {
             "id": 105,
             "caption": "JACKSON MEMORIAL HOSPITAL UNIVERSITY OF MIAMI SCHOOL OF MEDICINE",
+            "rate": 94.6,
             "type": "pediatric"
         },
         {
             "id": 106,
             "caption": "CHILDREN'S HEALTHCARE OF ATLANTA AT EGLESTON",
+            "rate": 108.5,
             "type": "pediatric"
         },
         {
             "id": 107,
             "caption": "TEXAS CHILDREN'S HOSPITAL",
+            "rate": 62.3,
             "type": "pediatric"
         },
         {
             "id": 108,
             "caption": "BOSTON CHILDREN'S HOSPITAL",
+            "rate": 141.5,
             "type": "pediatric"
         },
         {
             "id": 109,
             "caption": "CHILDREN'S HOSPITAL OF PHILADELPHIA",
+            "rate": 33.8,
             "type": "pediatric"
         },
         {
             "id": 110,
             "caption": "CHILDRENS HOSPITAL LOS ANGELES",
+            "rate": 34.8,
             "type": "pediatric"
         },
         {
             "id": 111,
             "caption": "LOMA LINDA UNIVERSITY MEDICAL CENTER",
+            "rate": 63.7,
             "type": "pediatric"
         },
         {
             "id": 112,
             "caption": "MOUNT SINAI MEDICAL CENTER",
+            "rate": 32.6,
             "type": "pediatric"
         },
         {
             "id": 113,
             "caption": "CHILDREN'S NATIONAL MEDICAL CENTER",
+            "rate": 126.1,
             "type": "pediatric"
         },
         {
             "id": 114,
             "caption": "CHILDREN'S HOSPITAL COLORADO",
+            "rate": 156.7,
             "type": "pediatric"
         },
         {
             "id": 115,
             "caption": "UNIVERSITY OF CALIFORNIA AT LOS ANGELES MEDICAL CENTER",
+            "rate": 40.8,
             "type": "pediatric"
         },
         {
             "id": 116,
             "caption": "CHILDREN'S OF ALABAMA",
+            "rate": 66.9,
             "type": "pediatric"
         },
         {
             "id": 117,
             "caption": "THE CLEVELAND CLINIC FOUNDATION",
+            "rate": 102.8,
             "type": "pediatric"
         },
         {
             "id": 118,
             "caption": "SAINT MARYS HOSPITAL (MAYO CLINIC)",
+            "rate": 123.6,
             "type": "pediatric"
         },
         {
             "id": 119,
             "caption": "UCSF MEDICAL CENTER AT MISSION BAY",
+            "rate": 18,
             "type": "pediatric"
         },
         {
             "id": 120,
             "caption": "MONTEFIORE MEDICAL CENTER",
+            "rate": 53.9,
             "type": "pediatric"
         },
         {
             "id": 121,
             "caption": "COOK CHILDREN'S MEDICAL CENTER",
+            "rate": 233.1,
             "type": "pediatric"
         },
         {
             "id": 122,
             "caption": "ANN & ROBERT H. LURIE CHILDREN'S HOSPITAL OF CHICAGO",
+            "rate": 35.6,
             "type": "pediatric"
         },
         {
             "id": 123,
             "caption": "ARKANSAS CHILDREN'S HOSPITAL",
+            "rate": 225.7,
             "type": "pediatric"
         },
         {
             "id": 124,
             "caption": "WAKE FOREST BAPTIST MEDICAL CENTER",
+            "rate": 95.1,
             "type": "pediatric"
         },
         {
             "id": 125,
             "caption": "SEATTLE CHILDREN'S HOSPITAL",
+            "rate": 50,
             "type": "pediatric"
         },
         {
             "id": 126,
             "caption": "ST. JOSEPH'S HOSPITAL AND MEDICAL CENTER",
+            "rate": 43.4,
             "type": "adult"
         },
         {
             "id": 127,
             "caption": "UNIV OF MN AMPLATZ CHILDREN'S HOSP",
+            "rate": 216.1,
             "type": "adult"
         },
         {
             "id": 128,
             "caption": "CHILDREN'S HOSPITAL OF WISCONSIN",
+            "rate": 50.9,
             "type": "adult"
         },
         {
             "id": 129,
             "caption": "BAPTIST MEDICAL CENTER",
+            "rate": 19.8,
             "type": "adult"
         },
         {
             "id": 130,
             "caption": "METHODIST SPECIALTY AND TRANSPLANT HOSPITAL",
+            "rate": 13.5,
             "type": "adult"
         },
         {
             "id": 131,
             "caption": "NEWARK BETH ISRAEL MEDICAL CENTER",
+            "rate": 103.3,
             "type": "adult"
         },
         {
             "id": 132,
             "caption": "CENTENNIAL MEDICAL CENTER",
+            "rate": 5.2,
             "type": "adult"
         },
         {
             "id": 133,
             "caption": "EAST TEXAS MEDICAL CENTER",
+            "rate": 15.7,
             "type": "adult"
         },
         {
             "id": 134,
             "caption": "UNIVERSITY OF TOLEDO MEDICAL CENTER",
+            "rate": 40.5,
             "type": "adult"
         },
         {
             "id": 135,
             "caption": "MEMORIAL MEDICAL CENTER",
+            "rate": 11.8,
             "type": "adult"
         },
         {
             "id": 136,
             "caption": "UNIVERSITY HOSPITAL",
+            "rate": 67.1,
             "type": "adult"
         },
         {
             "id": 137,
             "caption": "SACRED HEART HOSPITAL PENSACOLA",
+            "rate": 35.8,
             "type": "adult"
         },
         {
             "id": 138,
             "caption": "DOCTOR'S HOSPITAL AT RENAISSANCE",
+            "rate": 37.7,
             "type": "adult"
         },
         {
             "id": 139,
             "caption": "HALIFAX MEDICAL CENTER",
+            "rate": 46,
             "type": "adult"
         },
         {
             "id": 140,
             "caption": "MICHAEL E. DEBAKEY VA MEDICAL CENTER",
+            "rate": 7.1,
             "type": "adult"
         },
         {
             "id": 141,
             "caption": "HARBOR UCLA MEDICAL CENTER",
+            "rate": 5.6,
             "type": "adult"
         },
         {
             "id": 142,
             "caption": "RIVERSIDE COMMUNITY HOSPITAL",
+            "rate": 11.1,
             "type": "adult"
         },
         {
             "id": 143,
             "caption": "PARKLAND HEALTH AND HOSPITAL SYSTEM",
+            "rate": 8.6,
             "type": "adult"
         },
         {
             "id": 144,
             "caption": "GULF COAST MEDICAL CENTER",
+            "rate": 9.4,
             "type": "adult"
         },
         {
             "id": 145,
             "caption": "SAINT JOSEPH HOSPITAL",
+            "rate": 8.6,
             "type": "adult"
         },
         {
             "id": 146,
             "caption": "CROZER-CHESTER MEDICAL CENTER",
+            "rate": 10.8,
             "type": "adult"
         },
         {
             "id": 147,
             "caption": "UPMC HAMOT",
+            "rate": 72.1,
             "type": "adult"
         },
         {
             "id": 148,
             "caption": "CHILDRENS HOSPITAL LOS ANGELES",
+            "rate": 56.6,
             "type": "adult"
         },
         {
             "id": 149,
             "caption": "RADY CHILDREN'S HOSPITAL AND HEALTH CENTER",
+            "rate": 41.4,
             "type": "adult"
         },
         {
             "id": 150,
             "caption": "BIRMINGHAM VA MEDICAL CENTER",
+            "rate": 10.2,
             "type": "adult"
         },
         {
             "id": 151,
             "caption": "BOSTON CHILDREN'S HOSPITAL",
+            "rate": 24.6,
             "type": "adult"
         },
         {
             "id": 152,
             "caption": "UCSF MEDICAL CENTER AT MISSION BAY",
+            "rate": 125.1,
             "type": "adult"
         },
         {
             "id": 153,
             "caption": "JAMES J. PETERS VA MEDICAL CENTER",
+            "rate": 41.6,
             "type": "adult"
         },
         {
             "id": 154,
             "caption": "SEATTLE CHILDREN'S HOSPITAL",
+            "rate": 30.3,
             "type": "adult"
         },
         {
             "id": 155,
             "caption": "PRIMARY CHILDREN'S HOSPITAL",
+            "rate": 27.9,
             "type": "adult"
         },
         {
             "id": 156,
             "caption": "TEXAS CHILDREN'S HOSPITAL",
+            "rate": 26.5,
             "type": "adult"
         },
         {
             "id": 157,
             "caption": "CHILDREN'S HOSPITAL OF PITTSBURGH OF UPMC",
+            "rate": 59.2,
             "type": "adult"
         },
         {
             "id": 158,
             "caption": "DRISCOLL CHILDREN'S HOSPITAL",
+            "rate": 46.8,
             "type": "adult"
         },
         {
             "id": 159,
             "caption": "UNIVERSITY OF MARYLAND MEDICAL SYSTEM",
+            "rate": 14.6,
             "type": "adult"
         },
         {
             "id": 160,
             "caption": "THE CLEVELAND CLINIC FOUNDATION",
+            "rate": 22.2,
             "type": "adult"
         },
         {
             "id": 161,
             "caption": "CHILDREN'S HOSPITAL OF THE KING'S DAUGHTERS",
+            "rate": 37.7,
             "type": "adult"
         },
         {
             "id": 162,
             "caption": "CHILDREN'S HOSPITAL COLORADO",
+            "rate": 17.9,
             "type": "adult"
         },
         {
             "id": 163,
             "caption": "CHILDREN'S HEALTHCARE OF ATLANTA AT EGLESTON",
+            "rate": 11,
             "type": "adult"
         },
         {
             "id": 164,
             "caption": "CHILDREN'S OF ALABAMA",
+            "rate": 16.3,
             "type": "adult"
         },
         {
             "id": 165,
             "caption": "CHILDREN'S HOSPITAL OF MICHIGAN",
+            "rate": 73.1,
             "type": "adult"
         },
         {
             "id": 166,
             "caption": "CARDINAL GLENNON CHILDREN'S HOSPITAL",
+            "rate": 165.6,
             "type": "adult"
         },
         {
             "id": 167,
             "caption": "THE QUEEN'S MEDICAL CENTER",
+            "rate": 11.8,
             "type": "adult"
         },
         {
             "id": 168,
             "caption": "ST JOHN MEDICAL CENTER",
+            "rate": 44.3,
             "type": "adult"
         },
         {
             "id": 169,
             "caption": "GEORGE WASHINGTON UNIVERSITY HOSPITAL",
+            "rate": 41.9,
             "type": "adult"
         },
         {
             "id": 170,
             "caption": "TEXAS HEALTH HARRIS METHODIST FORT WORTH HOSPITAL",
+            "rate": 66.2,
             "type": "adult"
         },
         {
             "id": 171,
             "caption": "CHILDREN'S MERCY HOSPITAL",
+            "rate": 45.5,
             "type": "adult"
         },
         {
             "id": 172,
             "caption": "SAINT MARYS HOSPITAL (MAYO CLINIC)",
+            "rate": 48.3,
             "type": "adult"
         },
         {
             "id": 173,
             "caption": "CHILDREN'S HOSPITAL MEDICAL CENTER",
+            "rate": 55,
             "type": "adult"
         },
         {
             "id": 174,
             "caption": "CHILDREN'S MEDICAL CENTER OF DALLAS",
+            "rate": 13.4,
             "type": "adult"
         },
         {
             "id": 175,
             "caption": "ANN & ROBERT H. LURIE CHILDREN'S HOSPITAL OF CHICAGO",
+            "rate": 25.2,
             "type": "adult"
         },
         {
             "id": 176,
             "caption": "CHILDREN'S HOSPITAL",
+            "rate": 60.4,
             "type": "adult"
         },
         {
             "id": 177,
             "caption": "LUCILE SALTER PACKARD CHILDREN'S HOSPITAL AT STANFORD",
+            "rate": 35.6,
             "type": "adult"
         },
         {
             "id": 178,
             "caption": "CHILDREN'S HOSPITAL OF PHILADELPHIA",
+            "rate": 10.3,
             "type": "adult"
         },
         {
             "id": 179,
             "caption": "ADVOCATE CHRIST MEDICAL CENTER",
+            "rate": 9.8,
             "type": "adult"
         },
         {
             "id": 180,
             "caption": "NASHVILLE VETERANS ADMINISTRATION HOSPITAL",
+            "rate": 10.2,
             "type": "adult"
         },
         {
             "id": 181,
             "caption": "LUTHERAN HOSPITAL OF FORT WAYNE",
+            "rate": 17.9,
             "type": "adult"
         },
         {
             "id": 182,
             "caption": "ERLANGER MEDICAL CENTER",
+            "rate": 17.4,
             "type": "adult"
         },
         {
             "id": 183,
             "caption": "MARY HITCHCOCK MEMORIAL HOSPITAL",
+            "rate": 46,
             "type": "adult"
         },
         {
             "id": 184,
             "caption": "THE IOWA CITY VA HEALTH CARE SYSTEM",
+            "rate": 40.6,
             "type": "adult"
         },
         {
             "id": 185,
             "caption": "THE UNIVERSITY OF VERMONT MEDICAL CENTER",
+            "rate": 28.7,
             "type": "adult"
         },
         {
             "id": 186,
             "caption": "PENN STATE MILTON S HERSHEY MEDICAL CENTER",
+            "rate": 15.3,
             "type": "adult"
         },
         {
             "id": 187,
             "caption": "PROVIDENCE SACRED HEART MEDICAL CENTER & CHILDREN'S HOSPITAL",
+            "rate": 16.1,
             "type": "adult"
         },
         {
             "id": 188,
             "caption": "GEISINGER MEDICAL CENTER",
+            "rate": 13.5,
             "type": "adult"
         },
         {
             "id": 189,
             "caption": "UT SOUTHWESTERN MEDICAL CENTER/WILLIAM P. CLEMENTS JR. UNIVERSITY HOSPITAL",
+            "rate": 12.9,
             "type": "adult"
         },
         {
             "id": 190,
             "caption": "NORTH SHORE UNIVERSITY HOSPITAL/NORTHWELL HEALTH",
+            "rate": 9.2,
             "type": "adult"
         },
         {
             "id": 191,
             "caption": "SANFORD BISMARCK MEDICAL CENTER",
+            "rate": 26,
             "type": "adult"
         },
         {
             "id": 192,
             "caption": "UNIVERSITY OF MISSOURI HOSPITAL AND CLINICS",
+            "rate": 17.9,
             "type": "adult"
         },
         {
             "id": 193,
             "caption": "MAINE MEDICAL CENTER",
+            "rate": 44,
             "type": "adult"
         },
         {
             "id": 194,
             "caption": "VA PORTLAND HEALTH CARE SYSTEM",
+            "rate": 22.7,
             "type": "adult"
         },
         {
             "id": 195,
             "caption": "SSM HEALTH SAINT LOUIS UNIVERSITY HOSPITAL",
+            "rate": 29.3,
             "type": "adult"
         },
         {
             "id": 196,
             "caption": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL",
+            "rate": 11.6,
             "type": "adult"
         },
         {
             "id": 197,
             "caption": "CENTURA PORTER ADVENTIST HOSPITAL",
+            "rate": 13.4,
             "type": "adult"
         },
         {
             "id": 198,
             "caption": "TUFTS MEDICAL CENTER",
+            "rate": 19.4,
             "type": "adult"
         },
         {
             "id": 199,
             "caption": "LAS PALMAS MEDICAL CENTER",
+            "rate": 29,
             "type": "adult"
         },
         {
             "id": 200,
             "caption": "UNIVERSITY HOSPITAL, UNIVERSITY OF NEW MEXICO HEALTH SCIENCES CENTER",
+            "rate": 14.5,
             "type": "adult"
         },
         {
             "id": 201,
             "caption": "PRESBYTERIAN HOSPITAL",
+            "rate": 18.2,
             "type": "adult"
         },
         {
             "id": 202,
             "caption": "HACKENSACK UNIVERSITY MEDICAL CENTER",
+            "rate": 17,
             "type": "adult"
         },
         {
             "id": 203,
             "caption": "STATE UNIVERSITY OF NEW YORK, DOWNSTATE MEDICAL CENTER",
+            "rate": 8,
             "type": "adult"
         },
         {
             "id": 204,
             "caption": "WESTCHESTER MEDICAL CENTER",
+            "rate": 10.4,
             "type": "adult"
         },
         {
             "id": 205,
             "caption": "UMASS MEMORIAL MEDICAL CENTER",
+            "rate": 18,
             "type": "adult"
         },
         {
             "id": 206,
             "caption": "TEMPLE UNIVERSITY HOSPITAL",
+            "rate": 22.1,
             "type": "adult"
         },
         {
             "id": 207,
             "caption": "UNIVERSITY OF CALIFORNIA IRVINE MEDICAL CENTER",
+            "rate": 6.1,
             "type": "adult"
         },
         {
             "id": 208,
             "caption": "HAHNEMANN UNIVERSITY HOSPITAL",
+            "rate": 12.4,
             "type": "adult"
         },
         {
             "id": 209,
             "caption": "ST. VINCENT MEDICAL CENTER",
+            "rate": 19.3,
             "type": "adult"
         },
         {
             "id": 210,
             "caption": "WILLIS-KNIGHTON MEDICAL CENTER",
+            "rate": 16.3,
             "type": "adult"
         },
         {
             "id": 211,
             "caption": "SANFORD HEALTH/USD MEDICAL CENTER",
+            "rate": 24.7,
             "type": "adult"
         },
         {
             "id": 212,
             "caption": "NORTH AUSTIN MEDICAL CENTER",
+            "rate": 7.8,
             "type": "adult"
         },
         {
             "id": 213,
             "caption": "SAINT FRANCIS HOSPITAL",
+            "rate": 36.6,
             "type": "adult"
         },
         {
             "id": 214,
             "caption": "OUR LADY OF LOURDES MEDICAL CENTER",
+            "rate": 12.2,
             "type": "adult"
         },
         {
             "id": 215,
             "caption": "CHRISTIANA CARE HEALTH SERVICES",
+            "rate": 9.5,
             "type": "adult"
         },
         {
             "id": 216,
             "caption": "ST JOHN HOSPITAL AND MEDICAL CENTER",
+            "rate": 11,
             "type": "adult"
         },
         {
             "id": 217,
             "caption": "LAHEY CLINIC MEDICAL CENTER",
+            "rate": 19.2,
             "type": "adult"
         },
         {
             "id": 218,
             "caption": "SAINT THOMAS HOSPITAL",
+            "rate": 20.4,
             "type": "adult"
         },
         {
             "id": 219,
             "caption": "HARPER UNIVERSITY HOSPITAL DETROIT MEDICAL CENTER",
+            "rate": 13.4,
             "type": "adult"
         },
         {
             "id": 220,
             "caption": "ABBOTT NORTHWESTERN HOSPITAL",
+            "rate": 20.5,
             "type": "adult"
         },
         {
             "id": 221,
             "caption": "BOSTON MEDICAL CENTER",
+            "rate": 17.4,
             "type": "adult"
         },
         {
             "id": 222,
             "caption": "PINNACLE HEALTH SYSTEM AT HARRISBURG HOSPITAL",
+            "rate": 12.4,
             "type": "adult"
         },
         {
             "id": 223,
             "caption": "MERCY MEDICAL CENTER-DES MOINES",
+            "rate": 23,
             "type": "adult"
         },
         {
             "id": 224,
             "caption": "AVERA MCKENNAN HOSPITAL",
+            "rate": 11.4,
             "type": "adult"
         },
         {
             "id": 225,
             "caption": "CHRISTUS SANTA ROSA HOSPITAL MEDICAL CENTER",
+            "rate": 11.6,
             "type": "adult"
         },
         {
             "id": 226,
             "caption": "SANFORD MEDICAL CENTER FARGO",
+            "rate": 34.1,
             "type": "adult"
         },
         {
             "id": 227,
             "caption": "CHARLESTON AREA MEDICAL CENTER",
+            "rate": 20,
             "type": "adult"
         },
         {
             "id": 228,
             "caption": "BAYSTATE MEDICAL CENTER",
+            "rate": 17.9,
             "type": "adult"
         },
         {
             "id": 229,
             "caption": "OSF SAINT FRANCIS MEDICAL CENTER",
+            "rate": 12.8,
             "type": "adult"
         },
         {
             "id": 230,
             "caption": "AURORA ST. LUKE'S MEDICAL CENTER",
+            "rate": 12.5,
             "type": "adult"
         },
         {
             "id": 231,
             "caption": "HENRICO DOCTORS' HOSPITAL",
+            "rate": 13.3,
             "type": "adult"
         },
         {
             "id": 232,
             "caption": "THE LANKENAU HOSPITAL",
+            "rate": 23.9,
             "type": "adult"
         },
         {
             "id": 233,
             "caption": "LARGO MEDICAL CENTER",
+            "rate": 235.3,
             "type": "adult"
         },
         {
             "id": 234,
             "caption": "OU MEDICAL CENTER",
+            "rate": 27.1,
             "type": "adult"
         },
         {
             "id": 235,
             "caption": "TULANE MEDICAL CENTER",
+            "rate": 15.2,
             "type": "adult"
         },
         {
             "id": 236,
             "caption": "IOWA METHODIST MEDICAL CENTER",
+            "rate": 94.5,
             "type": "adult"
         },
         {
             "id": 237,
             "caption": "UNIVERSITY MEDICAL CENTER OF SOUTHERN NEVADA",
+            "rate": 46.9,
             "type": "adult"
         },
         {
             "id": 238,
             "caption": "BETH ISRAEL DEACONESS MEDICAL CENTER",
+            "rate": 17.9,
             "type": "adult"
         },
         {
             "id": 239,
             "caption": "THE CHRIST HOSPITAL",
+            "rate": 42.3,
             "type": "adult"
         },
         {
             "id": 240,
             "caption": "UAMS MEDICAL CENTER",
+            "rate": 32.9,
             "type": "adult"
         },
         {
             "id": 241,
             "caption": "VIDANT MEDICAL CENTER",
+            "rate": 21.6,
             "type": "adult"
         },
         {
             "id": 242,
             "caption": "RHODE ISLAND HOSPITAL",
+            "rate": 20.8,
             "type": "adult"
         },
         {
             "id": 243,
             "caption": "HENNEPIN COUNTY MEDICAL CENTER",
+            "rate": 14.9,
             "type": "adult"
         },
         {
             "id": 244,
             "caption": "UNIVERSITY OF IOWA HOSPITALS AND CLINICS TRANSPLANT PROGRAMS",
+            "rate": 17.8,
             "type": "adult"
         },
         {
             "id": 245,
             "caption": "WALTER REED NATIONAL MILITARY MEDICAL CENTER AT BETHESDA",
+            "rate": 21.9,
             "type": "adult"
         },
         {
             "id": 246,
             "caption": "MEMORIAL HERMANN HOSPITAL, UNIVERSITY OF TEXAS AT HOUSTON",
+            "rate": 14.4,
             "type": "adult"
         },
         {
             "id": 247,
             "caption": "SCRIPPS GREEN HOSPITAL",
+            "rate": 9.6,
             "type": "adult"
         },
         {
             "id": 248,
             "caption": "UNIVERSITY OF TENNESSEE MEDICAL CENTER AT KNOXVILLE",
+            "rate": 22.1,
             "type": "adult"
         },
         {
             "id": 249,
             "caption": "UNIVERSITY OF CHICAGO MEDICAL CENTER",
+            "rate": 11.1,
             "type": "adult"
         },
         {
             "id": 250,
             "caption": "JEWISH HOSPITAL",
+            "rate": 25.3,
             "type": "adult"
         },
         {
             "id": 251,
             "caption": "HARTFORD HOSPITAL",
+            "rate": 16.9,
             "type": "adult"
         },
         {
             "id": 252,
             "caption": "STATE UNIVERSITY OF NEW YORK UPSTATE MEDICAL UNIVERSITY",
+            "rate": 51.1,
             "type": "adult"
         },
         {
             "id": 253,
             "caption": "BRIGHAM AND WOMEN'S HOSPITAL",
+            "rate": 25.4,
             "type": "adult"
         },
         {
             "id": 254,
             "caption": "INTERMOUNTAIN MEDICAL CENTER",
+            "rate": 35.1,
             "type": "adult"
         },
         {
             "id": 255,
             "caption": "ST VINCENT HOSPITAL AND HEALTH CARE CENTER",
+            "rate": 26.1,
             "type": "adult"
         },
         {
             "id": 256,
             "caption": "AU MEDICAL CENTER, INC.",
+            "rate": 4.7,
             "type": "adult"
         },
         {
             "id": 257,
             "caption": "VA PITTSBURGH HEALTHCARE SYSTEM",
+            "rate": 9.6,
             "type": "adult"
         },
         {
             "id": 258,
             "caption": "SHARP MEMORIAL HOSPITAL",
+            "rate": 11.5,
             "type": "adult"
         },
         {
             "id": 259,
             "caption": "UNIVERSITY OF CINCINNATI  MEDICAL CENTER",
+            "rate": 36.2,
             "type": "adult"
         },
         {
             "id": 260,
             "caption": "UNIVERSITY HOSPITAL, UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER",
+            "rate": 14.6,
             "type": "adult"
         },
         {
             "id": 261,
             "caption": "LOYOLA UNIVERSITY MEDICAL CENTER",
+            "rate": 16.3,
             "type": "adult"
         },
         {
             "id": 262,
             "caption": "LEGACY GOOD SAMARITAN HOSPITAL AND MEDICAL CENTER",
+            "rate": 36.7,
             "type": "adult"
         },
         {
             "id": 263,
             "caption": "AUXILIO MUTUO HOSPITAL",
+            "rate": 18.5,
             "type": "adult"
         },
         {
             "id": 264,
             "caption": "MEDICAL CITY DALLAS HOSPITAL",
+            "rate": 32.5,
             "type": "adult"
         },
         {
             "id": 265,
             "caption": "UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVESTON",
+            "rate": 25.7,
             "type": "adult"
         },
         {
             "id": 266,
             "caption": "SWEDISH MEDICAL CENTER",
+            "rate": 19,
             "type": "adult"
         },
         {
             "id": 267,
             "caption": "ERIE COUNTY MEDICAL CENTER",
+            "rate": 37.5,
             "type": "adult"
         },
         {
             "id": 268,
             "caption": "MASSACHUSETTS GENERAL HOSPITAL",
+            "rate": 17.5,
             "type": "adult"
         },
         {
             "id": 269,
             "caption": "BANNER UNIVERSITY MEDICAL CENTER-TUCSON",
+            "rate": 60.9,
             "type": "adult"
         },
         {
             "id": 270,
             "caption": "CAROLINAS MEDICAL CENTER",
+            "rate": 21.5,
             "type": "adult"
         },
         {
             "id": 271,
             "caption": "LEHIGH VALLEY HOSPITAL",
+            "rate": 23.5,
             "type": "adult"
         },
         {
             "id": 272,
             "caption": "SCOTT AND WHITE MEMORIAL HOSPITAL",
+            "rate": 55.7,
             "type": "adult"
         },
         {
             "id": 273,
             "caption": "ALLEGHENY GENERAL HOSPITAL",
+            "rate": 29.5,
             "type": "adult"
         },
         {
             "id": 274,
             "caption": "UNIVERSITY OF VIRGINIA HEALTH SCIENCES CENTER",
+            "rate": 17.8,
             "type": "adult"
         },
         {
             "id": 275,
             "caption": "UNIVERSITY HOSPITALS OF CLEVELAND",
+            "rate": 16.2,
             "type": "adult"
         },
         {
             "id": 276,
             "caption": "UNIVERSITY OF KENTUCKY MEDICAL CENTER",
+            "rate": 18.7,
             "type": "adult"
         },
         {
             "id": 277,
             "caption": "VIRGINIA MASON MEDICAL CENTER",
+            "rate": 21.8,
             "type": "adult"
         },
         {
             "id": 278,
             "caption": "WILLIAM BEAUMONT HOSPITAL",
+            "rate": 22.3,
             "type": "adult"
         },
         {
             "id": 279,
             "caption": "UNIVERSITY OF NORTH CAROLINA HOSPITALS",
+            "rate": 11.8,
             "type": "adult"
         },
         {
             "id": 280,
             "caption": "INTEGRIS BAPTIST MEDICAL CENTER",
+            "rate": 39.7,
             "type": "adult"
         },
         {
             "id": 281,
             "caption": "SENTARA NORFOLK GENERAL HOSPITAL",
+            "rate": 13.5,
             "type": "adult"
         },
         {
             "id": 282,
             "caption": "INOVA FAIRFAX HOSPITAL",
+            "rate": 14.8,
             "type": "adult"
         },
         {
             "id": 283,
             "caption": "PRESBYTERIAN/ST LUKE'S MEDICAL CENTER",
+            "rate": 14.2,
             "type": "adult"
         },
         {
             "id": 284,
             "caption": "RESEARCH MEDICAL CENTER",
+            "rate": 32.1,
             "type": "adult"
         },
         {
             "id": 285,
             "caption": "ALBERT EINSTEIN MEDICAL CENTER",
+            "rate": 8.3,
             "type": "adult"
         },
         {
             "id": 286,
             "caption": "ST LUKE'S HOSPITAL OF KANSAS CITY",
+            "rate": 60.1,
             "type": "adult"
         },
         {
             "id": 287,
             "caption": "THOMAS JEFFERSON UNIVERSITY HOSPITAL",
+            "rate": 15.4,
             "type": "adult"
         },
         {
             "id": 288,
             "caption": "FROEDTERT MEMORIAL LUTHERAN HOSPITAL",
+            "rate": 12.5,
             "type": "adult"
         },
         {
             "id": 289,
             "caption": "BAYLOR ALL SAINTS MEDICAL CENTER",
+            "rate": 7.3,
             "type": "adult"
         },
         {
             "id": 290,
             "caption": "UNIVERSITY OF CALIFORNIA SAN DIEGO MEDICAL CENTER",
+            "rate": 9.4,
             "type": "adult"
         },
         {
             "id": 291,
             "caption": "STRONG MEMORIAL HOSPITAL, UNIVERSITY OF ROCHESTER MEDICAL CENTER",
+            "rate": 18.9,
             "type": "adult"
         },
         {
             "id": 292,
             "caption": "OREGON HEALTH AND SCIENCE UNIVERSITY",
+            "rate": 35.8,
             "type": "adult"
         },
         {
             "id": 293,
             "caption": "UNIVERSITY HOSPITAL OF STATE UNIVERSITY OF NEW YORK AT STONY BROOK",
+            "rate": 34.7,
             "type": "adult"
         },
         {
             "id": 294,
             "caption": "UF HEALTH SHANDS HOSPITAL",
+            "rate": 16,
             "type": "adult"
         },
         {
             "id": 295,
             "caption": "UNIVERSITY OF KANSAS HOSPITAL",
+            "rate": 35,
             "type": "adult"
         },
         {
             "id": 296,
             "caption": "MAYO CLINIC FLORIDA",
+            "rate": 21.2,
             "type": "adult"
         },
         {
             "id": 297,
             "caption": "WAKE FOREST BAPTIST MEDICAL CENTER",
+            "rate": 30.2,
             "type": "adult"
         },
         {
             "id": 298,
             "caption": "UNIVERSITY OF WASHINGTON MEDICAL CENTER",
+            "rate": 27.7,
             "type": "adult"
         },
         {
             "id": 299,
             "caption": "DUKE UNIVERSITY HOSPITAL",
+            "rate": 25.2,
             "type": "adult"
         },
         {
             "id": 300,
             "caption": "BAYLOR UNIVERSITY MEDICAL CENTER",
+            "rate": 15.2,
             "type": "adult"
         },
         {
             "id": 301,
             "caption": "OCHSNER FOUNDATION HOSPITAL",
+            "rate": 12.1,
             "type": "adult"
         },
         {
             "id": 302,
             "caption": "LOMA LINDA UNIVERSITY MEDICAL CENTER",
+            "rate": 11.7,
             "type": "adult"
         },
         {
             "id": 303,
             "caption": "INDIANA UNIVERSITY HEALTH",
+            "rate": 21.7,
             "type": "adult"
         },
         {
             "id": 304,
             "caption": "HOSPITAL OF THE UNIVERSITY OF PENNSYLVANIA",
+            "rate": 17.1,
             "type": "adult"
         },
         {
             "id": 305,
             "caption": "UNIVERSITY OF CALIFORNIA SAN FRANCISCO MEDICAL CENTER",
+            "rate": 6.5,
             "type": "adult"
         },
         {
             "id": 306,
             "caption": "SAINT BARNABAS MEDICAL CENTER",
+            "rate": 20.2,
             "type": "adult"
         },
         {
             "id": 307,
             "caption": "MAYO CLINIC HOSPITAL",
+            "rate": 33.2,
             "type": "adult"
         },
         {
             "id": 308,
             "caption": "UNIVERSITY OF CALIFORNIA DAVIS MEDICAL CENTER",
+            "rate": 25.8,
             "type": "adult"
         },
         {
             "id": 309,
             "caption": "EMORY UNIVERSITY HOSPITAL",
+            "rate": 12.2,
             "type": "adult"
         },
         {
             "id": 310,
             "caption": "OHIO STATE UNIVERSITY MEDICAL CENTER",
+            "rate": 39.7,
             "type": "adult"
         },
         {
             "id": 311,
             "caption": "UNIVERSITY OF ALABAMA HOSPITAL",
+            "rate": 8.4,
             "type": "adult"
         },
         {
             "id": 312,
             "caption": "TAMPA GENERAL HOSPITAL",
+            "rate": 33.2,
             "type": "adult"
         },
         {
             "id": 313,
             "caption": "BARNES-JEWISH HOSPITAL",
+            "rate": 26.7,
             "type": "adult"
         },
         {
             "id": 314,
             "caption": "NORTHWESTERN MEMORIAL HOSPITAL",
+            "rate": 17.9,
             "type": "adult"
         },
         {
             "id": 315,
             "caption": "PIEDMONT HOSPITAL",
+            "rate": 10.8,
             "type": "adult"
         },
         {
             "id": 316,
             "caption": "YALE NEW HAVEN HOSPITAL",
+            "rate": 13.5,
             "type": "adult"
         },
         {
             "id": 317,
             "caption": "UNIVERSITY OF MISSISSIPPI MEDICAL CENTER",
+            "rate": 22.2,
             "type": "adult"
         },
         {
             "id": 318,
             "caption": "UNIVERSITY OF UTAH MEDICAL CENTER",
+            "rate": 42.1,
             "type": "adult"
         },
         {
             "id": 319,
             "caption": "MERCY HEALTH SAINT MARY'S",
+            "rate": 35,
             "type": "adult"
         },
         {
             "id": 320,
             "caption": "UNIVERSITY OF ILLINOIS MEDICAL CENTER",
+            "rate": 14.4,
             "type": "adult"
         },
         {
             "id": 321,
             "caption": "METHODIST UNIVERSITY HOSPITAL",
+            "rate": 17.2,
             "type": "adult"
         },
         {
             "id": 322,
             "caption": "THE NEBRASKA MEDICAL CENTER",
+            "rate": 57.6,
             "type": "adult"
         },
         {
             "id": 323,
             "caption": "STANFORD HEALTH CARE",
+            "rate": 6.1,
             "type": "adult"
         },
         {
             "id": 324,
             "caption": "HENRY FORD HOSPITAL",
+            "rate": 21.3,
             "type": "adult"
         },
         {
             "id": 325,
             "caption": "UNIVERSITY OF WISCONSIN HOSPITAL AND CLINICS",
+            "rate": 29.4,
             "type": "adult"
         },
         {
             "id": 326,
             "caption": "JACKSON MEMORIAL HOSPITAL UNIVERSITY OF MIAMI SCHOOL OF MEDICINE",
+            "rate": 16.5,
             "type": "adult"
         },
         {
             "id": 327,
             "caption": "MEDICAL CITY FORT WORTH",
+            "rate": 137.2,
             "type": "adult"
         },
         {
             "id": 328,
             "caption": "KECK HOSPITAL OF USC",
+            "rate": 14.8,
             "type": "adult"
         },
         {
             "id": 329,
             "caption": "CHI ST. LUKE'S HEALTH BAYLOR COLLEGE OF MEDICINE MEDICAL CENTER",
+            "rate": 13.3,
             "type": "adult"
         },
         {
             "id": 330,
             "caption": "CLEVELAND CLINIC FLORIDA WESTON",
+            "rate": 55,
             "type": "adult"
         },
         {
             "id": 331,
             "caption": "METHODIST DALLAS MEDICAL CENTER",
+            "rate": 23.3,
             "type": "adult"
         },
         {
             "id": 332,
             "caption": "RUSH UNIVERSITY MEDICAL CENTER",
+            "rate": 20.4,
             "type": "adult"
         },
         {
             "id": 333,
             "caption": "UNIVERSITY OF CALIFORNIA AT LOS ANGELES MEDICAL CENTER",
+            "rate": 15.2,
             "type": "adult"
         },
         {
             "id": 334,
             "caption": "ALBANY MEDICAL CENTER HOSPITAL",
+            "rate": 20.3,
             "type": "adult"
         },
         {
             "id": 335,
             "caption": "NY PRESBYTERIAN HOSPITAL/COLUMBIA UNIV. MEDICAL CENTER",
+            "rate": 16.8,
             "type": "adult"
         },
         {
             "id": 336,
             "caption": "ROCHESTER METHODIST HOSPITAL (MAYO CLINIC)",
+            "rate": 33.6,
             "type": "adult"
         },
         {
             "id": 337,
             "caption": "UNIVERSITY OF MINNESOTA MEDICAL CENTER, FAIRVIEW",
+            "rate": 18.9,
             "type": "adult"
         },
         {
             "id": 338,
             "caption": "BANNER-UNIVERSITY MEDICAL CENTER PHOENIX",
+            "rate": 18.7,
             "type": "adult"
         },
         {
             "id": 339,
             "caption": "CALIFORNIA PACIFIC MEDICAL CENTER",
+            "rate": 10.5,
             "type": "adult"
         },
         {
             "id": 340,
             "caption": "UNIVERSITY OF MICHIGAN MEDICAL CENTER",
+            "rate": 17.4,
             "type": "adult"
         },
         {
             "id": 341,
             "caption": "FLORIDA HOSPITAL MEDICAL CENTER",
+            "rate": 33,
             "type": "adult"
         },
         {
             "id": 342,
             "caption": "MEDICAL COLLEGE OF VIRGINIA HOSPITALS",
+            "rate": 32.8,
             "type": "adult"
         },
         {
             "id": 343,
             "caption": "UNIVERSITY OF COLORADO HOSPITAL/HEALTH SCIENCE CENTER",
+            "rate": 13.6,
             "type": "adult"
         },
         {
             "id": 344,
             "caption": "VANDERBILT UNIVERSITY MEDICAL CENTER AND NASHVILLE VA MEDICAL CENTER",
+            "rate": 20.2,
             "type": "adult"
         },
         {
             "id": 345,
             "caption": "GEORGETOWN UNIVERSITY MEDICAL CENTER",
+            "rate": 22.4,
             "type": "adult"
         },
         {
             "id": 346,
             "caption": "MOUNT SINAI MEDICAL CENTER",
+            "rate": 13,
             "type": "adult"
         },
         {
             "id": 347,
             "caption": "MEDICAL UNIVERSITY OF SOUTH CAROLINA",
+            "rate": 24.5,
             "type": "adult"
         },
         {
             "id": 348,
             "caption": "HOUSTON METHODIST HOSPITAL",
+            "rate": 14.5,
             "type": "adult"
         },
         {
             "id": 349,
             "caption": "NEW YORK-PRESBYTERIAN HOSPITAL/WEILL CORNELL MEDICAL CENTER",
+            "rate": 15.2,
             "type": "adult"
         },
         {
             "id": 350,
             "caption": "JOHNS HOPKINS HOSPITAL",
+            "rate": 16.4,
             "type": "adult"
         },
         {
             "id": 351,
             "caption": "UNIVERSITY OF PITTSBURGH MEDICAL CENTER",
+            "rate": 21.6,
             "type": "adult"
         },
         {
             "id": 352,
             "caption": "CEDARS-SINAI MEDICAL CENTER",
+            "rate": 17.1,
             "type": "adult"
         },
         {
             "id": 353,
             "caption": "NEW YORK UNIVERSITY MEDICAL CENTER",
+            "rate": 31.3,
             "type": "adult"
         },
         {
             "id": 354,
             "caption": "MONTEFIORE MEDICAL CENTER",
+            "rate": 19.2,
             "type": "adult"
         }
     ],
@@ -1780,2126 +2135,1772 @@
         {
             "source": 1,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 81.4
+            "caption": "pediatric"
         },
         {
             "source": 2,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 92.5
+            "caption": "pediatric"
         },
         {
             "source": 3,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 59.6
+            "caption": "pediatric"
         },
         {
             "source": 4,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 62.8
+            "caption": "pediatric"
         },
         {
             "source": 5,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 244.4
+            "caption": "pediatric"
         },
         {
             "source": 6,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 40.4
+            "caption": "pediatric"
         },
         {
             "source": 7,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 116.2
+            "caption": "pediatric"
         },
         {
             "source": 8,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 136.9
+            "caption": "pediatric"
         },
         {
             "source": 9,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 107.8
+            "caption": "pediatric"
         },
         {
             "source": 10,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 19.7
+            "caption": "pediatric"
         },
         {
             "source": 11,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 74.5
+            "caption": "pediatric"
         },
         {
             "source": 12,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 106.6
+            "caption": "pediatric"
         },
         {
             "source": 13,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 54.4
+            "caption": "pediatric"
         },
         {
             "source": 14,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 58.7
+            "caption": "pediatric"
         },
         {
             "source": 15,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 33.6
+            "caption": "pediatric"
         },
         {
             "source": 16,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 52.2
+            "caption": "pediatric"
         },
         {
             "source": 17,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 20.4
+            "caption": "pediatric"
         },
         {
             "source": 18,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 18.6
+            "caption": "pediatric"
         },
         {
             "source": 19,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 4058.3
+            "caption": "pediatric"
         },
         {
             "source": 20,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 514.4
+            "caption": "pediatric"
         },
         {
             "source": 21,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 204.1
+            "caption": "pediatric"
         },
         {
             "source": 22,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 41.1
+            "caption": "pediatric"
         },
         {
             "source": 23,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 32.2
+            "caption": "pediatric"
         },
         {
             "source": 24,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 30.6
+            "caption": "pediatric"
         },
         {
             "source": 25,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 289.9
+            "caption": "pediatric"
         },
         {
             "source": 26,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 280.1
+            "caption": "pediatric"
         },
         {
             "source": 27,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 276.7
+            "caption": "pediatric"
         },
         {
             "source": 28,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 217.7
+            "caption": "pediatric"
         },
         {
             "source": 29,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 59.3
+            "caption": "pediatric"
         },
         {
             "source": 30,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 55.8
+            "caption": "pediatric"
         },
         {
             "source": 31,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 487
+            "caption": "pediatric"
         },
         {
             "source": 32,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 361.6
+            "caption": "pediatric"
         },
         {
             "source": 33,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 287.6
+            "caption": "pediatric"
         },
         {
             "source": 34,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 297
+            "caption": "pediatric"
         },
         {
             "source": 35,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 361.6
+            "caption": "pediatric"
         },
         {
             "source": 36,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 158
+            "caption": "pediatric"
         },
         {
             "source": 37,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 238.4
+            "caption": "pediatric"
         },
         {
             "source": 38,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 27.8
+            "caption": "pediatric"
         },
         {
             "source": 39,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 99.3
+            "caption": "pediatric"
         },
         {
             "source": 40,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 118
+            "caption": "pediatric"
         },
         {
             "source": 41,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 143.3
+            "caption": "pediatric"
         },
         {
             "source": 42,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 122.1
+            "caption": "pediatric"
         },
         {
             "source": 43,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 129.4
+            "caption": "pediatric"
         },
         {
             "source": 44,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 133.8
+            "caption": "pediatric"
         },
         {
             "source": 45,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 186.2
+            "caption": "pediatric"
         },
         {
             "source": 46,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 95.7
+            "caption": "pediatric"
         },
         {
             "source": 47,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 119.5
+            "caption": "pediatric"
         },
         {
             "source": 48,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 260
+            "caption": "pediatric"
         },
         {
             "source": 49,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 69.3
+            "caption": "pediatric"
         },
         {
             "source": 50,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 85.1
+            "caption": "pediatric"
         },
         {
             "source": 51,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 259.5
+            "caption": "pediatric"
         },
         {
             "source": 52,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 69.4
+            "caption": "pediatric"
         },
         {
             "source": 53,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 57.7
+            "caption": "pediatric"
         },
         {
             "source": 54,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 41.4
+            "caption": "pediatric"
         },
         {
             "source": 55,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 32.3
+            "caption": "pediatric"
         },
         {
             "source": 56,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 22.5
+            "caption": "pediatric"
         },
         {
             "source": 57,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 229.5
+            "caption": "pediatric"
         },
         {
             "source": 58,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 195.1
+            "caption": "pediatric"
         },
         {
             "source": 59,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 174.9
+            "caption": "pediatric"
         },
         {
             "source": 60,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 90.5
+            "caption": "pediatric"
         },
         {
             "source": 61,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 85.2
+            "caption": "pediatric"
         },
         {
             "source": 62,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 83
+            "caption": "pediatric"
         },
         {
             "source": 63,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 67.7
+            "caption": "pediatric"
         },
         {
             "source": 64,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 45.9
+            "caption": "pediatric"
         },
         {
             "source": 65,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 37
+            "caption": "pediatric"
         },
         {
             "source": 66,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 20.5
+            "caption": "pediatric"
         },
         {
             "source": 67,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 135
+            "caption": "pediatric"
         },
         {
             "source": 68,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 111.5
+            "caption": "pediatric"
         },
         {
             "source": 69,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 143.8
+            "caption": "pediatric"
         },
         {
             "source": 70,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 27.8
+            "caption": "pediatric"
         },
         {
             "source": 71,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 43.9
+            "caption": "pediatric"
         },
         {
             "source": 72,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 84.3
+            "caption": "pediatric"
         },
         {
             "source": 73,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 105.3
+            "caption": "pediatric"
         },
         {
             "source": 74,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 155
+            "caption": "pediatric"
         },
         {
             "source": 75,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 187.3
+            "caption": "pediatric"
         },
         {
             "source": 76,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 92.7
+            "caption": "pediatric"
         },
         {
             "source": 77,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 119.5
+            "caption": "pediatric"
         },
         {
             "source": 78,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 156.1
+            "caption": "pediatric"
         },
         {
             "source": 79,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 165.2
+            "caption": "pediatric"
         },
         {
             "source": 80,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 68.3
+            "caption": "pediatric"
         },
         {
             "source": 81,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 71.5
+            "caption": "pediatric"
         },
         {
             "source": 82,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 80.8
+            "caption": "pediatric"
         },
         {
             "source": 83,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 88.2
+            "caption": "pediatric"
         },
         {
             "source": 84,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 117.4
+            "caption": "pediatric"
         },
         {
             "source": 85,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 109.7
+            "caption": "pediatric"
         },
         {
             "source": 86,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 190.2
+            "caption": "pediatric"
         },
         {
             "source": 87,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 173.9
+            "caption": "pediatric"
         },
         {
             "source": 88,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 75.8
+            "caption": "pediatric"
         },
         {
             "source": 89,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 73.1
+            "caption": "pediatric"
         },
         {
             "source": 90,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 108.7
+            "caption": "pediatric"
         },
         {
             "source": 91,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 81.8
+            "caption": "pediatric"
         },
         {
             "source": 92,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 63.2
+            "caption": "pediatric"
         },
         {
             "source": 93,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 52.7
+            "caption": "pediatric"
         },
         {
             "source": 94,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 83.5
+            "caption": "pediatric"
         },
         {
             "source": 95,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 63.9
+            "caption": "pediatric"
         },
         {
             "source": 96,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 260.9
+            "caption": "pediatric"
         },
         {
             "source": 97,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 239.9
+            "caption": "pediatric"
         },
         {
             "source": 98,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 43.4
+            "caption": "pediatric"
         },
         {
             "source": 99,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 41.3
+            "caption": "pediatric"
         },
         {
             "source": 100,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 34.2
+            "caption": "pediatric"
         },
         {
             "source": 101,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 58.7
+            "caption": "pediatric"
         },
         {
             "source": 102,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 129.5
+            "caption": "pediatric"
         },
         {
             "source": 103,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 139.9
+            "caption": "pediatric"
         },
         {
             "source": 104,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 179.5
+            "caption": "pediatric"
         },
         {
             "source": 105,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 94.6
+            "caption": "pediatric"
         },
         {
             "source": 106,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 108.5
+            "caption": "pediatric"
         },
         {
             "source": 107,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 62.3
+            "caption": "pediatric"
         },
         {
             "source": 108,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 141.5
+            "caption": "pediatric"
         },
         {
             "source": 109,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 33.8
+            "caption": "pediatric"
         },
         {
             "source": 110,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 34.8
+            "caption": "pediatric"
         },
         {
             "source": 111,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 63.7
+            "caption": "pediatric"
         },
         {
             "source": 112,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 32.6
+            "caption": "pediatric"
         },
         {
             "source": 113,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 126.1
+            "caption": "pediatric"
         },
         {
             "source": 114,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 156.7
+            "caption": "pediatric"
         },
         {
             "source": 115,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 40.8
+            "caption": "pediatric"
         },
         {
             "source": 116,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 66.9
+            "caption": "pediatric"
         },
         {
             "source": 117,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 102.8
+            "caption": "pediatric"
         },
         {
             "source": 118,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 123.6
+            "caption": "pediatric"
         },
         {
             "source": 119,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 18
+            "caption": "pediatric"
         },
         {
             "source": 120,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 53.9
+            "caption": "pediatric"
         },
         {
             "source": 121,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 233.1
+            "caption": "pediatric"
         },
         {
             "source": 122,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 35.6
+            "caption": "pediatric"
         },
         {
             "source": 123,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 225.7
+            "caption": "pediatric"
         },
         {
             "source": 124,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 95.1
+            "caption": "pediatric"
         },
         {
             "source": 125,
             "target": 0,
-            "caption": "pediatric",
-            "rate": 50
+            "caption": "pediatric"
         },
         {
             "source": 126,
             "target": 0,
-            "caption": "adult",
-            "rate": 43.4
+            "caption": "adult"
         },
         {
             "source": 127,
             "target": 0,
-            "caption": "adult",
-            "rate": 216.1
+            "caption": "adult"
         },
         {
             "source": 128,
             "target": 0,
-            "caption": "adult",
-            "rate": 50.9
+            "caption": "adult"
         },
         {
             "source": 129,
             "target": 0,
-            "caption": "adult",
-            "rate": 19.8
+            "caption": "adult"
         },
         {
             "source": 130,
             "target": 0,
-            "caption": "adult",
-            "rate": 13.5
+            "caption": "adult"
         },
         {
             "source": 131,
             "target": 0,
-            "caption": "adult",
-            "rate": 103.3
+            "caption": "adult"
         },
         {
             "source": 132,
             "target": 0,
-            "caption": "adult",
-            "rate": 5.2
+            "caption": "adult"
         },
         {
             "source": 133,
             "target": 0,
-            "caption": "adult",
-            "rate": 15.7
+            "caption": "adult"
         },
         {
             "source": 134,
             "target": 0,
-            "caption": "adult",
-            "rate": 40.5
+            "caption": "adult"
         },
         {
             "source": 135,
             "target": 0,
-            "caption": "adult",
-            "rate": 11.8
+            "caption": "adult"
         },
         {
             "source": 136,
             "target": 0,
-            "caption": "adult",
-            "rate": 67.1
+            "caption": "adult"
         },
         {
             "source": 137,
             "target": 0,
-            "caption": "adult",
-            "rate": 35.8
+            "caption": "adult"
         },
         {
             "source": 138,
             "target": 0,
-            "caption": "adult",
-            "rate": 37.7
+            "caption": "adult"
         },
         {
             "source": 139,
             "target": 0,
-            "caption": "adult",
-            "rate": 46
+            "caption": "adult"
         },
         {
             "source": 140,
             "target": 0,
-            "caption": "adult",
-            "rate": 7.1
+            "caption": "adult"
         },
         {
             "source": 141,
             "target": 0,
-            "caption": "adult",
-            "rate": 5.6
+            "caption": "adult"
         },
         {
             "source": 142,
             "target": 0,
-            "caption": "adult",
-            "rate": 11.1
+            "caption": "adult"
         },
         {
             "source": 143,
             "target": 0,
-            "caption": "adult",
-            "rate": 8.6
+            "caption": "adult"
         },
         {
             "source": 144,
             "target": 0,
-            "caption": "adult",
-            "rate": 9.4
+            "caption": "adult"
         },
         {
             "source": 145,
             "target": 0,
-            "caption": "adult",
-            "rate": 8.6
+            "caption": "adult"
         },
         {
             "source": 146,
             "target": 0,
-            "caption": "adult",
-            "rate": 10.8
+            "caption": "adult"
         },
         {
             "source": 147,
             "target": 0,
-            "caption": "adult",
-            "rate": 72.1
+            "caption": "adult"
         },
         {
             "source": 148,
             "target": 0,
-            "caption": "adult",
-            "rate": 56.6
+            "caption": "adult"
         },
         {
             "source": 149,
             "target": 0,
-            "caption": "adult",
-            "rate": 41.4
+            "caption": "adult"
         },
         {
             "source": 150,
             "target": 0,
-            "caption": "adult",
-            "rate": 10.2
+            "caption": "adult"
         },
         {
             "source": 151,
             "target": 0,
-            "caption": "adult",
-            "rate": 24.6
+            "caption": "adult"
         },
         {
             "source": 152,
             "target": 0,
-            "caption": "adult",
-            "rate": 125.1
+            "caption": "adult"
         },
         {
             "source": 153,
             "target": 0,
-            "caption": "adult",
-            "rate": 41.6
+            "caption": "adult"
         },
         {
             "source": 154,
             "target": 0,
-            "caption": "adult",
-            "rate": 30.3
+            "caption": "adult"
         },
         {
             "source": 155,
             "target": 0,
-            "caption": "adult",
-            "rate": 27.9
+            "caption": "adult"
         },
         {
             "source": 156,
             "target": 0,
-            "caption": "adult",
-            "rate": 26.5
+            "caption": "adult"
         },
         {
             "source": 157,
             "target": 0,
-            "caption": "adult",
-            "rate": 59.2
+            "caption": "adult"
         },
         {
             "source": 158,
             "target": 0,
-            "caption": "adult",
-            "rate": 46.8
+            "caption": "adult"
         },
         {
             "source": 159,
             "target": 0,
-            "caption": "adult",
-            "rate": 14.6
+            "caption": "adult"
         },
         {
             "source": 160,
             "target": 0,
-            "caption": "adult",
-            "rate": 22.2
+            "caption": "adult"
         },
         {
             "source": 161,
             "target": 0,
-            "caption": "adult",
-            "rate": 37.7
+            "caption": "adult"
         },
         {
             "source": 162,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.9
+            "caption": "adult"
         },
         {
             "source": 163,
             "target": 0,
-            "caption": "adult",
-            "rate": 11
+            "caption": "adult"
         },
         {
             "source": 164,
             "target": 0,
-            "caption": "adult",
-            "rate": 16.3
+            "caption": "adult"
         },
         {
             "source": 165,
             "target": 0,
-            "caption": "adult",
-            "rate": 73.1
+            "caption": "adult"
         },
         {
             "source": 166,
             "target": 0,
-            "caption": "adult",
-            "rate": 165.6
+            "caption": "adult"
         },
         {
             "source": 167,
             "target": 0,
-            "caption": "adult",
-            "rate": 11.8
+            "caption": "adult"
         },
         {
             "source": 168,
             "target": 0,
-            "caption": "adult",
-            "rate": 44.3
+            "caption": "adult"
         },
         {
             "source": 169,
             "target": 0,
-            "caption": "adult",
-            "rate": 41.9
+            "caption": "adult"
         },
         {
             "source": 170,
             "target": 0,
-            "caption": "adult",
-            "rate": 66.2
+            "caption": "adult"
         },
         {
             "source": 171,
             "target": 0,
-            "caption": "adult",
-            "rate": 45.5
+            "caption": "adult"
         },
         {
             "source": 172,
             "target": 0,
-            "caption": "adult",
-            "rate": 48.3
+            "caption": "adult"
         },
         {
             "source": 173,
             "target": 0,
-            "caption": "adult",
-            "rate": 55
+            "caption": "adult"
         },
         {
             "source": 174,
             "target": 0,
-            "caption": "adult",
-            "rate": 13.4
+            "caption": "adult"
         },
         {
             "source": 175,
             "target": 0,
-            "caption": "adult",
-            "rate": 25.2
+            "caption": "adult"
         },
         {
             "source": 176,
             "target": 0,
-            "caption": "adult",
-            "rate": 60.4
+            "caption": "adult"
         },
         {
             "source": 177,
             "target": 0,
-            "caption": "adult",
-            "rate": 35.6
+            "caption": "adult"
         },
         {
             "source": 178,
             "target": 0,
-            "caption": "adult",
-            "rate": 10.3
+            "caption": "adult"
         },
         {
             "source": 179,
             "target": 0,
-            "caption": "adult",
-            "rate": 9.8
+            "caption": "adult"
         },
         {
             "source": 180,
             "target": 0,
-            "caption": "adult",
-            "rate": 10.2
+            "caption": "adult"
         },
         {
             "source": 181,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.9
+            "caption": "adult"
         },
         {
             "source": 182,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.4
+            "caption": "adult"
         },
         {
             "source": 183,
             "target": 0,
-            "caption": "adult",
-            "rate": 46
+            "caption": "adult"
         },
         {
             "source": 184,
             "target": 0,
-            "caption": "adult",
-            "rate": 40.6
+            "caption": "adult"
         },
         {
             "source": 185,
             "target": 0,
-            "caption": "adult",
-            "rate": 28.7
+            "caption": "adult"
         },
         {
             "source": 186,
             "target": 0,
-            "caption": "adult",
-            "rate": 15.3
+            "caption": "adult"
         },
         {
             "source": 187,
             "target": 0,
-            "caption": "adult",
-            "rate": 16.1
+            "caption": "adult"
         },
         {
             "source": 188,
             "target": 0,
-            "caption": "adult",
-            "rate": 13.5
+            "caption": "adult"
         },
         {
             "source": 189,
             "target": 0,
-            "caption": "adult",
-            "rate": 12.9
+            "caption": "adult"
         },
         {
             "source": 190,
             "target": 0,
-            "caption": "adult",
-            "rate": 9.2
+            "caption": "adult"
         },
         {
             "source": 191,
             "target": 0,
-            "caption": "adult",
-            "rate": 26
+            "caption": "adult"
         },
         {
             "source": 192,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.9
+            "caption": "adult"
         },
         {
             "source": 193,
             "target": 0,
-            "caption": "adult",
-            "rate": 44
+            "caption": "adult"
         },
         {
             "source": 194,
             "target": 0,
-            "caption": "adult",
-            "rate": 22.7
+            "caption": "adult"
         },
         {
             "source": 195,
             "target": 0,
-            "caption": "adult",
-            "rate": 29.3
+            "caption": "adult"
         },
         {
             "source": 196,
             "target": 0,
-            "caption": "adult",
-            "rate": 11.6
+            "caption": "adult"
         },
         {
             "source": 197,
             "target": 0,
-            "caption": "adult",
-            "rate": 13.4
+            "caption": "adult"
         },
         {
             "source": 198,
             "target": 0,
-            "caption": "adult",
-            "rate": 19.4
+            "caption": "adult"
         },
         {
             "source": 199,
             "target": 0,
-            "caption": "adult",
-            "rate": 29
+            "caption": "adult"
         },
         {
             "source": 200,
             "target": 0,
-            "caption": "adult",
-            "rate": 14.5
+            "caption": "adult"
         },
         {
             "source": 201,
             "target": 0,
-            "caption": "adult",
-            "rate": 18.2
+            "caption": "adult"
         },
         {
             "source": 202,
             "target": 0,
-            "caption": "adult",
-            "rate": 17
+            "caption": "adult"
         },
         {
             "source": 203,
             "target": 0,
-            "caption": "adult",
-            "rate": 8
+            "caption": "adult"
         },
         {
             "source": 204,
             "target": 0,
-            "caption": "adult",
-            "rate": 10.4
+            "caption": "adult"
         },
         {
             "source": 205,
             "target": 0,
-            "caption": "adult",
-            "rate": 18
+            "caption": "adult"
         },
         {
             "source": 206,
             "target": 0,
-            "caption": "adult",
-            "rate": 22.1
+            "caption": "adult"
         },
         {
             "source": 207,
             "target": 0,
-            "caption": "adult",
-            "rate": 6.1
+            "caption": "adult"
         },
         {
             "source": 208,
             "target": 0,
-            "caption": "adult",
-            "rate": 12.4
+            "caption": "adult"
         },
         {
             "source": 209,
             "target": 0,
-            "caption": "adult",
-            "rate": 19.3
+            "caption": "adult"
         },
         {
             "source": 210,
             "target": 0,
-            "caption": "adult",
-            "rate": 16.3
+            "caption": "adult"
         },
         {
             "source": 211,
             "target": 0,
-            "caption": "adult",
-            "rate": 24.7
+            "caption": "adult"
         },
         {
             "source": 212,
             "target": 0,
-            "caption": "adult",
-            "rate": 7.8
+            "caption": "adult"
         },
         {
             "source": 213,
             "target": 0,
-            "caption": "adult",
-            "rate": 36.6
+            "caption": "adult"
         },
         {
             "source": 214,
             "target": 0,
-            "caption": "adult",
-            "rate": 12.2
+            "caption": "adult"
         },
         {
             "source": 215,
             "target": 0,
-            "caption": "adult",
-            "rate": 9.5
+            "caption": "adult"
         },
         {
             "source": 216,
             "target": 0,
-            "caption": "adult",
-            "rate": 11
+            "caption": "adult"
         },
         {
             "source": 217,
             "target": 0,
-            "caption": "adult",
-            "rate": 19.2
+            "caption": "adult"
         },
         {
             "source": 218,
             "target": 0,
-            "caption": "adult",
-            "rate": 20.4
+            "caption": "adult"
         },
         {
             "source": 219,
             "target": 0,
-            "caption": "adult",
-            "rate": 13.4
+            "caption": "adult"
         },
         {
             "source": 220,
             "target": 0,
-            "caption": "adult",
-            "rate": 20.5
+            "caption": "adult"
         },
         {
             "source": 221,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.4
+            "caption": "adult"
         },
         {
             "source": 222,
             "target": 0,
-            "caption": "adult",
-            "rate": 12.4
+            "caption": "adult"
         },
         {
             "source": 223,
             "target": 0,
-            "caption": "adult",
-            "rate": 23
+            "caption": "adult"
         },
         {
             "source": 224,
             "target": 0,
-            "caption": "adult",
-            "rate": 11.4
+            "caption": "adult"
         },
         {
             "source": 225,
             "target": 0,
-            "caption": "adult",
-            "rate": 11.6
+            "caption": "adult"
         },
         {
             "source": 226,
             "target": 0,
-            "caption": "adult",
-            "rate": 34.1
+            "caption": "adult"
         },
         {
             "source": 227,
             "target": 0,
-            "caption": "adult",
-            "rate": 20
+            "caption": "adult"
         },
         {
             "source": 228,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.9
+            "caption": "adult"
         },
         {
             "source": 229,
             "target": 0,
-            "caption": "adult",
-            "rate": 12.8
+            "caption": "adult"
         },
         {
             "source": 230,
             "target": 0,
-            "caption": "adult",
-            "rate": 12.5
+            "caption": "adult"
         },
         {
             "source": 231,
             "target": 0,
-            "caption": "adult",
-            "rate": 13.3
+            "caption": "adult"
         },
         {
             "source": 232,
             "target": 0,
-            "caption": "adult",
-            "rate": 23.9
+            "caption": "adult"
         },
         {
             "source": 233,
             "target": 0,
-            "caption": "adult",
-            "rate": 235.3
+            "caption": "adult"
         },
         {
             "source": 234,
             "target": 0,
-            "caption": "adult",
-            "rate": 27.1
+            "caption": "adult"
         },
         {
             "source": 235,
             "target": 0,
-            "caption": "adult",
-            "rate": 15.2
+            "caption": "adult"
         },
         {
             "source": 236,
             "target": 0,
-            "caption": "adult",
-            "rate": 94.5
+            "caption": "adult"
         },
         {
             "source": 237,
             "target": 0,
-            "caption": "adult",
-            "rate": 46.9
+            "caption": "adult"
         },
         {
             "source": 238,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.9
+            "caption": "adult"
         },
         {
             "source": 239,
             "target": 0,
-            "caption": "adult",
-            "rate": 42.3
+            "caption": "adult"
         },
         {
             "source": 240,
             "target": 0,
-            "caption": "adult",
-            "rate": 32.9
+            "caption": "adult"
         },
         {
             "source": 241,
             "target": 0,
-            "caption": "adult",
-            "rate": 21.6
+            "caption": "adult"
         },
         {
             "source": 242,
             "target": 0,
-            "caption": "adult",
-            "rate": 20.8
+            "caption": "adult"
         },
         {
             "source": 243,
             "target": 0,
-            "caption": "adult",
-            "rate": 14.9
+            "caption": "adult"
         },
         {
             "source": 244,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.8
+            "caption": "adult"
         },
         {
             "source": 245,
             "target": 0,
-            "caption": "adult",
-            "rate": 21.9
+            "caption": "adult"
         },
         {
             "source": 246,
             "target": 0,
-            "caption": "adult",
-            "rate": 14.4
+            "caption": "adult"
         },
         {
             "source": 247,
             "target": 0,
-            "caption": "adult",
-            "rate": 9.6
+            "caption": "adult"
         },
         {
             "source": 248,
             "target": 0,
-            "caption": "adult",
-            "rate": 22.1
+            "caption": "adult"
         },
         {
             "source": 249,
             "target": 0,
-            "caption": "adult",
-            "rate": 11.1
+            "caption": "adult"
         },
         {
             "source": 250,
             "target": 0,
-            "caption": "adult",
-            "rate": 25.3
+            "caption": "adult"
         },
         {
             "source": 251,
             "target": 0,
-            "caption": "adult",
-            "rate": 16.9
+            "caption": "adult"
         },
         {
             "source": 252,
             "target": 0,
-            "caption": "adult",
-            "rate": 51.1
+            "caption": "adult"
         },
         {
             "source": 253,
             "target": 0,
-            "caption": "adult",
-            "rate": 25.4
+            "caption": "adult"
         },
         {
             "source": 254,
             "target": 0,
-            "caption": "adult",
-            "rate": 35.1
+            "caption": "adult"
         },
         {
             "source": 255,
             "target": 0,
-            "caption": "adult",
-            "rate": 26.1
+            "caption": "adult"
         },
         {
             "source": 256,
             "target": 0,
-            "caption": "adult",
-            "rate": 4.7
+            "caption": "adult"
         },
         {
             "source": 257,
             "target": 0,
-            "caption": "adult",
-            "rate": 9.6
+            "caption": "adult"
         },
         {
             "source": 258,
             "target": 0,
-            "caption": "adult",
-            "rate": 11.5
+            "caption": "adult"
         },
         {
             "source": 259,
             "target": 0,
-            "caption": "adult",
-            "rate": 36.2
+            "caption": "adult"
         },
         {
             "source": 260,
             "target": 0,
-            "caption": "adult",
-            "rate": 14.6
+            "caption": "adult"
         },
         {
             "source": 261,
             "target": 0,
-            "caption": "adult",
-            "rate": 16.3
+            "caption": "adult"
         },
         {
             "source": 262,
             "target": 0,
-            "caption": "adult",
-            "rate": 36.7
+            "caption": "adult"
         },
         {
             "source": 263,
             "target": 0,
-            "caption": "adult",
-            "rate": 18.5
+            "caption": "adult"
         },
         {
             "source": 264,
             "target": 0,
-            "caption": "adult",
-            "rate": 32.5
+            "caption": "adult"
         },
         {
             "source": 265,
             "target": 0,
-            "caption": "adult",
-            "rate": 25.7
+            "caption": "adult"
         },
         {
             "source": 266,
             "target": 0,
-            "caption": "adult",
-            "rate": 19
+            "caption": "adult"
         },
         {
             "source": 267,
             "target": 0,
-            "caption": "adult",
-            "rate": 37.5
+            "caption": "adult"
         },
         {
             "source": 268,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.5
+            "caption": "adult"
         },
         {
             "source": 269,
             "target": 0,
-            "caption": "adult",
-            "rate": 60.9
+            "caption": "adult"
         },
         {
             "source": 270,
             "target": 0,
-            "caption": "adult",
-            "rate": 21.5
+            "caption": "adult"
         },
         {
             "source": 271,
             "target": 0,
-            "caption": "adult",
-            "rate": 23.5
+            "caption": "adult"
         },
         {
             "source": 272,
             "target": 0,
-            "caption": "adult",
-            "rate": 55.7
+            "caption": "adult"
         },
         {
             "source": 273,
             "target": 0,
-            "caption": "adult",
-            "rate": 29.5
+            "caption": "adult"
         },
         {
             "source": 274,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.8
+            "caption": "adult"
         },
         {
             "source": 275,
             "target": 0,
-            "caption": "adult",
-            "rate": 16.2
+            "caption": "adult"
         },
         {
             "source": 276,
             "target": 0,
-            "caption": "adult",
-            "rate": 18.7
+            "caption": "adult"
         },
         {
             "source": 277,
             "target": 0,
-            "caption": "adult",
-            "rate": 21.8
+            "caption": "adult"
         },
         {
             "source": 278,
             "target": 0,
-            "caption": "adult",
-            "rate": 22.3
+            "caption": "adult"
         },
         {
             "source": 279,
             "target": 0,
-            "caption": "adult",
-            "rate": 11.8
+            "caption": "adult"
         },
         {
             "source": 280,
             "target": 0,
-            "caption": "adult",
-            "rate": 39.7
+            "caption": "adult"
         },
         {
             "source": 281,
             "target": 0,
-            "caption": "adult",
-            "rate": 13.5
+            "caption": "adult"
         },
         {
             "source": 282,
             "target": 0,
-            "caption": "adult",
-            "rate": 14.8
+            "caption": "adult"
         },
         {
             "source": 283,
             "target": 0,
-            "caption": "adult",
-            "rate": 14.2
+            "caption": "adult"
         },
         {
             "source": 284,
             "target": 0,
-            "caption": "adult",
-            "rate": 32.1
+            "caption": "adult"
         },
         {
             "source": 285,
             "target": 0,
-            "caption": "adult",
-            "rate": 8.3
+            "caption": "adult"
         },
         {
             "source": 286,
             "target": 0,
-            "caption": "adult",
-            "rate": 60.1
+            "caption": "adult"
         },
         {
             "source": 287,
             "target": 0,
-            "caption": "adult",
-            "rate": 15.4
+            "caption": "adult"
         },
         {
             "source": 288,
             "target": 0,
-            "caption": "adult",
-            "rate": 12.5
+            "caption": "adult"
         },
         {
             "source": 289,
             "target": 0,
-            "caption": "adult",
-            "rate": 7.3
+            "caption": "adult"
         },
         {
             "source": 290,
             "target": 0,
-            "caption": "adult",
-            "rate": 9.4
+            "caption": "adult"
         },
         {
             "source": 291,
             "target": 0,
-            "caption": "adult",
-            "rate": 18.9
+            "caption": "adult"
         },
         {
             "source": 292,
             "target": 0,
-            "caption": "adult",
-            "rate": 35.8
+            "caption": "adult"
         },
         {
             "source": 293,
             "target": 0,
-            "caption": "adult",
-            "rate": 34.7
+            "caption": "adult"
         },
         {
             "source": 294,
             "target": 0,
-            "caption": "adult",
-            "rate": 16
+            "caption": "adult"
         },
         {
             "source": 295,
             "target": 0,
-            "caption": "adult",
-            "rate": 35
+            "caption": "adult"
         },
         {
             "source": 296,
             "target": 0,
-            "caption": "adult",
-            "rate": 21.2
+            "caption": "adult"
         },
         {
             "source": 297,
             "target": 0,
-            "caption": "adult",
-            "rate": 30.2
+            "caption": "adult"
         },
         {
             "source": 298,
             "target": 0,
-            "caption": "adult",
-            "rate": 27.7
+            "caption": "adult"
         },
         {
             "source": 299,
             "target": 0,
-            "caption": "adult",
-            "rate": 25.2
+            "caption": "adult"
         },
         {
             "source": 300,
             "target": 0,
-            "caption": "adult",
-            "rate": 15.2
+            "caption": "adult"
         },
         {
             "source": 301,
             "target": 0,
-            "caption": "adult",
-            "rate": 12.1
+            "caption": "adult"
         },
         {
             "source": 302,
             "target": 0,
-            "caption": "adult",
-            "rate": 11.7
+            "caption": "adult"
         },
         {
             "source": 303,
             "target": 0,
-            "caption": "adult",
-            "rate": 21.7
+            "caption": "adult"
         },
         {
             "source": 304,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.1
+            "caption": "adult"
         },
         {
             "source": 305,
             "target": 0,
-            "caption": "adult",
-            "rate": 6.5
+            "caption": "adult"
         },
         {
             "source": 306,
             "target": 0,
-            "caption": "adult",
-            "rate": 20.2
+            "caption": "adult"
         },
         {
             "source": 307,
             "target": 0,
-            "caption": "adult",
-            "rate": 33.2
+            "caption": "adult"
         },
         {
             "source": 308,
             "target": 0,
-            "caption": "adult",
-            "rate": 25.8
+            "caption": "adult"
         },
         {
             "source": 309,
             "target": 0,
-            "caption": "adult",
-            "rate": 12.2
+            "caption": "adult"
         },
         {
             "source": 310,
             "target": 0,
-            "caption": "adult",
-            "rate": 39.7
+            "caption": "adult"
         },
         {
             "source": 311,
             "target": 0,
-            "caption": "adult",
-            "rate": 8.4
+            "caption": "adult"
         },
         {
             "source": 312,
             "target": 0,
-            "caption": "adult",
-            "rate": 33.2
+            "caption": "adult"
         },
         {
             "source": 313,
             "target": 0,
-            "caption": "adult",
-            "rate": 26.7
+            "caption": "adult"
         },
         {
             "source": 314,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.9
+            "caption": "adult"
         },
         {
             "source": 315,
             "target": 0,
-            "caption": "adult",
-            "rate": 10.8
+            "caption": "adult"
         },
         {
             "source": 316,
             "target": 0,
-            "caption": "adult",
-            "rate": 13.5
+            "caption": "adult"
         },
         {
             "source": 317,
             "target": 0,
-            "caption": "adult",
-            "rate": 22.2
+            "caption": "adult"
         },
         {
             "source": 318,
             "target": 0,
-            "caption": "adult",
-            "rate": 42.1
+            "caption": "adult"
         },
         {
             "source": 319,
             "target": 0,
-            "caption": "adult",
-            "rate": 35
+            "caption": "adult"
         },
         {
             "source": 320,
             "target": 0,
-            "caption": "adult",
-            "rate": 14.4
+            "caption": "adult"
         },
         {
             "source": 321,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.2
+            "caption": "adult"
         },
         {
             "source": 322,
             "target": 0,
-            "caption": "adult",
-            "rate": 57.6
+            "caption": "adult"
         },
         {
             "source": 323,
             "target": 0,
-            "caption": "adult",
-            "rate": 6.1
+            "caption": "adult"
         },
         {
             "source": 324,
             "target": 0,
-            "caption": "adult",
-            "rate": 21.3
+            "caption": "adult"
         },
         {
             "source": 325,
             "target": 0,
-            "caption": "adult",
-            "rate": 29.4
+            "caption": "adult"
         },
         {
             "source": 326,
             "target": 0,
-            "caption": "adult",
-            "rate": 16.5
+            "caption": "adult"
         },
         {
             "source": 327,
             "target": 0,
-            "caption": "adult",
-            "rate": 137.2
+            "caption": "adult"
         },
         {
             "source": 328,
             "target": 0,
-            "caption": "adult",
-            "rate": 14.8
+            "caption": "adult"
         },
         {
             "source": 329,
             "target": 0,
-            "caption": "adult",
-            "rate": 13.3
+            "caption": "adult"
         },
         {
             "source": 330,
             "target": 0,
-            "caption": "adult",
-            "rate": 55
+            "caption": "adult"
         },
         {
             "source": 331,
             "target": 0,
-            "caption": "adult",
-            "rate": 23.3
+            "caption": "adult"
         },
         {
             "source": 332,
             "target": 0,
-            "caption": "adult",
-            "rate": 20.4
+            "caption": "adult"
         },
         {
             "source": 333,
             "target": 0,
-            "caption": "adult",
-            "rate": 15.2
+            "caption": "adult"
         },
         {
             "source": 334,
             "target": 0,
-            "caption": "adult",
-            "rate": 20.3
+            "caption": "adult"
         },
         {
             "source": 335,
             "target": 0,
-            "caption": "adult",
-            "rate": 16.8
+            "caption": "adult"
         },
         {
             "source": 336,
             "target": 0,
-            "caption": "adult",
-            "rate": 33.6
+            "caption": "adult"
         },
         {
             "source": 337,
             "target": 0,
-            "caption": "adult",
-            "rate": 18.9
+            "caption": "adult"
         },
         {
             "source": 338,
             "target": 0,
-            "caption": "adult",
-            "rate": 18.7
+            "caption": "adult"
         },
         {
             "source": 339,
             "target": 0,
-            "caption": "adult",
-            "rate": 10.5
+            "caption": "adult"
         },
         {
             "source": 340,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.4
+            "caption": "adult"
         },
         {
             "source": 341,
             "target": 0,
-            "caption": "adult",
-            "rate": 33
+            "caption": "adult"
         },
         {
             "source": 342,
             "target": 0,
-            "caption": "adult",
-            "rate": 32.8
+            "caption": "adult"
         },
         {
             "source": 343,
             "target": 0,
-            "caption": "adult",
-            "rate": 13.6
+            "caption": "adult"
         },
         {
             "source": 344,
             "target": 0,
-            "caption": "adult",
-            "rate": 20.2
+            "caption": "adult"
         },
         {
             "source": 345,
             "target": 0,
-            "caption": "adult",
-            "rate": 22.4
+            "caption": "adult"
         },
         {
             "source": 346,
             "target": 0,
-            "caption": "adult",
-            "rate": 13
+            "caption": "adult"
         },
         {
             "source": 347,
             "target": 0,
-            "caption": "adult",
-            "rate": 24.5
+            "caption": "adult"
         },
         {
             "source": 348,
             "target": 0,
-            "caption": "adult",
-            "rate": 14.5
+            "caption": "adult"
         },
         {
             "source": 349,
             "target": 0,
-            "caption": "adult",
-            "rate": 15.2
+            "caption": "adult"
         },
         {
             "source": 350,
             "target": 0,
-            "caption": "adult",
-            "rate": 16.4
+            "caption": "adult"
         },
         {
             "source": 351,
             "target": 0,
-            "caption": "adult",
-            "rate": 21.6
+            "caption": "adult"
         },
         {
             "source": 352,
             "target": 0,
-            "caption": "adult",
-            "rate": 17.1
+            "caption": "adult"
         },
         {
             "source": 353,
             "target": 0,
-            "caption": "adult",
-            "rate": 31.3
+            "caption": "adult"
         },
         {
             "source": 354,
             "target": 0,
-            "caption": "adult",
-            "rate": 19.2
+            "caption": "adult"
         }
     ]
 }
