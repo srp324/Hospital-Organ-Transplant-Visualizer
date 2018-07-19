@@ -10,6 +10,10 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
+        <!-- Bootstrap-select -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.10/lodash.min.js"></script>
         <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/alchemyjs/0.4.2/alchemy.min.css"/>
@@ -19,19 +23,24 @@
     </head>
 
     <body>
-        <div class="ui-field-contain">
-            <select id="choice">
-                <option value="KIDNEY">Kidney</option>
-                <option value="KIDNEY-PANCREAS">Kidney-Pancreas</option>
-                <option value="LUNG">Lung</option>
-                <option value="HEART">Heart</option>
-                <option value="HEART-LUNG">Heart-Lung</option>
-                <option value="INTESTINE">Intestine</option>
-                <option value="LIVER">Liver</option>
-            </select>
-        </div>
-        <input type="button" onclick="render()" value="View!" />
+        <select id="choice" class="selectpicker">
+            <option value="KIDNEY">Kidney</option>
+            <option value="KIDNEY-PANCREAS">Kidney-Pancreas</option>
+            <option value="LUNG">Lung</option>
+            <option value="HEART">Heart</option>
+            <option value="HEART-LUNG">Heart-Lung</option>
+            <option value="INTESTINE">Intestine</option>
+            <option value="LIVER">Liver</option>
+        </select>
+        <button type="button" class="btn btn-primary" onclick="render()">View!</button>
+
         <div class="alchemy" id="alchemy"></div>
+
+        <script>
+            $(document).ready(function () {
+                $('.selectpicker').selectpicker({style: 'btn-success'});
+            });
+        </script>
     </body>
 
 </html>
