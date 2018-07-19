@@ -11,8 +11,6 @@ With this data formatted to a CSV, I imported into a blank Neo4j Sandbox Databas
 
 After the data was scraped and imported into the Neo4j Database, it was time to create the GraphQL server. I defined the GraphQL schema and resolver functions in order to query the Neo4j Database. The last screenshot below shows the output of the Query.allHospitals and Hospital.organs resolvers.
 
-TODO: Finish README and instructions to setup
-
 ## Screenshots
 Glimpse of the Neo4j Database
 ![alt text](https://i.gyazo.com/dd9ef2da322740f7d63582d786096188.png "MATCH (n:Hospital) RETURN n LIMIT 5")
