@@ -25,6 +25,7 @@ class Service extends EventEmitter {
             nodes.push({
                 "id": id,
                 "caption": organ.toUpperCase(),
+                "type": "organ",
                 "root": true
             });
 
