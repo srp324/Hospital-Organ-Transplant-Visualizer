@@ -30,3 +30,9 @@ app.get("/getOrgan", function (req, res) {
   gqlService.getOrgan(req.query.organ);
 });
 
+app.get("/getHospitals", function (req, res) {
+  gqlService.once('resp', function(msg) {
+      res.send(msg);
+  });
+  gqlService.getHospitals();
+});
