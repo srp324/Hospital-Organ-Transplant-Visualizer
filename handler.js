@@ -54,7 +54,8 @@ function renderGraph(data) {
         },
         edgeStyle: {
             "all": {
-                "width": 2
+                "width": 2,
+                "opacity": 0.1,
             }
         }
     };
