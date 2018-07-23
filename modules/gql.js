@@ -50,5 +50,52 @@ class Service extends EventEmitter {
             self.emit('resp', resp); 
         });
     }
+
+    allHospitals() {
+        var URL = 'http://localhost:8080/graphql?query=%7B%0A%20%20allHospitals%20%7B%0A%20%20%20%20name%0A%20%20%20%20transplants%20%7B%0A%20%20%20%20%20%20name%0A%20%20%20%20%20%20rate%0A%20%20%20%20%20%20type%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D'
+        var self = this; 
+
+        request(URL, function (error, response, body) {
+            if (error) {
+                console.log(error);
+            }
+            var json = JSON.parse(body);
+
+            var id = 0;
+            var nodes = [];
+            var edges = [];
+
+            for (var i = 0; i < json.data.allHospitals.length; i++) {
+                var hospId = ++id;
+                var hospName = json.data.allHospitals[i].name;
+
+                nodes.push({
+                    "id": hospId,
+                    "caption": hospName
+                });
+
+                //TODO: Make a [hospital]->[adult]+[pediatric]->[organ] instead of [hospital]->[adult]->[organ] + [hospital]->[pediatric]->[organ]
+                for (var j = 0; j < json.data.allHospitals[i].transplants.length; j++) {
+                    var organId = hospId + j + 1;
+                    nodes.push({
+                        "id": organId,
+                        "caption": json.data.allHospitals[i].transplants[j].name,
+                        "rate": json.data.allHospitals[i].transplants[j].rate,
+                        "type": json.data.allHospitals[i].transplants[j].type
+                    });
+                    edges.push({
+                        "source": hospId,
+                        "target": organId,
+                        "caption": json.data.allHospitals[i].transplants[j].type,
+                    });
+                }
+                id += json.data.allHospitals[i].transplants.length;
+            };
+
+            var resp = {"nodes": nodes, "edges": edges}
+
+            self.emit('resp', resp); 
+        });
+    }
 }
 exports.Service = Service;
