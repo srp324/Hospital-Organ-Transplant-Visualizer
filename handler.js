@@ -1,4 +1,6 @@
-function render() {
+//TODO: Reset alchemy canvas on each function call
+
+function getOrgan() {
     var organChoice = $("#choice option:selected").val();
     var URL = "./getOrgan?organ=" + organChoice
     $.ajax({
@@ -7,9 +9,7 @@ function render() {
         dataType: "text",
         success: function (msg) { //On Success
             var json = JSON.parse(msg);
-
-            renderGraph(json);
-        
+            createOrganGraph(json);
         },
         error: function (jgXHR, textStatus, errorThrown) { //On Error
             alert("Error: " + textStatus + " " + errorThrown);
@@ -17,7 +17,7 @@ function render() {
     });
 }
 
-function renderGraph(data) {
+function createOrganGraph(data) {
     var config = {
         dataSource: data,
         forceLocked: false,
