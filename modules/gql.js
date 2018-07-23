@@ -75,20 +75,54 @@ class Service extends EventEmitter {
                 });
 
                 //TODO: Make a [hospital]->[adult]+[pediatric]->[organ] instead of [hospital]->[adult]->[organ] + [hospital]->[pediatric]->[organ]
+                var organMap = new Map();
                 for (var j = 0; j < json.data.allHospitals[i].transplants.length; j++) {
                     var organId = hospId + j + 1;
-                    nodes.push({
-                        "id": organId,
-                        "caption": json.data.allHospitals[i].transplants[j].name,
-                        "rate": json.data.allHospitals[i].transplants[j].rate,
-                        "type": json.data.allHospitals[i].transplants[j].type
-                    });
-                    edges.push({
-                        "source": hospId,
-                        "target": organId,
-                        "caption": json.data.allHospitals[i].transplants[j].type,
-                    });
+                    var organName = json.data.allHospitals[i].transplants[j].name;
+                    
+                    // nodes.push({
+                    //     "id": organId,
+                    //     "caption": json.data.allHospitals[i].transplants[j].name
+                    // });
+                    // edges.push({
+                    //     "source": hospId,
+                    //     "target": organId,
+                    //     "type": json.data.allHospitals[i].transplants[j].type,
+                    //     "rate": json.data.allHospitals[i].transplants[j].rate
+                    // });
+
+                    if (!organMap.has(organName))
+                        organMap.set(organName, [{
+                            "source": hospId,
+                            "target": organId,
+                            "type": json.data.allHospitals[i].transplants[j].type,
+                            "rate": json.data.allHospitals[i].transplants[j].rate
+                        }]);
+                    else
+                        organMap.get(organName).push({
+                            "source": hospId,
+                            "target": organId,
+                            "type": json.data.allHospitals[i].transplants[j].type,
+                            "rate": json.data.allHospitals[i].transplants[j].rate
+                        });
                 }
+                
+                for (var [key, value] of organMap.entries()) {
+                    nodes.push({
+                        "id": value[0].organId,
+                        "caption": key
+                    })
+
+                    for (var j = 0; j < value.length; j++) {
+                        edges.push({
+                            "source": hospId,
+                            "target": organId,
+                            "type": value[j].type,
+                            "rate": value[j].rate
+                        })
+                    }
+                }
+
                 id += json.data.allHospitals[i].transplants.length;
             };
 
