@@ -107,16 +107,17 @@ class Service extends EventEmitter {
                         });
                 }
                 
+                //Iterate through organMap
                 for (var [key, value] of organMap.entries()) {
                     nodes.push({
-                        "id": value[0].organId,
+                        "id": value[0].target,
                         "caption": key
                     })
 
                     for (var j = 0; j < value.length; j++) {
                         edges.push({
                             "source": hospId,
-                            "target": organId,
+                            "target": value[0].target,
                             "type": value[j].type,
                             "rate": value[j].rate
                         })
