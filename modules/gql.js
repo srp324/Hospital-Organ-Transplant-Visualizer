@@ -71,7 +71,8 @@ class Service extends EventEmitter {
 
                 nodes.push({
                     "id": hospId,
-                    "caption": hospName
+                    "caption": hospName,
+                    "type": "hospital"
                 });
 
                 var organMap = new Map();
@@ -99,7 +100,8 @@ class Service extends EventEmitter {
                 for (var [key, value] of organMap.entries()) {
                     nodes.push({
                         "id": value[0].target,
-                        "caption": key
+                        "caption": key,
+                        "type": "organ"
                     })
 
                     for (var j = 0; j < value.length; j++) {
