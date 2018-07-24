@@ -74,22 +74,10 @@ class Service extends EventEmitter {
                     "caption": hospName
                 });
 
-                //TODO: Make a [hospital]->[adult]+[pediatric]->[organ] instead of [hospital]->[adult]->[organ] + [hospital]->[pediatric]->[organ]
                 var organMap = new Map();
                 for (var j = 0; j < json.data.allHospitals[i].transplants.length; j++) {
                     var organId = hospId + j + 1;
                     var organName = json.data.allHospitals[i].transplants[j].name;
-                    
-                    // nodes.push({
-                    //     "id": organId,
-                    //     "caption": json.data.allHospitals[i].transplants[j].name
-                    // });
-                    // edges.push({
-                    //     "source": hospId,
-                    //     "target": organId,
-                    //     "type": json.data.allHospitals[i].transplants[j].type,
-                    //     "rate": json.data.allHospitals[i].transplants[j].rate
-                    // });
 
                     if (!organMap.has(organName))
                         organMap.set(organName, [{
