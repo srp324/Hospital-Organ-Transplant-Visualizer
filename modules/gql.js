@@ -108,6 +108,7 @@ class Service extends EventEmitter {
                         edges.push({
                             "source": hospId,
                             "target": value[0].target,
+                            "caption": value[j].type + " - " + value[j].rate,
                             "type": value[j].type,
                             "rate": value[j].rate
                         })
