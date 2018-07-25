@@ -24,6 +24,8 @@ function createOrganGraph(data) {
         graphHeight: function () { return 600; },
         graphWidth: function () { return 800; },
         linkDistance: function () { return 40; },
+        initialScale: .5,
+        initialTranslate: [150,125],
         nodeTypes: {
             "type": ["organ", "pediatric", "adult"]
         },
@@ -85,6 +87,8 @@ function createAllHospitalsGraph(data) {
         graphHeight: function () { return 600; },
         graphWidth: function () { return 800; },
         linkDistance: function () { return 60; },
+        initialScale: .75,
+        initialTranslate: [-5,-5],
         nodeTypes: {
             "type": ["hospital", "organ", "pediatric", "adult"]
         },
