@@ -62,6 +62,7 @@ class Service extends EventEmitter {
             var json = JSON.parse(body);
 
             var id = 0;
+            var edgeid = 10000;
             var nodes = [];
             var edges = [];
 
