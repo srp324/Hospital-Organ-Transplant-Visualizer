@@ -88,6 +88,9 @@ function createAllHospitalsGraph(data) {
         nodeTypes: {
             "type": ["hospital", "organ", "pediatric", "adult"]
         },
+        edgeTypes: {
+            "caption": ["pediatric", "adult", "adult,pediatric"]
+        },
         nodeCaption: function (node) {
             return node.caption;
         },
@@ -96,23 +99,21 @@ function createAllHospitalsGraph(data) {
                 "radius": 15,
                 "color": "#de28ff",
                 "borderColor": "#971aad"
-            },
-            
-            "pediatric": {
-                "radius": function (d) { return d.getProperties().rate / 8; },
-                "borderWidth": function (d, radius) { return radius / 5; },
-            },
-            "adult": {
-                "radius": function (d) { return d.getProperties().rate / 8; },
-                "color": "#00ce06",
-                "borderColor": "#009e04",
-                "borderWidth": function (d, radius) { return radius / 5; },
             }
         },
         edgeStyle: {
             "all": {
                 "width": 2,
-                "opacity": 0.1,
+                "opacity": .3
+            },
+            "pediatric": {
+                "color":"#4286f4"
+            },
+            "adult": {
+                "color":"#f44141"
+            },
+            "adult,pediatric": {
+                "color": "#9bf441"
             }
         }
     };

@@ -105,15 +105,18 @@ class Service extends EventEmitter {
                         "type": "organ"
                     })
 
-                    for (var j = 0; j < value.length; j++) {
+                    if (value.length > 1)
                         edges.push({
                             "source": hospId,
                             "target": value[0].target,
-                            "caption": value[j].type + " - " + value[j].rate,
-                            "type": value[j].type,
-                            "rate": value[j].rate
+                            "caption": "adult,pediatric"
                         })
-                    }
+                    else
+                        edges.push({
+                            "source": hospId,
+                            "target": value[0].target,
+                            "caption": value[0].type
+                        })
                 }
 
                 id += json.data.allHospitals[i].transplants.length;
