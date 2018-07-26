@@ -100,7 +100,7 @@ function createAllHospitalsGraph(data) {
         },
         nodeStyle: {
             "hospital": {
-                "radius": 15,
+                "radius": 20,
                 "color": "#de28ff",
                 "borderColor": "#971aad"
             }
