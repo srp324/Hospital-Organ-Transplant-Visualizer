@@ -20,10 +20,14 @@
         <!-- Modified alchemy.js to correct the panning/zooming -->
         <script type="text/javascript" src="./lib/alchemy.js"></script>
 
+        <!-- Autocomplete js/css from W3Schools -->
+        <script type="text/javascript" src="./lib/autocomplete.js"></script>
+        <link rel="stylesheet" href="./lib/autocomplete.css"></link>
+
         <script type="text/javascript" src="handler.js"></script>
     </head>
 
-    <body>
+    <body onload="loadSearch()">
         <select id="choice" class="selectpicker">
             <option value="KIDNEY">Kidney</option>
             <option value="KIDNEY-PANCREAS">Kidney-Pancreas</option>
@@ -38,6 +42,13 @@
         <button type="button" class="btn btn-primary" onclick="getAllHospitals()">All Hospitals!</button>
 
         <div class="alchemy" id="alchemy"></div>
+
+        <form autocomplete="off">
+            <div class="autocomplete" style="width:300px;">
+              <input id="myInput" type="text" name="hospital" placeholder="Search Hospitals">
+            </div>
+            <input type="submit">
+          </form>
 
         <script>
             $(document).ready(function () {

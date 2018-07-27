@@ -4,13 +4,13 @@ var request = require('request'); //the request http wrapper module
 var EventEmitter = require('events').EventEmitter;
 
 class Service extends EventEmitter {
-    constructor() { 
-        super(); 
+    constructor() {
+        super();
     }
 
     getOrgan(organ) {
-        var URL = 'http://localhost:8080/graphql?query=%7B%0A%20%20getOrgan(name%3A"'+ organ.toUpperCase() +'")%20%7B%0A%20%20%20%20hospital%0A%20%20%20%20name%0A%20%20%20%20type%0A%20%20%20%20rate%0A%20%20%20%20volume%0A%20%20%7D%0A%7D'
-        var self = this; 
+        var URL = 'http://localhost:8080/graphql?query=%7B%0A%20%20getOrgan(name%3A"' + organ.toUpperCase() + '")%20%7B%0A%20%20%20%20hospital%0A%20%20%20%20name%0A%20%20%20%20type%0A%20%20%20%20rate%0A%20%20%20%20volume%0A%20%20%7D%0A%7D'
+        var self = this;
 
         request(URL, function (error, response, body) {
             if (error) {
@@ -45,15 +45,15 @@ class Service extends EventEmitter {
                 });
             };
 
-            var resp = {"nodes": nodes, "edges": edges}
+            var resp = { "nodes": nodes, "edges": edges }
 
-            self.emit('resp', resp); 
+            self.emit('resp', resp);
         });
     }
 
     allHospitals() {
         var URL = 'http://localhost:8080/graphql?query=%7B%0A%20%20allHospitals%20%7B%0A%20%20%20%20name%0A%20%20%20%20transplants%20%7B%0A%20%20%20%20%20%20name%0A%20%20%20%20%20%20rate%0A%20%20%20%20%20%20type%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D'
-        var self = this; 
+        var self = this;
 
         request(URL, function (error, response, body) {
             if (error) {
@@ -95,7 +95,7 @@ class Service extends EventEmitter {
                             "rate": json.data.allHospitals[i].transplants[j].rate
                         });
                 }
-                
+
                 //Iterate through organMap
                 for (var [key, value] of organMap.entries()) {
                     nodes.push({
@@ -121,9 +121,30 @@ class Service extends EventEmitter {
                 id += json.data.allHospitals[i].transplants.length;
             };
 
-            var resp = {"nodes": nodes, "edges": edges}
+            var resp = { "nodes": nodes, "edges": edges }
 
-            self.emit('resp', resp); 
+            self.emit('resp', resp);
+        });
+    }
+
+    loadSearch() {
+        var URL = 'http://localhost:8080/graphql?query=%7B%0A%20%20allHospitals%20%7B%0A%20%20%20%20name%0A%20%20%7D%0A%7D'
+        var self = this;
+
+        request(URL, function (error, response, body) {
+            if (error) {
+                console.log(error);
+            }
+
+            var json = JSON.parse(body);
+
+            var allHospitals = json.data.allHospitals;
+            var names = [];
+            allHospitals.forEach(element => {
+                names[allHospitals.indexOf(element)] = element.name;
+            });
+
+            self.emit('resp', { "names": names });
         });
     }
 }

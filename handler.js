@@ -25,12 +25,12 @@ function createOrganGraph(data) {
         graphWidth: function () { return 800; },
         linkDistance: function () { return 40; },
         initialScale: .5,
-        initialTranslate: [150,125],
+        initialTranslate: [150, 125],
         nodeTypes: {
             "type": ["organ", "pediatric", "adult"]
         },
         nodeCaption: function (node) {
-            if(node.rate)
+            if (node.rate)
                 return node.caption + "-" + node.rate;
             else
                 return node.caption;
@@ -61,7 +61,7 @@ function createOrganGraph(data) {
             }
         }
     };
-    
+
     alchemy = new Alchemy(config);
 }
 
@@ -88,7 +88,7 @@ function createAllHospitalsGraph(data) {
         graphWidth: function () { return 800; },
         linkDistance: function () { return 60; },
         initialScale: .75,
-        initialTranslate: [-5,-5],
+        initialTranslate: [-5, -5],
         nodeTypes: {
             "type": ["hospital", "organ", "pediatric", "adult"]
         },
@@ -111,16 +111,32 @@ function createAllHospitalsGraph(data) {
                 "opacity": .3
             },
             "pediatric": {
-                "color":"#4286f4"
+                "color": "#4286f4"
             },
             "adult": {
-                "color":"#f44141"
+                "color": "#f44141"
             },
             "adult,pediatric": {
                 "color": "#9bf441"
             }
         }
     };
-    
+
     alchemy = new Alchemy(config);
+}
+
+function loadSearch() {
+    $.ajax({
+        type: "GET",
+        url: "./loadSearch",
+        dataType: "text",
+        success: function (msg) { //On Success
+            var json = JSON.parse(msg);
+            var hospitals = json.names;
+            autocomplete(document.getElementById("myInput"), hospitals);
+        },
+        error: function (jgXHR, textStatus, errorThrown) { //On Error
+            alert("Error: " + textStatus + " " + errorThrown);
+        }
+    });
 }

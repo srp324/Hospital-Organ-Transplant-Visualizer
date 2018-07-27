@@ -24,15 +24,23 @@ app.listen(GRAPHQL_PORT, () =>
 );
 
 app.get("/getOrgan", function (req, res) {
-  gqlService.once('resp', function(msg) {
-      res.send(msg);
+  gqlService.once('resp', function (msg) {
+    res.send(msg);
   });
   gqlService.getOrgan(req.query.organ);
 });
 
 app.get("/allHospitals", function (req, res) {
-  gqlService.once('resp', function(msg) {
-      res.send(msg);
+  gqlService.once('resp', function (msg) {
+    res.send(msg);
   });
   gqlService.allHospitals();
 });
+
+app.get("/loadSearch", function (req, res) {
+  gqlService.once('resp', function (msg) {
+    res.send(msg);
+  });
+  gqlService.loadSearch();
+});
+
