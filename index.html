@@ -55,7 +55,7 @@
 
                 <div class="col-sm-4">
                     <h3>Visualize a Hospital's Transplants</h3>
-                    <form autocomplete="off">
+                    <form id="searchForm" autocomplete="off" onsubmit="searchHospital()">
                         <div class="autocomplete text-left" style="width:300px;">
                             <input id="myInput" type="text" name="hospital" placeholder="Search Hospitals">
                         </div>
@@ -87,6 +87,10 @@
         <script>
             $(document).ready(function () {
                 $('.selectpicker').selectpicker({style: 'btn-success'});
+            });
+
+            $("#searchForm").submit(function (e) {
+                e.preventDefault();
             });
         </script>
 
