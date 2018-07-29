@@ -140,3 +140,22 @@ function loadSearch() {
         }
     });
 }
+
+function searchHospital() {
+    var hospName = $("#myInput").val();
+    var URL = "./getHospital?name=" + hospName
+    
+    $.ajax({
+        type: "GET",
+        url: URL,
+        dataType: "text",
+        success: function (msg) { //On Success
+            var json = JSON.parse(msg);
+            //createGetHospitalsGraph(json);
+            console.log(json);
+        },
+        error: function (jgXHR, textStatus, errorThrown) { //On Error
+            alert("Error: " + textStatus + " " + errorThrown);
+        }
+    });
+}
