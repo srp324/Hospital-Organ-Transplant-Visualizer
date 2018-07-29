@@ -151,7 +151,7 @@ function searchHospital() {
         dataType: "text",
         success: function (msg) { //On Success
             var json = JSON.parse(msg);
-            //createGetHospitalsGraph(json);
+            //TODO: createGetHospitalsGraph(json);
             console.log(json);
         },
         error: function (jgXHR, textStatus, errorThrown) { //On Error

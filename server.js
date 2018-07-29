@@ -37,6 +37,13 @@ app.get("/allHospitals", function (req, res) {
   gqlService.allHospitals();
 });
 
+app.get("/getHospital", function (req, res) {
+  gqlService.once('resp', function (msg) {
+    res.send(msg);
+  });
+  gqlService.getHospital(req.query.name);
+});
+
 app.get("/loadSearch", function (req, res) {
   gqlService.once('resp', function (msg) {
     res.send(msg);

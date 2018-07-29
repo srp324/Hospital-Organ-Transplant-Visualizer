@@ -127,6 +127,49 @@ class Service extends EventEmitter {
         });
     }
 
+    getHospital(hospName) {
+        var URL = 'http://localhost:8080/graphql?query=%7B%0A%20%20getHospital(name%3A%20%22' + hospName + '%22)%7B%0A%20%20%20%20name%0A%20%20%20%20transplants%20%7B%0A%20%20%20%20%20%20name%0A%20%20%20%20%20%20type%0A%20%20%20%20%20%20rate%0A%20%20%20%20%20%20volume%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D'
+        var self = this;
+
+        request(URL, function (error, response, body) {
+            if (error) {
+                console.log(error);
+            }
+            var json = JSON.parse(body);
+            var transplants = json.data.getHospital[0].transplants;
+
+            var id = 0;
+            var nodes = [];
+            var edges = [];
+
+            nodes.push({
+                "id": id,
+                "caption": json.data.getHospital[0].name,
+                "type": "hospital",
+                "root": true
+            });
+
+            for (var i = 0; i < transplants.length; i++) {
+                nodes.push({
+                    "id": ++id,
+                    "caption": transplants[i].name,
+                    "rate": transplants[i].rate,
+                    "type": transplants[i].type
+                });
+                edges.push({
+                    "source": id,
+                    "target": 0,
+                    "caption": transplants[i].type + ": " + transplants[i].rate,
+                    "type": transplants[i].type
+                });
+            };
+
+            var resp = { "nodes": nodes, "edges": edges }
+
+            self.emit('resp', resp);
+        });
+    }
+
     loadSearch() {
         var URL = 'http://localhost:8080/graphql?query=%7B%0A%20%20allHospitals%20%7B%0A%20%20%20%20name%0A%20%20%7D%0A%7D'
         var self = this;
