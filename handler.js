@@ -57,7 +57,7 @@ function createOrganGraph(data) {
         edgeStyle: {
             "all": {
                 "width": 2,
-                "opacity": 0.1,
+                "opacity": 0.1
             }
         }
     };
@@ -111,13 +111,22 @@ function createAllHospitalsGraph(data) {
                 "opacity": .3
             },
             "pediatric": {
-                "color": "#4286f4"
+                "color": "#4286f4",
+                "highlighted": {
+                    "width": 4
+                }
             },
             "adult": {
-                "color": "#f44141"
+                "color": "#f44141",
+                "highlighted": {
+                    "width": 4
+                }
             },
             "adult,pediatric": {
-                "color": "#9bf441"
+                "color": "#9bf441",
+                "highlighted": {
+                    "width": 4
+                }
             }
         }
     };
@@ -182,9 +191,11 @@ function createGetHospitalGraph(data) {
                 "borderColor": "#971aad"
             },
             "pediatric": {
+                "radius": 15,
                 "color": "#4286f4"
             },
             "adult": {
+                "radius": 15,
                 "color": "#f44141",
                 "borderColor": "#ad2222"
             }
@@ -195,13 +206,16 @@ function createGetHospitalGraph(data) {
                 "opacity": .3
             },
             "pediatric": {
-                "color": "#4286f4"
+                "color": "#4286f4",
+                "highlighted": {
+                    "width": 4
+                }
             },
             "adult": {
-                "color": "#f44141"
-            },
-            "adult,pediatric": {
-                "color": "#9bf441"
+                "color": "#f44141",
+                "highlighted": {
+                    "width": 4
+                }
             }
         }
     };
