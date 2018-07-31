@@ -151,11 +151,61 @@ function searchHospital() {
         dataType: "text",
         success: function (msg) { //On Success
             var json = JSON.parse(msg);
-            //TODO: createGetHospitalsGraph(json);
+            createGetHospitalGraph(json);
             console.log(json);
         },
         error: function (jgXHR, textStatus, errorThrown) { //On Error
             alert("Error: " + textStatus + " " + errorThrown);
         }
     });
+}
+
+function createGetHospitalGraph(data) {
+    var config = {
+        dataSource: data,
+        forceLocked: false,
+        graphHeight: function () { return 600; },
+        graphWidth: function () { return 800; },
+        linkDistance: function () { return 100; },
+        nodeTypes: {
+            "type": ["hospital", "pediatric", "adult"]
+        },
+        edgeTypes: {
+            "type": ["pediatric", "adult"]
+        },
+        nodeCaption: function (node) {
+            return node.caption;
+        },
+        nodeStyle: {
+            "hospital": {
+                "radius": 20,
+                "color": "#de28ff",
+                "borderColor": "#971aad"
+            },
+            "pediatric": {
+                "color": "#4286f4"
+            },
+            "adult": {
+                "color": "#f44141",
+                "borderColor": "#ad2222"
+            }
+        },
+        edgeStyle: {
+            "all": {
+                "width": 2,
+                "opacity": .3
+            },
+            "pediatric": {
+                "color": "#4286f4"
+            },
+            "adult": {
+                "color": "#f44141"
+            },
+            "adult,pediatric": {
+                "color": "#9bf441"
+            }
+        }
+    };
+
+    alchemy = new Alchemy(config);
 }
