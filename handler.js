@@ -152,7 +152,6 @@ function searchHospital() {
         success: function (msg) { //On Success
             var json = JSON.parse(msg);
             createGetHospitalGraph(json);
-            console.log(json);
         },
         error: function (jgXHR, textStatus, errorThrown) { //On Error
             alert("Error: " + textStatus + " " + errorThrown);
