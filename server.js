@@ -23,6 +23,8 @@ app.listen(GRAPHQL_PORT, () =>
   )
 );
 
+//TODO: allOrgans
+
 app.get("/getOrgan", function (req, res) {
   gqlService.once('resp', function (msg) {
     res.send(msg);
