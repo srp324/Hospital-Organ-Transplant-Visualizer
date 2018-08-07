@@ -23,7 +23,7 @@ app.listen(GRAPHQL_PORT, () =>
   )
 );
 
-//TODO: allOrgans
+//TODO: allOrgans and clustering
 
 app.get("/getOrgan", function (req, res) {
   gqlService.once('resp', function (msg) {
