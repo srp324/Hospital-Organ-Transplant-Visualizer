@@ -2,7 +2,7 @@
 A Neo4j backed GraphQL API providing hospital organ transplant data.
 
 ## Motivation
-This was just a personal project to feed my curiosity around graph databases and a little bit of web scraping. It was nice to get my mind around graph database schemas and visualizing different relationships in data when simply looking at a CSV file. I decided to use GraphQL to query the Neo4j Database after it was set up. When I stumbled across the SRTR hospital organ transplant page, I thought it would be convenient to set up a graph database for the information since the hospital's are involved with multiple organ transplants, each with their own rate and volume as well as for adults and pediatric patients, which can be seen modeled in the screenshots below.
+This was just a personal project to feed my curiosity around graph databases, a little bit of web scraping, and full stack operations. It was nice to get my mind around graph database schemas and visualizing different relationships in data when simply looking at a CSV file. I decided to use GraphQL to query the Neo4j Database after it was set up. When I stumbled across the SRTR hospital organ transplant page, I thought it would be convenient to set up a graph database for the information since the hospital's are involved with multiple organ transplants, each with their own rate and volume for both adult and pediatric patients, which can be seen modeled in the screenshots below.
 
 ## Process
 I scraped the data from https://www.srtr.org/transplant-centers/. The code for this is contained within the `neo4jscrape` branch.
@@ -11,7 +11,7 @@ With this data formatted to a CSV, I imported into a blank Neo4j Sandbox Databas
 
 After the data was scraped and imported into the Neo4j Database, it was time to create the GraphQL server. I defined the GraphQL schema and resolver functions within `/api/resolvers.js` in order to query the Neo4j Database. 
 
-I also made an EventEmitter module within `/modules/gql.js` that would interact with the GraphQL server in order to query the Neo4j Database and return a GraphJSON formatted response. This GraphJSON response is then used within `handler.js` to create the Alchemy.js graphs shown on the front end.
+Then it was time to connect the GraphQL responses with the rest of the stack. I made an EventEmitter module within `/modules/gql.js` that would interact with the GraphQL server in order to query the Neo4j Database and return a GraphJSON formatted response. This GraphJSON response is then used within `handler.js` to create the Alchemy.js graphs, which are then rendered on to the front end.
 
 ## Screenshots
 Glimpse of the Neo4j Database Models
