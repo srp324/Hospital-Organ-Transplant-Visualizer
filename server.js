@@ -1,20 +1,16 @@
-//Import and initialization
 import express from 'express';
-import request from 'request';
-import cheerio from 'cheerio';
-import { graphqlExpress, graphiqlExpress } from 'apollo-server-express';
 import bodyParser from 'body-parser';
+import { graphqlExpress, graphiqlExpress } from 'apollo-server-express';
 import schema from './api/schema';
-
-const GRAPHQL_PORT = 8080;
+import gql from './modules/gql';
 
 var app = express();
-var gql = require('./modules/gql');
-var gqlService = new gql.Service();
-
 app.use(express.static("."));
 app.use('/graphql', bodyParser.json(), graphqlExpress({ schema }));
 app.use('/graphiql', graphiqlExpress({ endpointURL: '/graphql' }));
+
+const GRAPHQL_PORT = 8080;
+var gqlService = new gql.Service();
 
 app.listen(GRAPHQL_PORT, () =>
   console.log(
@@ -23,8 +19,7 @@ app.listen(GRAPHQL_PORT, () =>
   )
 );
 
-//TODO: allOrgans and clustering
-
+//Returns a single organ and all the hospitals that transplants the organ in a GraphJSON format
 app.get("/getOrgan", function (req, res) {
   gqlService.once('resp', function (msg) {
     res.send(msg);
@@ -32,6 +27,7 @@ app.get("/getOrgan", function (req, res) {
   gqlService.getOrgan(req.query.organ);
 });
 
+//Returns all the hospitals and its organs and transplants in a GraphJSON format
 app.get("/allHospitals", function (req, res) {
   gqlService.once('resp', function (msg) {
     res.send(msg);
@@ -39,6 +35,7 @@ app.get("/allHospitals", function (req, res) {
   gqlService.allHospitals();
 });
 
+//Gets a single hospital and the organs that the hospital transplants in a GraphJSON format
 app.get("/getHospital", function (req, res) {
   gqlService.once('resp', function (msg) {
     res.send(msg);
@@ -46,6 +43,7 @@ app.get("/getHospital", function (req, res) {
   gqlService.getHospital(req.query.name);
 });
 
+//Loads the search results based on the hospitals in the Neo4j Database
 app.get("/loadSearch", function (req, res) {
   gqlService.once('resp', function (msg) {
     res.send(msg);
