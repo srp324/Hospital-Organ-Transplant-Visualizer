@@ -1,4 +1,6 @@
 # Hospital Organ Transplant Visualizer
+![alt text](https://i.gyazo.com/5714877cf68881f65f5a7f0d3b5ab6cd.png "MATCH (n:Hospital) RETURN n LIMIT 5")
+
 A Neo4j backed GraphQL API providing hospital organ transplant data to visualize.
 
 ## Motivation
@@ -26,6 +28,3 @@ Glimpse of the GraphiQL IDE querying the Neo4j Database
 
 Glimpse of the graph generated with Alchemy.js using the GraphJSON formatted response for the `getOrgan(name:"KIDNEY") { hospital name type rate }` query
 ![alt text](https://i.gyazo.com/ef13507a423d7e75868002e669786443.png "Created using Alchemy.js. Node's radius based on transplant rate.")
-
-Glimpse of the homepage
-![alt text](https://i.gyazo.com/5714877cf68881f65f5a7f0d3b5ab6cd.png "MATCH (n:Hospital) RETURN n LIMIT 5")
